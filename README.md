@@ -1,4 +1,5 @@
-# Degradation
+# A Survey on Degraded Image Segmentation
+
 ## 1. Domain Adaptation & Generalization (DA/DG)			
 ### 1.1 Adversarial Learning Approaches
 |Method|Title|Paper|Code|Issue/Meeting|Year|Bibtex|Dataset|
