@@ -1,0 +1,10 @@
+@ARTICLE{2025zf,
+  author = {Zhang, Fan and You, Shaodi and Li, Yu and Fu, Ying},
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  title = {Learning Rain Location Prior for Nighttime Deraining and Beyond},
+  year = {2025},
+  volume = {47},
+  number = {10},
+  pages = {9169-9186},
+  doi = {10.1109/iccv51070.2023.01209 },
+}

@@ -1,0 +1,6 @@
+@inproceedings{li2017FCIS,
+  title = {Fully convolutional instance-aware semantic segmentation},
+  author = {Li, Yi and Qi, Haozhi and Dai, Jifeng and Ji, Xiangyang and Wei, Yichen},
+  pages = {2359--2367},
+  year = {2017},
+}

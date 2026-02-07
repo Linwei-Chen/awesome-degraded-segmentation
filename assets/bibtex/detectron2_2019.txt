@@ -1,0 +1,5 @@
+@misc{detectron2_2019,
+  title = {Detectron2},
+  author = {Wu, Yuxin and Kirillov, Alexander and Massa, Francisco and Lo, Wan-Yen and Girshick, Ross},
+  year = {2019},
+}

@@ -1,0 +1,8 @@
+@inproceedings{bui2020deep,
+  title = {Deep Learning Based Semantic Segmentation for Nighttime Image},
+  author = {Bui, Hien TT and Le, Duy H and Nguyen, Thu TA and Pham, Tuan V},
+  booktitle = {2020 5th International Conference on Green Technology and Sustainable Development},
+  pages = {466--471},
+  year = {2020},
+  organization = {IEEE},
+}

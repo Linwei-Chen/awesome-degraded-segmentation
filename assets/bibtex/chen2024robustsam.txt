@@ -1,0 +1,7 @@
+@inproceedings{chen2024robustsam,
+  title = {RobustSAM: Segment Anything Robustly on Degraded Images},
+  author = {Chen, Wei-Ting and Vong, Yu-Jiet and Kuo, Sy-Yen and Ma, Sizhou and Wang, Jian},
+  pages = {4081--4091},
+  year = {2024},
+  doi = {10.1109/cvpr52733.2024.00391 },
+}

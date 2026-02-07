@@ -1,0 +1,10 @@
+@article{lin2024ddfl,
+  title = {DDFL: Dual-Domain Feature Learning for nighttime semantic segmentation},
+  author = {Lin, Xiao and Tan, Peiwen and Wang, Zhengkai and Ma, Lizhuang and Li, Yan},
+  journal = {Displays},
+  volume = {83},
+  pages = {102685},
+  year = {2024},
+  publisher = {Elsevier},
+  doi = {10.1016/j.displa.2024.102685 },
+}

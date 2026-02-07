@@ -1,0 +1,6 @@
+@inproceedings{sapa,
+  title = {SAPA: Similarity-Aware Point Affiliation for Feature Upsampling},
+  author = {Lu, Hao and Liu, Wenze and Ye, Zixuan and Fu, Hongtao and Liu, Yuliang and Cao, Zhiguo},
+  pages = {1--12},
+  year = {2022},
+}

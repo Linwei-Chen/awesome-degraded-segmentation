@@ -1,0 +1,6 @@
+@inproceedings{2022maximizing,
+  title = {Maximizing cosine similarity between spatial features for unsupervised domain adaptation in semantic segmentation},
+  author = {Chung, Inseop and Kim, Daesik and Kwak, Nojun},
+  pages = {1351--1360},
+  year = {2022},
+}

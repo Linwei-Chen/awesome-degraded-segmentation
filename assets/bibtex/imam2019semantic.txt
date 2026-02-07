@@ -1,0 +1,8 @@
+@inproceedings{imam2019semantic,
+  title = {Semantic segmentation under severe imaging conditions},
+  author = {Imam, Hoda and Abdullah, Bassem A and Abd El Munim, Hossam E},
+  booktitle = {2019 Digital Image Computing: Techniques and Applications},
+  pages = {1--7},
+  year = {2019},
+  organization = {IEEE},
+}

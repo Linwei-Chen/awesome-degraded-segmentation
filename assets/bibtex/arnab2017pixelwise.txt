@@ -1,0 +1,6 @@
+@inproceedings{arnab2017pixelwise,
+  title = {Pixelwise instance segmentation with a dynamically instantiated network},
+  author = {Arnab, Anurag and Torr, Philip HS},
+  pages = {441--450},
+  year = {2017},
+}

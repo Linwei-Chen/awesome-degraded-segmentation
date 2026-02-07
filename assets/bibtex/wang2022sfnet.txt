@@ -1,0 +1,10 @@
+@article{wang2022sfnet,
+  title = {SFNet-N: An improved SFNet algorithm for semantic segmentation of low-light autonomous driving road scenes},
+  author = {Wang, Hai and Chen, Yanyan and Cai, Yingfeng and Chen, Long and Li, Yicheng and Sotelo, Miguel Angel and Li, Zhixiong},
+  journal = {IEEE Transactions on Intelligent Transportation Systems},
+  volume = {23},
+  number = {11},
+  pages = {21405--21417},
+  year = {2022},
+  publisher = {IEEE},
+}

@@ -1,0 +1,6 @@
+@inproceedings{2019panoptic,
+  title = {Panoptic segmentation},
+  author = {Kirillov, Alexander and He, Kaiming and Girshick, Ross and Rother, Carsten and Doll{\'a}r, Piotr},
+  pages = {9404--9413},
+  year = {2019},
+}

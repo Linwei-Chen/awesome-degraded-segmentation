@@ -1,0 +1,9 @@
+@article{lateef2019survey,
+  title = {Survey on semantic segmentation using deep learning techniques},
+  author = {Lateef, Fahad and Ruichek, Yassine},
+  journal = {Neurocomputing},
+  volume = {338},
+  pages = {321--348},
+  year = {2019},
+  publisher = {Elsevier},
+}

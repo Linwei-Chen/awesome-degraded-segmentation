@@ -1,0 +1,6 @@
+@inproceedings{2021rethinking,
+  title = {Rethinking bisenet for real-time semantic segmentation},
+  author = {Fan, Mingyuan and Lai, Shenqi and Huang, Junshi and Wei, Xiaoming and Chai, Zhenhua and Luo, Junfeng and Wei, Xiaolin},
+  pages = {9716--9725},
+  year = {2021},
+}

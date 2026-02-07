@@ -1,0 +1,6 @@
+@article{lam2018xview,
+  title = {xview: Objects in context in overhead imagery},
+  author = {Lam, Darius and Kuzma, Richard and McGee, Kevin and Dooley, Samuel and Laielli, Michael and Klaric, Matthew and Bulatov, Yaroslav and McCord, Brendan},
+  journal = {arXiv preprint arXiv:1802.07856},
+  year = {2018},
+}

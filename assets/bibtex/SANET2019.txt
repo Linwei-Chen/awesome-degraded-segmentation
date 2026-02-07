@@ -1,0 +1,6 @@
+@article{SANET2019,
+  title = {Squeeze-and-Attention Networks for Semantic Segmentation},
+  author = {Zhong, Zilong and Lin, Zhong Qiu and Bidart, Rene and Hu, Xiaodan and Daya, Ibrahim Ben and Li, Jonathan and Wong, Alexander},
+  journal = {arXiv preprint arXiv:1909.03402},
+  year = {2019},
+}

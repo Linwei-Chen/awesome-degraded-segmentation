@@ -1,0 +1,10 @@
+@article{erten2023semantic,
+  title = {Semantic Segmentation with High-Resolution Sentinel-1 SAR Data},
+  author = {Erten, Hakan and Bostanci, Erkan and Acici, Koray and Guzel, Mehmet Serdar and Asuroglu, Tunc and Aydin, Ayhan},
+  journal = {Applied Sciences},
+  volume = {13},
+  number = {10},
+  pages = {6025},
+  year = {2023},
+  publisher = {MDPI},
+}

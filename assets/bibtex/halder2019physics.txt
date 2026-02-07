@@ -1,0 +1,6 @@
+@inproceedings{halder2019physics,
+  title = {Physics-based rendering for improving robustness to rain},
+  pages = {10203--10212},
+  year = {2019},
+  doi = {10.1109/iccv.2019.01030 },
+}

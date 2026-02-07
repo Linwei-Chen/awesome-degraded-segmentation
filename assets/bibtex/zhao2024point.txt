@@ -1,0 +1,7 @@
+@article{zhao2024point,
+  title = {Point based weakly supervised deep learning for semantic segmentation of remote sensing images},
+  author = {Zhao, Yuanhao and Sun, Genyun and Ling, Ziyan and Zhang, Aizhu and Jia, Xiuping},
+  journal = {IEEE Transactions on Geoscience and Remote Sensing},
+  year = {2024},
+  publisher = {IEEE},
+}

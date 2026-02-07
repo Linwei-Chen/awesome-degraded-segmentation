@@ -1,0 +1,5 @@
+@inproceedings{Ros_2016_CVPR,
+  Author = {German Ros and Laura Sellart and Joanna Materzynska and David Vazquez and Antonio M. Lopez},
+  Title = {The {SYNTHIA} Dataset: A Large Collection of Synthetic Images for Semantic Segmentation of Urban Scenes},
+  Year = {2016},
+}

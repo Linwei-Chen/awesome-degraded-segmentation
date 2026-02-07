@@ -1,0 +1,6 @@
+@article{adversarial2018,
+  title = {Adversarial learning for semi-supervised semantic segmentation},
+  author = {Hung, Wei-Chih and Tsai, Yi-Hsuan and Liou, Yan-Ting and Lin, Yen-Yu and Yang, Ming-Hsuan},
+  journal = {arXiv preprint arXiv:1802.07934},
+  year = {2018},
+}

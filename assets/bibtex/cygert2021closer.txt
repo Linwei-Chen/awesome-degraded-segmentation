@@ -1,0 +1,8 @@
+@inproceedings{cygert2021closer,
+  title = {Closer look at the uncertainty estimation in semantic segmentation under distributional shift},
+  author = {Cygert, Sebastian and Wr{\'o}blewski, Bart{\l}omiej and Wo{\'z}niak, Karol and S{\l}owi{\'n}ski, Rados{\l}aw and Czy{\.z}ewski, Andrzej},
+  booktitle = {2021 International Joint Conference on Neural Networks},
+  pages = {1--8},
+  year = {2021},
+  organization = {IEEE},
+}

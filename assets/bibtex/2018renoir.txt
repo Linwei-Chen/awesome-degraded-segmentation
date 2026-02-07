@@ -1,0 +1,9 @@
+@article{2018renoir,
+  title = {Renoir--a dataset for real low-light image noise reduction},
+  author = {Anaya, Josue and Barbu, Adrian},
+  journal = {Journal of Visual Communication and Image Representation},
+  volume = {51},
+  pages = {144--154},
+  year = {2018},
+  publisher = {Elsevier},
+}

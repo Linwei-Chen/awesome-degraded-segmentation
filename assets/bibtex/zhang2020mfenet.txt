@@ -1,0 +1,9 @@
+@article{zhang2020mfenet,
+  title = {MFENet: Multi-level feature enhancement network for real-time semantic segmentation},
+  author = {Zhang, Boxiang and Li, Wenhui and Hui, Yuming and Liu, Jiayun and Guan, Yuanyuan},
+  journal = {Neurocomputing},
+  volume = {393},
+  pages = {54--65},
+  year = {2020},
+  publisher = {Elsevier},
+}

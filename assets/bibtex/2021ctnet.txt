@@ -1,0 +1,9 @@
+@article{2021ctnet,
+  title = {CTNet: Context-based tandem network for semantic segmentation},
+  author = {Li, Zechao and Sun, Yanpeng and Zhang, Liyan and Tang, Jinhui},
+  volume = {44},
+  number = {12},
+  pages = {9904--9917},
+  year = {2021},
+  publisher = {IEEE},
+}

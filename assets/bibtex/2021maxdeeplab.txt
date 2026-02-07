@@ -1,0 +1,6 @@
+@inproceedings{2021maxdeeplab,
+  title = {Max-deeplab: End-to-end panoptic segmentation with mask transformers},
+  author = {Wang, Huiyu and Zhu, Yukun and Adam, Hartwig and Yuille, Alan and Chen, Liang-Chieh},
+  pages = {5463--5474},
+  year = {2021},
+}

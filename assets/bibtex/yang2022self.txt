@@ -1,0 +1,9 @@
+@inproceedings{yang2022self,
+  title = {Self-feature distillation with uncertainty modeling for degraded image recognition},
+  author = {Yang, Zhou and Dong, Weisheng and Li, Xin and Wu, Jinjian and Li, Leida and Shi, Guangming},
+  booktitle = {European Conference on Computer Vision},
+  pages = {552--569},
+  year = {2022},
+  organization = {Springer},
+  doi = {10.1007/978-3-031-20053-3_32 },
+}

@@ -1,0 +1,7 @@
+@InProceedings{2021DeamNet,
+  author = {Ren, Chao and He, Xiaohai and Wang, Chuncheng and Zhao, Zhibo},
+  title = {Adaptive Consistency Prior Based Deep Network for Image Denoising},
+  month = {June},
+  year = {2021},
+  pages = {8596-8606},
+}

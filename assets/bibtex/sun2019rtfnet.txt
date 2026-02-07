@@ -1,0 +1,11 @@
+@article{sun2019rtfnet,
+  title = {RTFNet: RGB-thermal fusion network for semantic segmentation of urban scenes},
+  author = {Sun, Yuxiang and Zuo, Weixun and Liu, Ming},
+  journal = {IEEE Robotics and Automation Letters},
+  volume = {4},
+  number = {3},
+  pages = {2576--2583},
+  year = {2019},
+  publisher = {IEEE},
+  doi = {10.1109/lra.2019.2904733 },
+}

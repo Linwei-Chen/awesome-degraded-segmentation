@@ -1,0 +1,7 @@
+@inproceedings{gong2017motion,
+  title = {From motion blur to motion flow: A deep learning solution for removing heterogeneous motion blur},
+  author = {Gong, Dong and Yang, Jie and Liu, Lingqiao and Zhang, Yanning and Reid, Ian and Shen, Chunhua and Van Den Hengel, Anton and Shi, Qinfeng},
+  pages = {2319--2328},
+  year = {2017},
+  doi = {10.1109/cvpr.2017.405 },
+}

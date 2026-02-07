@@ -1,0 +1,9 @@
+@article{cruz2023novel,
+  title = {A novel comparison of image semantic segmentation techniques for detecting dust in photovoltaic panels using machine learning and deep learning},
+  author = {Cruz-Rojas, Tonatiuh and Franco, Jesus Alejandro and Hernandez-Escobedo, Quetzalcoatl and Ruiz-Robles, Dante and Juarez-Lopez, Jose Manuel},
+  journal = {Renewable Energy},
+  volume = {217},
+  pages = {119126},
+  year = {2023},
+  publisher = {Elsevier},
+}

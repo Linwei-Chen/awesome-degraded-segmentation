@@ -1,0 +1,9 @@
+@article{zhang2024rainy,
+  title = {Rainy day image semantic segmentation based on two-stage progressive network},
+  author = {Zhang, Heng and Jia, Dongli and Ma, Hui},
+  journal = {The Visual Computer},
+  pages = {1--12},
+  year = {2024},
+  publisher = {Springer},
+  doi = {10.1007/s00371-024-03287-5  },
+}

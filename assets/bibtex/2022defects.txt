@@ -1,0 +1,6 @@
+@article{2022defects,
+  title = {Defects of convolutional decoder networks in frequency representation},
+  author = {Tang, Ling and Shen, Wen and Zhou, Zhanpeng and Chen, Yuefeng and Zhang, Quanshi},
+  journal = {arXiv preprint arXiv:2210.09020},
+  year = {2022},
+}

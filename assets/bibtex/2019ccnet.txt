@@ -1,0 +1,6 @@
+@inproceedings{2019ccnet,
+  title = {Ccnet: Criss-cross attention for semantic segmentation},
+  author = {Huang, Zilong and Wang, Xinggang and Huang, Lichao and Huang, Chang and Wei, Yunchao and Liu, Wenyu},
+  pages = {603--612},
+  year = {2019},
+}

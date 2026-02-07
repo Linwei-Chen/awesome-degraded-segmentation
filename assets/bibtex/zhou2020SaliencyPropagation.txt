@@ -1,0 +1,6 @@
+@inproceedings{zhou2020SaliencyPropagation,
+  title = {Learning Saliency Propagation for Semi-Supervised Instance Segmentation},
+  author = {Zhou, Yanzhao and Wang, Xin and Jiao, Jianbin and Darrell, Trevor and Yu, Fisher},
+  pages = {10307--10316},
+  year = {2020},
+}

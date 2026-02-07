@@ -1,0 +1,10 @@
+@article{iqbal2022fogadapt,
+  title = {FogAdapt: Self-supervised domain adaptation for semantic segmentation of foggy images},
+  author = {Iqbal, Javed and Hafiz, Rehan and Ali, Mohsen},
+  journal = {Neurocomputing},
+  volume = {501},
+  pages = {844--856},
+  year = {2022},
+  publisher = {Elsevier},
+  doi = {10.1016/j.neucom.2022.05.086 },
+}

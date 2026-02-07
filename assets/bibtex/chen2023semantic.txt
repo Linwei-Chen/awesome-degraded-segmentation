@@ -1,0 +1,6 @@
+@inproceedings{chen2023semantic,
+  title = {When Semantic Segmentation Meets Frequency Aliasing},
+  author = {Chen, Linwei and Gu, Lin and Fu, Ying},
+  year = {2024},
+  doi = {},
+}

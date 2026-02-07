@@ -1,0 +1,6 @@
+@inproceedings{2020watchupconv,
+  title = {Watch your up-convolution: Cnn based generative deep neural networks are failing to reproduce spectral distributions},
+  author = {Durall, Ricard and Keuper, Margret and Keuper, Janis},
+  pages = {7890--7899},
+  year = {2020},
+}

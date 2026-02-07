@@ -1,0 +1,7 @@
+@inproceedings{li2021hybrid,
+  title = {Hybrid Feature based Pyramid Network for Nighttime Semantic Segmentation.},
+  author = {Li, Yuqi and Ma, Yinan and Wu, Jing and Long, Chengnian},
+  booktitle = {International Joint Conference on Computer Vision, Imaging and Computer Graphics Theory and Applications(4: International Conference on Computer Vision Theory and Applications)},
+  pages = {321--328},
+  year = {2021},
+}

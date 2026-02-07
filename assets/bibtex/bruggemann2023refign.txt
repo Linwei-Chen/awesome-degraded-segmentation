@@ -1,0 +1,6 @@
+@inproceedings{bruggemann2023refign,
+  title = {Refign: Align and refine for adaptation of semantic segmentation to adverse conditions},
+  author = {Br{\""u}ggemann, David and Sakaridis, Christos and Truong, Prune and Van Gool, Luc},
+  pages = {3174--3184},
+  year = {2023},
+}

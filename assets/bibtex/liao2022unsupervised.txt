@@ -1,0 +1,10 @@
+@article{liao2022unsupervised,
+  title = {Unsupervised foggy scene understanding via self spatial-temporal label diffusion},
+  author = {Liao, Liang and Chen, Wenyi and Xiao, Jing and Wang, Zheng and Lin, Chia-Wen and Satoh, Shin’ichi},
+  journal = {IEEE Transactions on Image Processing},
+  volume = {31},
+  pages = {3525--3540},
+  year = {2022},
+  publisher = {IEEE},
+  doi = {10.1109/tip.2022.3172208 },
+}

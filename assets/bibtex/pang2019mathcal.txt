@@ -1,0 +1,9 @@
+@article{pang2019mathcal,
+  title = {$R^2$-CNN: Fast Tiny Object Detection in Large-Scale Remote Sensing Images},
+  author = {Pang, Jiangmiao and Li, Cong and Shi, Jianping and Xu, Zhihai and Feng, Huajun},
+  volume = {57},
+  number = {8},
+  pages = {5512--5524},
+  year = {2019},
+  publisher = {IEEE},
+}

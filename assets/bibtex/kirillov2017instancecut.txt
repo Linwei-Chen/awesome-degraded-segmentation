@@ -1,0 +1,6 @@
+@inproceedings{kirillov2017instancecut,
+  title = {Instancecut: from edges to instances with multicut},
+  author = {Kirillov, Alexander and Levinkov, Evgeny and Andres, Bjoern and Savchynskyy, Bogdan and Rother, Carsten},
+  pages = {5008--5017},
+  year = {2017},
+}

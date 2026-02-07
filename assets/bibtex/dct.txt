@@ -1,0 +1,10 @@
+@article{dct,
+  title = {Discrete cosine transform},
+  author = {Ahmed, Nasir and Natarajan, T\_ and Rao, Kamisetty R},
+  journal = {IEEE transactions on Computers},
+  volume = {100},
+  number = {1},
+  pages = {90--93},
+  year = {1974},
+  publisher = {IEEE},
+}

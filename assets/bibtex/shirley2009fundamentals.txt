@@ -1,0 +1,6 @@
+@book{shirley2009fundamentals,
+  title = {Fundamentals of computer graphics},
+  author = {Shirley, Peter and Ashikhmin, Michael and Marschner, Steve},
+  year = {2009},
+  publisher = {AK Peters/CRC Press},
+}

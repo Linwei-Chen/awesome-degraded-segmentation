@@ -1,0 +1,9 @@
+@article{minaee2021image,
+  title = {Image segmentation using deep learning: A survey},
+  author = {Minaee, Shervin and Boykov, Yuri Y and Porikli, Fatih and Plaza, Antonio J and Kehtarnavaz, Nasser and Terzopoulos, Demetri},
+  volume = {44},
+  number = {7},
+  pages = {3523--3542},
+  year = {2021},
+  publisher = {IEEE},
+}

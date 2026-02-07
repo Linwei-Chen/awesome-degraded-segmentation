@@ -1,0 +1,6 @@
+@article{zhang2021learning,
+  title = {Learning to match anchors for visual object detection},
+  author = {Zhang, Xiaosong and Wan, Fang and Liu, Chang and Ji, Xiangyang and Ye, Qixiang},
+  year = {2021},
+  publisher = {IEEE},
+}

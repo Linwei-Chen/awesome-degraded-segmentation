@@ -1,0 +1,6 @@
+@article{lambertenghi2025benchmarking,
+  title = {Benchmarking Image Perturbations for Testing Automated Driving Assistance Systems},
+  author = {Lambertenghi, Stefano Carlo and Leonhard, Hannes and Stocco, Andrea},
+  journal = {arXiv preprint arXiv:2501.12269},
+  year = {2025},
+}

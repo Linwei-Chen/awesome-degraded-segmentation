@@ -1,0 +1,6 @@
+@inproceedings{htc2019,
+  title = {Hybrid task cascade for instance segmentation},
+  author = {Chen, Kai and Pang, Jiangmiao and Wang, Jiaqi and Xiong, Yu and Li, Xiaoxiao and Sun, Shuyang and Feng, Wansen and Liu, Ziwei and Shi, Jianping and Ouyang, Wanli and others},
+  pages = {4974--4983},
+  year = {2019},
+}

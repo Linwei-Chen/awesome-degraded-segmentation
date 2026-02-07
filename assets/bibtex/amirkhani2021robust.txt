@@ -1,0 +1,10 @@
+@article{amirkhani2021robust,
+  title = {Robust semantic segmentation with multi-teacher knowledge distillation},
+  author = {Amirkhani, Abdollah and Khosravian, Amir and Masih-Tehrani, Masoud and Kashiani, Hossein},
+  journal = {IEEE Access},
+  volume = {9},
+  pages = {119049--119066},
+  year = {2021},
+  publisher = {IEEE},
+  doi = {10.1109/access.2021.3107841 },
+}

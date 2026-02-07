@@ -1,0 +1,6 @@
+@inproceedings{2021a2u,
+  title = {Learning affinity-aware upsampling for deep image matting},
+  author = {Dai, Yutong and Lu, Hao and Shen, Chunhua},
+  pages = {6841--6850},
+  year = {2021},
+}

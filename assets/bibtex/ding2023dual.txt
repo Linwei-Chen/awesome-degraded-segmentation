@@ -1,0 +1,9 @@
+@inproceedings{ding2023dual,
+  title = {Dual-level Consistency Learning for Unsupervised Domain Adaptive Night-time Semantic Segmentation},
+  author = {Ding, Feifei and Li, Jianjun and Tian, Wanyong},
+  booktitle = {2023 IEEE International Conference on Multimedia and Expo},
+  pages = {420--425},
+  year = {2023},
+  organization = {IEEE},
+  doi = {10.1109/icme55011.2023.00079 },
+}

@@ -1,0 +1,6 @@
+@inproceedings{carafe,
+  title = {Carafe: Content-aware reassembly of features},
+  author = {Wang, Jiaqi and Chen, Kai and Xu, Rui and Liu, Ziwei and Loy, Chen Change and Lin, Dahua},
+  pages = {3007--3016},
+  year = {2019},
+}

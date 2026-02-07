@@ -1,0 +1,9 @@
+@article{2022gan,
+  title = {LE-GAN: Unsupervised low-light image enhancement network using attention module and identity invariant loss},
+  author = {Fu, Ying and Hong, Yang and Chen, Linwei and You, Shaodi},
+  journal = {Knowledge-Based Systems},
+  volume = {240},
+  pages = {108010},
+  year = {2022},
+  publisher = {Elsevier},
+}

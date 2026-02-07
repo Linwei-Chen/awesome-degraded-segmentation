@@ -1,0 +1,6 @@
+@inproceedings{wu2023diffumask,
+  title = {Diffumask: Synthesizing images with pixel-level annotations for semantic segmentation using diffusion models},
+  author = {Wu, Weijia and Zhao, Yuzhong and Shou, Mike Zheng and Zhou, Hong and Shen, Chunhua},
+  pages = {1206--1217},
+  year = {2023},
+}

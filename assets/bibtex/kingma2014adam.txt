@@ -1,0 +1,6 @@
+@article{kingma2014adam,
+  title = {Adam: A method for stochastic optimization},
+  author = {Kingma, Diederik P and Ba, Jimmy},
+  pages = {1--15},
+  year = {2014},
+}

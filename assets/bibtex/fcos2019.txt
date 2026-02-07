@@ -1,0 +1,6 @@
+@inproceedings{fcos2019,
+  title = {Fcos: Fully convolutional one-stage object detection},
+  author = {Tian, Zhi and Shen, Chunhua and Chen, Hao and He, Tong},
+  pages = {9627--9636},
+  year = {2019},
+}

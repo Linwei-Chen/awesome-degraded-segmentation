@@ -1,0 +1,6 @@
+@inproceedings{2019deformablev2,
+  title = {Deformable convnets v2: More deformable, better results},
+  author = {Zhu, Xizhou and Hu, Han and Lin, Stephen and Dai, Jifeng},
+  pages = {9308--9316},
+  year = {2019},
+}

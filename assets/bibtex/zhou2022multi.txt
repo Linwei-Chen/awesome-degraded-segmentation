@@ -1,0 +1,11 @@
+@article{zhou2022multi,
+  title = {Multi-robot collaborative perception with graph neural networks},
+  author = {Zhou, Yang and Xiao, Jiuhong and Zhou, Yue and Loianno, Giuseppe},
+  journal = {IEEE Robotics and Automation Letters},
+  volume = {7},
+  number = {2},
+  pages = {2289--2296},
+  year = {2022},
+  publisher = {IEEE},
+  doi = {10.1109/lra.2022.3141661 },
+}

@@ -1,0 +1,8 @@
+@inproceedings{wang2023effect,
+  title = {The effect of camera data degradation factors on panoptic segmentation for automated driving},
+  author = {Wang, Yiting and Zhao, Haonan and Debattista, Kurt and Donzella, Valentina},
+  booktitle = {2023 IEEE 26th International Conference on Intelligent Transportation Systems},
+  pages = {2351--2356},
+  year = {2023},
+  organization = {IEEE},
+}

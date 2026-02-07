@@ -1,0 +1,6 @@
+@inproceedings{refinenet2017,
+  title = {Refinenet: Multi-path refinement networks for high-resolution semantic segmentation},
+  author = {Lin, Guosheng and Milan, Anton and Shen, Chunhua and Reid, Ian},
+  pages = {1925--1934},
+  year = {2017},
+}

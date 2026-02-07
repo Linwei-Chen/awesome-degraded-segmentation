@@ -1,0 +1,7 @@
+@inproceedings{mu2024end,
+  title = {End-to-end Semantic Segmentation Network for Low-Light Scenes},
+  author = {Mu, Hongmin and Zhang, Gang and Zhou, MengChu and Cao, Zhengcai},
+  pages = {7725--7731},
+  year = {2024},
+  organization = {IEEE},
+}

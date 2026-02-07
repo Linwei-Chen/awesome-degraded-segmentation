@@ -1,0 +1,9 @@
+@article{zou2017random,
+  title = {Random access memories: A new paradigm for target detection in high resolution aerial remote sensing images},
+  author = {Zou, Zhengxia and Shi, Zhenwei},
+  volume = {27},
+  number = {3},
+  pages = {1100--1111},
+  year = {2017},
+  publisher = {IEEE},
+}

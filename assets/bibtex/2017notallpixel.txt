@@ -1,0 +1,6 @@
+@inproceedings{2017notallpixel,
+  title = {Not all pixels are equal: Difficulty-aware semantic segmentation via deep layer cascade},
+  author = {Li, Xiaoxiao and Liu, Ziwei and Luo, Ping and Change Loy, Chen and Tang, Xiaoou},
+  pages = {3193--3202},
+  year = {2017},
+}

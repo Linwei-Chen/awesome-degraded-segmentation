@@ -1,0 +1,7 @@
+@article{2022focalmodulation,
+  title = {Focal modulation networks},
+  author = {Yang, Jianwei and Li, Chunyuan and Dai, Xiyang and Gao, Jianfeng},
+  volume = {35},
+  pages = {4203--4217},
+  year = {2022},
+}

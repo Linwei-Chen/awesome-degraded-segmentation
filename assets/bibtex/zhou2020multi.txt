@@ -1,0 +1,9 @@
+@inproceedings{zhou2020multi,
+  title = {Multi-type self-attention guided degraded saliency detection},
+  author = {Zhou, Ziqi and Wang, Zheng and Lu, Huchuan and Wang, Song and Sun, Meijun},
+  booktitle = { the AAAI Conference on Artificial Intelligence},
+  volume = {34},
+  number = {07},
+  pages = {13082--13089},
+  year = {2020},
+}

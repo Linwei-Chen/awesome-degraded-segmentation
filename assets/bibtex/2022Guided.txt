@@ -1,0 +1,11 @@
+@article{2022Guided,
+  author = {Zhang, Tao and Fu, Ying and Zhang, Jun},
+  title = {Guided Hyperspectral Image Denoising with Realistic Data},
+  year = {2022},
+  issue_date = {Nov 2022},
+  volume = {130},
+  number = {11},
+  pages = {2885–2901},
+  numpages = {17},
+  keywords = {Realistic synthetic data, Guided nonlocal denoising network, Hyperspectral image denoising, Paired real dataset},
+}

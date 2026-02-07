@@ -1,0 +1,6 @@
+@inproceedings{kuo2019shapemask,
+  title = {Shapemask: Learning to segment novel objects by refining shape priors},
+  author = {Kuo, Weicheng and Angelova, Anelia and Malik, Jitendra and Lin, Tsung-Yi},
+  pages = {9207--9216},
+  year = {2019},
+}

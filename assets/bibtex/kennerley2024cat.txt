@@ -1,0 +1,7 @@
+@inproceedings{kennerley2024cat,
+  title = {CAT: Exploiting Inter-Class Dynamics for Domain Adaptive Object Detection},
+  author = {Kennerley, Mikhail and Wang, Jian-Gang and Veeravalli, Bharadwaj and Tan, Robby T},
+  pages = {16541--16550},
+  year = {2024},
+  doi = {10.1109/cvpr52733.2024.01565 },
+}

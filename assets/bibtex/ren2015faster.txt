@@ -1,0 +1,6 @@
+@article{ren2015faster,
+  title = {Faster r-cnn: Towards real-time object detection with region proposal networks},
+  author = {Ren, Shaoqing and He, Kaiming and Girshick, Ross and Sun, Jian},
+  journal = {arXiv preprint arXiv:1506.01497},
+  year = {2015},
+}

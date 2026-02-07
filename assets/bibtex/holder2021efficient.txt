@@ -1,0 +1,7 @@
+@inproceedings{holder2021efficient,
+  title = {Efficient uncertainty estimation in semantic segmentation via distillation},
+  author = {Holder, Christopher J and Shafique, Muhammad},
+  pages = {3087--3094},
+  year = {2021},
+  doi = {10.1109/iccvw54120.2021.00343 },
+}

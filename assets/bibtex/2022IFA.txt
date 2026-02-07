@@ -1,0 +1,7 @@
+@inproceedings{2022IFA,
+  title = {Learning implicit feature alignment function for semantic segmentation},
+  author = {Hu, Hanzhe and Chen, Yinbo and Xu, Jiarui and Borse, Shubhankar and Cai, Hong and Porikli, Fatih and Wang, Xiaolong},
+  pages = {487--505},
+  year = {2022},
+  organization = {Springer},
+}

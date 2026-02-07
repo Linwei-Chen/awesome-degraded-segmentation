@@ -1,0 +1,10 @@
+@article{jiang2024computational,
+  title = {Computational Imaging for Machine Perception: Transferring Semantic Segmentation Beyond Aberrations},
+  author = {Jiang, Qi and Shi, Hao and Gao, Shaohua and Zhang, Jiaming and Yang, Kailun and Sun, Lei and Ni, Huajian and Wang, Kaiwei},
+  journal = {IEEE Transactions on Computational Imaging},
+  volume = {10},
+  pages = {535--548},
+  year = {2024},
+  publisher = {IEEE},
+  doi = {10.1109/tci.2024.3380363/mm1 },
+}

@@ -1,0 +1,6 @@
+@inproceedings{2023dilated,
+  title = {Dilated convolution with learnable spacings},
+  author = {Khalfaoui-Hassani, Ismail and Pellegrini, Thomas and Masquelier, Timoth{\'e}e},
+  pages = {1--13},
+  year = {2023},
+}

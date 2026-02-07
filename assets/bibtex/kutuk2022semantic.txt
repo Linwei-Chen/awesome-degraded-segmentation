@@ -1,0 +1,7 @@
+@inproceedings{kutuk2022semantic,
+  title = {Semantic segmentation for thermal images: A comparative survey},
+  author = {K{\"u}t{\"u}k, Z{\"u}lfiye and Algan, G{\"o}rkem},
+  pages = {286--295},
+  year = {2022},
+  doi = {10.1109/cvprw56347.2022.00043 },
+}

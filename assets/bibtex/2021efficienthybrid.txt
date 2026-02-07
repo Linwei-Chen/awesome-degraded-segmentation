@@ -1,0 +1,10 @@
+@article{2021efficienthybrid,
+  title = {Efficient hybrid supervision for instance segmentation in aerial images},
+  author = {Chen, Linwei and Fu, Ying and You, Shaodi and Liu, Hongzhe},
+  journal = {Remote Sensing},
+  volume = {13},
+  number = {2},
+  pages = {252},
+  year = {2021},
+  publisher = {MDPI},
+}

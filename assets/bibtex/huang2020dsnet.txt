@@ -1,0 +1,6 @@
+@article{huang2020dsnet,
+  title = {DSNet: Joint semantic learning for object detection in inclement weather conditions},
+  author = {Huang, Shih-Chia and Le, Trung-Hieu and Jaw, Da-Wei},
+  year = {2020},
+  publisher = {IEEE},
+}

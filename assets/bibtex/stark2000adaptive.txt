@@ -1,0 +1,10 @@
+@article{stark2000adaptive,
+  title = {Adaptive image contrast enhancement using generalizations of histogram equalization},
+  author = {Stark, J Alex},
+  journal = {IEEE Transactions on image processing},
+  volume = {9},
+  number = {5},
+  pages = {889--896},
+  year = {2000},
+  publisher = {IEEE},
+}

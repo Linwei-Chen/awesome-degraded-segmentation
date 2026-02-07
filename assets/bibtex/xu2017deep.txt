@@ -1,0 +1,6 @@
+@article{xu2017deep,
+  title = {Deep grabcut for object selection},
+  author = {Xu, Ning and Price, Brian and Cohen, Scott and Yang, Jimei and Huang, Thomas},
+  journal = {arXiv preprint arXiv:1707.00243},
+  year = {2017},
+}

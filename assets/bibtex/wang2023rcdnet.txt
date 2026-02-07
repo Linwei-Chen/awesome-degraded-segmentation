@@ -1,0 +1,8 @@
+@article{wang2023rcdnet,
+  title = {RCDNet: An interpretable rain convolutional dictionary network for single image deraining},
+  author = {Wang, Hong and Xie, Qi and Zhao, Qian and Li, Yuexiang and Liang, Yong and Zheng, Yefeng and Meng, Deyu},
+  journal = {IEEE Transactions on Neural Networks and Learning Systems},
+  year = {2023},
+  publisher = {IEEE},
+  doi = {10.1109/tnnls.2022.3231453 },
+}

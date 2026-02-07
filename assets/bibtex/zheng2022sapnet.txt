@@ -1,0 +1,7 @@
+@inproceedings{zheng2022sapnet,
+  title = {SAPNet: Segmentation-aware progressive network for perceptual contrastive deraining},
+  author = {Zheng, Shen and Lu, Changjie and Wu, Yuxiong and Gupta, Gaurav},
+  pages = {52--62},
+  year = {2022},
+  doi = {10.1109/wacvw54805.2022.00011 },
+}

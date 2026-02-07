@@ -1,0 +1,8 @@
+@article{zhang2025unaligned,
+  title = {Unaligned RGB Guided Hyperspectral Image Super-Resolution with Spatial-Spectral Concordance},
+  author = {Zhang, Yingkai and Lai, Zeqiang and Zhang, Tao and Fu, Ying and Zhou, Chenghu},
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  pages = {1--21},
+  year = {2025},
+  doi = {10.1007/s11263-025-02466-8 },
+}

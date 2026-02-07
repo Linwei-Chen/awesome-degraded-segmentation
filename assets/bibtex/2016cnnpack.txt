@@ -1,0 +1,6 @@
+@article{2016cnnpack,
+  title = {Cnnpack: Packing convolutional neural networks in the frequency domain},
+  author = {Wang, Yunhe and Xu, Chang and You, Shan and Tao, Dacheng and Xu, Chao},
+  volume = {29},
+  year = {2016},
+}

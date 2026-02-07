@@ -1,0 +1,6 @@
+@inproceedings{2020autoattack,
+  title = {Reliable evaluation of adversarial robustness with an ensemble of diverse parameter-free attacks},
+  author = {Croce, Francesco and Hein, Matthias},
+  pages = {2206--2216},
+  year = {2020},
+}

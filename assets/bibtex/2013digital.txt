@@ -1,0 +1,6 @@
+@book{2013digital,
+  title = {Digital signal processing: Pearson new international edition},
+  author = {Proakis, John G and Manolakis, Dimitris G},
+  year = {2013},
+  publisher = {Pearson Higher Ed},
+}

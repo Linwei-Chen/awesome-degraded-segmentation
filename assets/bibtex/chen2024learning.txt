@@ -1,0 +1,9 @@
+@inproceedings{chen2024learning,
+  title = {Learning A Rain-Invariant Network For Instance Segmentation In The Rain},
+  author = {Chen, Zhiwen and Wu, Wei and Chen, Zhengfeng},
+  booktitle = {2024 IEEE International Conference on Image Processing},
+  pages = {2578--2584},
+  year = {2024},
+  organization = {IEEE},
+  doi = {10.1109/icip51287.2024.10648283 },
+}

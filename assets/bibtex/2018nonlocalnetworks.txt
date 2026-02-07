@@ -1,0 +1,6 @@
+@inproceedings{2018nonlocalnetworks,
+  title = {Non-local neural networks},
+  author = {Wang, Xiaolong and Girshick, Ross and Gupta, Abhinav and He, Kaiming},
+  pages = {7794--7803},
+  year = {2018},
+}

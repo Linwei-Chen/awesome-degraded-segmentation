@@ -1,0 +1,10 @@
+@article{chen2024dual,
+  title = {Dual-branch teacher-student with noise-tolerant learning for domain adaptive nighttime segmentation},
+  author = {Chen, Ruiying and Liu, Yunan and Bo, Yuming and Lu, Mingyu},
+  journal = {Image and Vision Computing},
+  volume = {150},
+  pages = {105211},
+  year = {2024},
+  publisher = {Elsevier},
+  doi = {10.1016/j.imavis.2024.105211 },
+}

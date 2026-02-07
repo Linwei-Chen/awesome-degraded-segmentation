@@ -1,0 +1,9 @@
+@article{wu2020dynamic,
+  title = {Dynamic attention network for semantic segmentation},
+  author = {Wu, Fei and Chen, Feng and Jing, Xiao-Yuan and Hu, Chang-Hui and Ge, Qi and Ji, Yimu},
+  journal = {Neurocomputing},
+  volume = {384},
+  pages = {182--191},
+  year = {2020},
+  publisher = {Elsevier},
+}

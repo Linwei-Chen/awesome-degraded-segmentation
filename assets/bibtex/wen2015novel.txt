@@ -1,0 +1,9 @@
+@article{wen2015novel,
+  title = {A novel automatic change detection method for urban high-resolution remotely sensed imagery based on multiindex scene representation},
+  author = {Wen, Dawei and Huang, Xin and Zhang, Liangpei and Benediktsson, J{\'o}n Atli},
+  volume = {54},
+  number = {1},
+  pages = {609--625},
+  year = {2015},
+  publisher = {IEEE},
+}

@@ -1,0 +1,9 @@
+@article{wang2018multiscale,
+  title = {Multiscale visual attention networks for object detection in VHR remote sensing images},
+  author = {Wang, Chen and Bai, Xiao and Wang, Shuai and Zhou, Jun and Ren, Peng},
+  volume = {16},
+  number = {2},
+  pages = {310--314},
+  year = {2018},
+  publisher = {IEEE},
+}

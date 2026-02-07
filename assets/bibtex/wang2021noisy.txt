@@ -1,0 +1,9 @@
+@article{wang2021noisy,
+  title = {Noisy-LSTM: Improving temporal awareness for video semantic segmentation},
+  author = {Wang, Bowen and Li, Liangzhi and Nakashima, Yuta and Kawasaki, Ryo and Nagahara, Hajime and Yagi, Yasushi},
+  journal = {IEEE Access},
+  volume = {9},
+  pages = {46810--46820},
+  year = {2021},
+  publisher = {IEEE},
+}

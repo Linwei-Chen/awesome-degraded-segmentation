@@ -1,0 +1,7 @@
+@article{2022hornet,
+  title = {Hornet: Efficient high-order spatial interactions with recursive gated convolutions},
+  author = {Rao, Yongming and Zhao, Wenliang and Tang, Yansong and Zhou, Jie and Lim, Ser Nam and Lu, Jiwen},
+  volume = {35},
+  pages = {10353--10366},
+  year = {2022},
+}

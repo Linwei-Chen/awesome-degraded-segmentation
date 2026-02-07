@@ -1,0 +1,5 @@
+@inproceedings{2021topology,
+  title = {Topology-aware segmentation using discrete Morse theory},
+  author = {Hu, Xiaoling and Wang, Yusu and Fuxin, Li and Samaras, Dimitris and Chen, Chao},
+  year = {2021},
+}

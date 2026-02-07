@@ -1,0 +1,9 @@
+@article{du2024weather,
+  title = {Weather-aware autopilot: Domain generalization for point cloud semantic segmentation in diverse weather scenarios},
+  author = {Du, Jing and Zelek, John and Li, Jonathan},
+  journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume = {218},
+  pages = {204--219},
+  year = {2024},
+  publisher = {Elsevier},
+}

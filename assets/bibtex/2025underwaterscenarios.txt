@@ -1,0 +1,12 @@
+@Article{2025underwaterscenarios,
+  title = {An Extensible Hierarchical Multimodal Semantic Segmentation Network for Underwater Scenarios},
+  journal = {Chinese Journal of Electronics},
+  volume = {34},
+  number = {},
+  pages = {1-12},
+  year = {2025},
+  issn = {},
+  doi = {10.23919/cje.2024.00.291},
+  url = {https://cje.ejournal.org.cn/en/article/doi/10.23919/cje.2024.00.291},
+  author = {Wang Xingmei and Wu Peiran and Zhang Chenzhuo and Xu Yuezhu},
+}

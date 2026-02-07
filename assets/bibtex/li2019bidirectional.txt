@@ -1,0 +1,7 @@
+@inproceedings{li2019bidirectional,
+  title = {Bidirectional learning for domain adaptation of semantic segmentation},
+  author = {Li, Yunsheng and Yuan, Lu and Vasconcelos, Nuno},
+  pages = {6936--6945},
+  year = {2019},
+  doi = {10.1109/cvpr.2019.00710 },
+}

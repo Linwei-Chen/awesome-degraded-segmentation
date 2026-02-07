@@ -1,0 +1,6 @@
+@inproceedings{MMAN,
+  title = {Macro-micro adversarial network for human parsing},
+  author = {Luo, Yawei and Zheng, Zhedong and Zheng, Liang and Guan, Tao and Yu, Junqing and Yang, Yi},
+  pages = {418--434},
+  year = {2018},
+}

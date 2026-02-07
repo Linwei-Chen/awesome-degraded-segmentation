@@ -1,0 +1,9 @@
+@article{tan2021night,
+  title = {Night-time scene parsing with a large real dataset},
+  author = {Tan, Xin and Xu, Ke and Cao, Ying and Zhang, Yiheng and Ma, Lizhuang and Lau, Rynson WH},
+  journal = {IEEE Transactions on Image Processing},
+  volume = {30},
+  pages = {9085--9098},
+  year = {2021},
+  publisher = {IEEE},
+}

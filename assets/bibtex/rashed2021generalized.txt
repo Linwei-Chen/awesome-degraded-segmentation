@@ -1,0 +1,6 @@
+@inproceedings{rashed2021generalized,
+  title = {Generalized object detection on fisheye cameras for autonomous driving: Dataset, representations and baseline},
+  author = {Rashed, Hazem and Mohamed, Eslam and Sistu, Ganesh and Kumar, Varun Ravi and Eising, Ciaran and El-Sallab, Ahmad and Yogamani, Senthil},
+  pages = {2272--2280},
+  year = {2021},
+}

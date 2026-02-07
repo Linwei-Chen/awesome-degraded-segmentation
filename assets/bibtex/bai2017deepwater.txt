@@ -1,0 +1,6 @@
+@inproceedings{bai2017deepwater,
+  title = {Deep watershed transform for instance segmentation},
+  author = {Bai, Min and Urtasun, Raquel},
+  pages = {5221--5229},
+  year = {2017},
+}

@@ -1,0 +1,6 @@
+@inproceedings{2019seernet,
+  title = {Seernet: Predicting convolutional neural network feature-map sparsity through low-bit quantization},
+  author = {Cao, Shijie and Ma, Lingxiao and Xiao, Wencong and Zhang, Chen and Liu, Yunxin and Zhang, Lintao and Nie, Lanshun and Yang, Zhi},
+  pages = {11216--11225},
+  year = {2019},
+}

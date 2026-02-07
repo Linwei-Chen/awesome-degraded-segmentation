@@ -1,0 +1,6 @@
+@inproceedings{2021fcanet,
+  title = {Fcanet: Frequency channel attention networks},
+  author = {Qin, Zequn and Zhang, Pengyi and Wu, Fei and Li, Xi},
+  pages = {783--792},
+  year = {2021},
+}

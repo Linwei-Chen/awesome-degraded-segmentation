@@ -1,0 +1,10 @@
+@article{wang2023rethinking,
+  title = {Rethinking exemplars for continual semantic segmentation in endoscopy scenes: Entropy-based mini-batch pseudo-replay},
+  author = {Wang, Guankun and Bai, Long and Wu, Yanan and Chen, Tong and Ren, Hongliang},
+  journal = {Computers in Biology and Medicine},
+  volume = {165},
+  pages = {107412},
+  year = {2023},
+  publisher = {Elsevier},
+  doi = {10.1016/j.compbiomed.2023.107412 },
+}

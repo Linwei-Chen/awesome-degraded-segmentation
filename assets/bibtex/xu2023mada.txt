@@ -1,0 +1,9 @@
+@inproceedings{xu2023mada,
+  title = {MADA: Multi-Level Alignment in Domain Adaptation Network for Nighttime Semantic Segmentation},
+  author = {Xu, Mengfan and Huang, Wei and Huang, Rui},
+  booktitle = {2023 8th International Conference on Image, Vision and Computing},
+  pages = {352--357},
+  year = {2023},
+  organization = {IEEE},
+  doi = {10.1109/icivc58118.2023.10270343 },
+}

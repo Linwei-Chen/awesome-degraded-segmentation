@@ -1,0 +1,6 @@
+@article{2021yolox,
+  title = {Yolox: Exceeding yolo series in 2021},
+  author = {Ge, Zheng and Liu, Songtao and Wang, Feng and Li, Zeming and Sun, Jian},
+  journal = {arXiv preprint arXiv:2107.08430},
+  year = {2021},
+}

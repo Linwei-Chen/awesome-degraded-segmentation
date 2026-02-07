@@ -1,0 +1,8 @@
+@inproceedings{lehman2020structures,
+  title = {On the structures of representation for the robustness of semantic segmentation to input corruption},
+  author = {Lehman, Charles and Temel, Dogancan and AlRegib, Ghassan},
+  booktitle = {2020 IEEE International Conference on Image Processing},
+  pages = {3239--3243},
+  year = {2020},
+  organization = {IEEE},
+}

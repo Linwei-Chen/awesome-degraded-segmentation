@@ -1,0 +1,6 @@
+@inproceedings{2021aliasingimpact,
+  title = {Impact of aliasing on generalization in deep convolutional networks},
+  author = {Vasconcelos, Cristina and Larochelle, Hugo and Dumoulin, Vincent and Romijnders, Rob and Le Roux, Nicolas and Goroshin, Ross},
+  pages = {10529--10538},
+  year = {2021},
+}

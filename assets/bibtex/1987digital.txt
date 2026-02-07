@@ -1,0 +1,6 @@
+@book{1987digital,
+  title = {Digital signal processing},
+  author = {Roberts, Richard A and Mullis, Clifford T},
+  year = {1987},
+  publisher = {Addison-Wesley Longman Publishing Co., Inc.},
+}

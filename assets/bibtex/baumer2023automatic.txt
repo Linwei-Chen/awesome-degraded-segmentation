@@ -1,0 +1,9 @@
+@inproceedings{baumer2023automatic,
+  title = {Automatic Image Compositing and Snow Segmentation for Alpine Snow Cover Monitoring},
+  author = {Baumer, Janik and Metzger, Nando and Hafner, Elisabeth D and Daudt, Rodrigo Caye and Wegner, Jan Dirk and Schindler, Konrad},
+  booktitle = {2023 10th IEEE Swiss Conference on Data Science},
+  pages = {77--84},
+  year = {2023},
+  organization = {IEEE},
+  doi = {10.1109/sds57534.2023.00018 },
+}

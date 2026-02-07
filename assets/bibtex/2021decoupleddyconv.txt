@@ -1,0 +1,6 @@
+@inproceedings{2021decoupleddyconv,
+  title = {Decoupled dynamic filter networks},
+  author = {Zhou, Jingkai and Jampani, Varun and Pi, Zhixiong and Liu, Qiong and Yang, Ming-Hsuan},
+  pages = {6647--6656},
+  year = {2021},
+}

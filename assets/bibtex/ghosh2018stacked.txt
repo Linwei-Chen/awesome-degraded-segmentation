@@ -1,0 +1,6 @@
+@inproceedings{ghosh2018stacked,
+  title = {Stacked U-Nets for Ground Material Segmentation in Remote Sensing Imagery.},
+  author = {Ghosh, Arthita and Ehrlich, Max and Shah, Sohil and Davis, Larry S and Chellappa, Rama},
+  pages = {257--261},
+  year = {2018},
+}

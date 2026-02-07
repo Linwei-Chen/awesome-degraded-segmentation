@@ -1,0 +1,6 @@
+@inproceedings{simpledoesit2017,
+  title = {Simple does it: Weakly supervised instance and semantic segmentation},
+  author = {Khoreva, Anna and Benenson, Rodrigo and Hosang, Jan and Hein, Matthias and Schiele, Bernt},
+  pages = {876--885},
+  year = {2017},
+}

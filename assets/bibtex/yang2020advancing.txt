@@ -1,0 +1,9 @@
+@article{yang2020advancing,
+  title = {Advancing image understanding in poor visibility environments: A collective benchmark study},
+  author = {Yang, Wenhan and Yuan, Ye and Ren, Wenqi and Liu, Jiaying and Scheirer, Walter J and Wang, Zhangyang and Zhang, Taiheng and Zhong, Qiaoyong and Xie, Di and Pu, Shiliang and others},
+  journal = {IEEE Transactions on Image Processing},
+  volume = {29},
+  pages = {5737--5752},
+  year = {2020},
+  publisher = {IEEE},
+}

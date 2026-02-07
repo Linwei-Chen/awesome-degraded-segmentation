@@ -1,0 +1,9 @@
+@inproceedings{michel2023dustnet,
+  title = {DustNet: Attention to Dust},
+  author = {Michel, Andreas and Weinmann, Martin and Schenkel, Fabian and Gomez, Tomas and Falvey, Mark and Schmitz, Rainer and Middelmann, Wolfgang and Hinz, Stefan},
+  booktitle = {DAGM German Conference on Pattern Recognition},
+  pages = {211--226},
+  year = {2023},
+  organization = {Springer},
+  doi = {doi.org/10.1007/978-3-031-54605-1_14 },
+}

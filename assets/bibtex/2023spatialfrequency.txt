@@ -1,0 +1,6 @@
+@article{2023spatialfrequency,
+  title = {Spatial-frequency channels, shape bias, and adversarial robustness},
+  author = {Subramanian, Ajay and Sizikova, Elena and Majaj, Najib J and Pelli, Denis G},
+  pages = {1--10},
+  year = {2023},
+}

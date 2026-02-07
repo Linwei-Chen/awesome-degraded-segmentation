@@ -1,0 +1,6 @@
+@inproceedings{2019panopticfpn,
+  title = {Panoptic feature pyramid networks},
+  author = {Kirillov, Alexander and Girshick, Ross and He, Kaiming and Doll{\'a}r, Piotr},
+  pages = {6399--6408},
+  year = {2019},
+}

@@ -1,0 +1,6 @@
+@inproceedings{lee2023gps,
+  title = {GPS-GLASS: learning nighttime semantic segmentation using daytime video and GPS data},
+  author = {Lee, Hongjae and Han, Changwoo and Yoo, Jun-Sang and Jung, Seung-Won},
+  pages = {4001--4010},
+  year = {2023},
+}

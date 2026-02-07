@@ -1,0 +1,7 @@
+@InProceedings{2021DCDicL,
+  author = {Zheng, Hongyi and Yong, Hongwei and Zhang, Lei},
+  title = {Deep Convolutional Dictionary Learning for Image Denoising},
+  month = {June},
+  year = {2021},
+  pages = {630-641},
+}

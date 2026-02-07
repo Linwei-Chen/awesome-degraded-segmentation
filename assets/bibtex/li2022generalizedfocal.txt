@@ -1,0 +1,9 @@
+@article{li2022generalizedfocal,
+  title = {Generalized focal loss: Towards efficient representation learning for dense object detection},
+  author = {Li, Xiang and Lv, Chengqi and Wang, Wenhai and Li, Gang and Yang, Lingfeng and Yang, Jian},
+  volume = {45},
+  number = {3},
+  pages = {3139--3153},
+  year = {2022},
+  publisher = {IEEE},
+}

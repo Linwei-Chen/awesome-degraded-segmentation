@@ -1,0 +1,10 @@
+@article{xian2024towards,
+  title = {Towards robust monocular depth estimation: A new baseline and benchmark},
+  author = {Xian, Ke and Cao, Zhiguo and Shen, Chunhua and Lin, Guosheng},
+  journal = {International Journal of Computer Vision},
+  volume = {132},
+  number = {7},
+  pages = {2401--2419},
+  year = {2024},
+  publisher = {Springer},
+}

@@ -1,0 +1,7 @@
+@inproceedings{xiao2024p,
+  title = {P-bic: Ultra-high-definition image moir{\'e} patterns removal via patch bilateral compensation},
+  author = {Xiao, Zeyu and Lu, Zhihe and Wang, Xinchao},
+  pages = {8365--8373},
+  year = {2024},
+  doi = {10.1145/3664647.3681144 },
+}

@@ -1,0 +1,10 @@
+@article{xiao2025incorporating,
+  title = {Incorporating degradation estimation in light field spatial super-resolution},
+  author = {Xiao, Zeyu and Xiong, Zhiwei},
+  journal = {Computer Vision and Image Understanding},
+  volume = {252},
+  pages = {104295},
+  year = {2025},
+  publisher = {Elsevier},
+  doi = {10.1016/j.cviu.2025.104295 },
+}

@@ -1,0 +1,6 @@
+@inproceedings{2022cswin,
+  title = {Cswin transformer: A general vision transformer backbone with cross-shaped windows},
+  author = {Dong, Xiaoyi and Bao, Jianmin and Chen, Dongdong and Zhang, Weiming and Yu, Nenghai and Yuan, Lu and Chen, Dong and Guo, Baining},
+  pages = {12124--12134},
+  year = {2022},
+}

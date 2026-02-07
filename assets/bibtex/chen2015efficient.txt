@@ -1,0 +1,6 @@
+@inproceedings{chen2015efficient,
+  title = {An efficient statistical method for image noise level estimation},
+  author = {Chen, Guangyong and Zhu, Fengyuan and Ann Heng, Pheng},
+  pages = {477--485},
+  year = {2015},
+}

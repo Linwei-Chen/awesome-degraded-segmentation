@@ -1,0 +1,10 @@
+@article{nyquist1928,
+  title = {Certain topics in telegraph transmission theory},
+  author = {Nyquist, Harry},
+  journal = {Transactions of the American Institute of Electrical Engineers},
+  volume = {47},
+  number = {2},
+  pages = {617--644},
+  year = {1928},
+  publisher = {IEEE},
+}

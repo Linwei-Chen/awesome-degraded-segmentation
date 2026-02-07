@@ -1,0 +1,6 @@
+@article{salgado2024global,
+  title = {Global Average Feature Augmentation for Robust Semantic Segmentation with Transformers},
+  author = {Salgado, Alberto Gonzalo Rodriguez and Schen, Maying and Harzig, Philipp and Mayer, Peter and Alvarez, Jose M},
+  journal = {arXiv preprint arXiv:2412.01941},
+  year = {2024},
+}

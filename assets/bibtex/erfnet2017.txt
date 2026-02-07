@@ -1,0 +1,9 @@
+@article{erfnet2017,
+  title = {Erfnet: Efficient residual factorized convnet for real-time semantic segmentation},
+  author = {Romera, Eduardo and Alvarez, Jos{\'e} M and Bergasa, Luis M and Arroyo, Roberto},
+  volume = {19},
+  number = {1},
+  pages = {263--272},
+  year = {2017},
+  publisher = {IEEE},
+}

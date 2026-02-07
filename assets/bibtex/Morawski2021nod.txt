@@ -1,0 +1,6 @@
+@article{Morawski2021nod,
+  title = {NOD: Taking a Closer Look at Detection under Extreme Low-Light Conditions with Night Object Detection Dataset},
+  author = {Morawski, Igor and Chen, Yu-An and Lin, Yu-Sheng and Hsu, Winston H},
+  journal = {arXiv preprint arXiv:2110.10364},
+  year = {2021},
+}

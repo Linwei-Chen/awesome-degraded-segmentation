@@ -1,0 +1,9 @@
+@article{2017segnet,
+  title = {Segnet: A deep convolutional encoder-decoder architecture for image segmentation},
+  author = {Badrinarayanan, Vijay and Kendall, Alex and Cipolla, Roberto},
+  volume = {39},
+  number = {12},
+  pages = {2481--2495},
+  year = {2017},
+  publisher = {IEEE},
+}

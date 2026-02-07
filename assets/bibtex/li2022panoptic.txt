@@ -1,0 +1,6 @@
+@inproceedings{li2022panoptic,
+  title = {Panoptic segformer: Delving deeper into panoptic segmentation with transformers},
+  author = {Li, Zhiqi and Wang, Wenhai and Xie, Enze and Yu, Zhiding and Anandkumar, Anima and Alvarez, Jose M and Luo, Ping and Lu, Tong},
+  pages = {1280--1289},
+  year = {2022},
+}

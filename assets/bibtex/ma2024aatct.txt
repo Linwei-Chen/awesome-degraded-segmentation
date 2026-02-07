@@ -1,0 +1,10 @@
+@article{ma2024aatct,
+  title = {AATCT-IDS: A benchmark Abdominal Adipose Tissue CT Image Dataset for image denoising, semantic segmentation, and radiomics evaluation},
+  author = {Ma, Zhiyu and Li, Chen and Du, Tianming and Zhang, Le and Tang, Dechao and Ma, Deguo and Huang, Shanchuan and Liu, Yan and Sun, Yihao and Chen, Zhihao and others},
+  journal = {Computers in Biology and Medicine},
+  volume = {177},
+  pages = {108628},
+  year = {2024},
+  publisher = {Elsevier},
+  doi = {10.1016/j.compbiomed.2024.108628 },
+}

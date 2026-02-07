@@ -1,0 +1,6 @@
+@inproceedings{sceneparsing2017,
+  title = {Scene parsing with global context embedding},
+  author = {Hung, Wei-Chih and Tsai, Yi-Hsuan and Shen, Xiaohui and Lin, Zhe and Sunkavalli, Kalyan and Lu, Xin and Yang, Ming-Hsuan},
+  pages = {2631--2639},
+  year = {2017},
+}

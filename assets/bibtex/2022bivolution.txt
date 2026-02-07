@@ -1,0 +1,8 @@
+@inproceedings{2022bivolution,
+  title = {Bi-volution: A static and dynamic coupled filter},
+  author = {Hu, Xiwei and Chen, Xuanhong and Ni, Bingbing and Li, Teng and Liu, Yutian},
+  volume = {36},
+  number = {1},
+  pages = {960--968},
+  year = {2022},
+}

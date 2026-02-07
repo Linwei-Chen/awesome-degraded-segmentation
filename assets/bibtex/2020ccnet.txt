@@ -1,0 +1,6 @@
+@article{2020ccnet,
+  title = {CCNet: Criss-Cross Attention for Semantic Segmentation},
+  author = {Huang, Zilong and Wang, Xinggang and Wei, Yunchao and Huang, Lichao and Shi, Humphrey and Liu, Wenyu and Huang, Thomas S},
+  year = {2020},
+  publisher = {IEEE},
+}

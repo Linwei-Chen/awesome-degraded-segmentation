@@ -1,0 +1,6 @@
+@article{mazzini2018guided,
+  title = {Guided upsampling network for real-time semantic segmentation},
+  author = {Mazzini, Davide},
+  journal = {arXiv preprint arXiv:1807.07466},
+  year = {2018},
+}

@@ -1,0 +1,6 @@
+@inproceedings{2021setr,
+  title = {Rethinking semantic segmentation from a sequence-to-sequence perspective with transformers},
+  author = {Zheng, Sixiao and Lu, Jiachen and Zhao, Hengshuang and Zhu, Xiatian and Luo, Zekun and Wang, Yabiao and Fu, Yanwei and Feng, Jianfeng and Xiang, Tao and Torr, Philip HS and others},
+  pages = {6881--6890},
+  year = {2021},
+}

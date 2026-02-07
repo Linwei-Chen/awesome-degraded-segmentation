@@ -1,0 +1,6 @@
+@article{qin2023unsupervised,
+  title = {Unsupervised region-growing network for object segmentation in atmospheric turbulence},
+  author = {Qin, Dehao and Saha, Ripon and Jayasuriya, Suren and Ye, Jinwei and Li, Nianyi},
+  journal = {arXiv preprint arXiv:2311.03572},
+  year = {2023},
+}

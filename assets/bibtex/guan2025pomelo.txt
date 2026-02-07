@@ -1,0 +1,9 @@
+@article{guan2025pomelo,
+  title = {Pomelo-Net: A lightweight semantic segmentation model for key elements segmentation in honey pomelo orchard for automated navigation},
+  author = {Guan, Xianlu and Wan, Huan and He, Zixuan and Liu, Zibo and Jiang, Rui and Ou, Yuanzhen and Chen, Yuli and Gu, Huaning and Zhou, Zhiyan},
+  journal = {Computers and Electronics in Agriculture},
+  volume = {229},
+  pages = {109760},
+  year = {2025},
+  publisher = {Elsevier},
+}

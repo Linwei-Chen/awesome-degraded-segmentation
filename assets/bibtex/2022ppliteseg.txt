@@ -1,0 +1,6 @@
+@article{2022ppliteseg,
+  title = {Pp-liteseg: A superior real-time semantic segmentation model},
+  author = {Peng, Juncai and Liu, Yi and Tang, Shiyu and Hao, Yuying and Chu, Lutao and Chen, Guowei and Wu, Zewu and Chen, Zeyu and Yu, Zhiliang and Du, Yuning and others},
+  journal = {arXiv preprint arXiv:2204.02681},
+  year = {2022},
+}

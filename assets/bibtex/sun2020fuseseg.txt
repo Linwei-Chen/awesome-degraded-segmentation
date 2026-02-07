@@ -1,0 +1,11 @@
+@article{sun2020fuseseg,
+  title = {FuseSeg: Semantic segmentation of urban scenes based on RGB and thermal data fusion},
+  author = {Sun, Yuxiang and Zuo, Weixun and Yun, Peng and Wang, Hengli and Liu, Ming},
+  journal = {IEEE Transactions on Automation Science and Engineering},
+  volume = {18},
+  number = {3},
+  pages = {1000--1011},
+  year = {2020},
+  publisher = {IEEE},
+  doi = {10.1109/tase.2020.2993143 },
+}

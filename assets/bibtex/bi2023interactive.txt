@@ -1,0 +1,10 @@
+@article{bi2023interactive,
+  title = {Interactive learning of intrinsic and extrinsic properties for all-day semantic segmentation},
+  author = {Bi, Qi and You, Shaodi and Gevers, Theo},
+  journal = {IEEE Transactions on Image Processing},
+  volume = {32},
+  pages = {4818--4833},
+  year = {2023},
+  publisher = {IEEE},
+  doi = {10.1109/tip.2023.3290469 },
+}

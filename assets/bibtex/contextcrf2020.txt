@@ -1,0 +1,8 @@
+@article{contextcrf2020,
+  title = {Context from within: Hierarchical context modeling for semantic segmentation},
+  author = {Nguyen, Kien and Fookes, Clinton and Sridharan, Sridha},
+  journal = {Pattern Recognition},
+  pages = {107358},
+  year = {2020},
+  publisher = {Elsevier},
+}

@@ -1,0 +1,10 @@
+@article{shen2020automatic,
+  title = {Automatic extraction of blur regions on a single image based on semantic segmentation},
+  author = {Shen, Aodong and Dong, Han and Wang, Kun and Kong, Youyong and Wu, Jiasong and Shu, Huazhong},
+  journal = {IEEE Access},
+  volume = {8},
+  pages = {44867--44878},
+  year = {2020},
+  publisher = {IEEE},
+  doi = {10.1109/access.2020.2978084 },
+}

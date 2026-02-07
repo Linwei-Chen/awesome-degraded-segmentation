@@ -1,0 +1,7 @@
+@inproceedings{xiao2025event,
+  title = {Event-based Video Super-Resolution via State Space Models},
+  author = {Xiao, Zeyu and Wang, Xinchao},
+  pages = {12564--12574},
+  year = {2025},
+  doi = {10.1109/cvpr52734.2025.01172 },
+}

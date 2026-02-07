@@ -1,0 +1,5 @@
+@inproceedings{pathak2018interaction,
+  title = {Learning instance segmentation by interaction},
+  author = {Pathak, Deepak and Shentu, Yide and Chen, Dian and Agrawal, Pulkit and Darrell, Trevor and Levine, Sergey and Malik, Jitendra},
+  year = {2018},
+}

@@ -1,0 +1,10 @@
+@article{chen2022light,
+  title = {Light transport induced domain adaptation for semantic segmentation in thermal infrared urban scenes},
+  author = {Chen, Junzhang and Liu, Zichao and Jin, Darui and Wang, Yuanyuan and Yang, Fan and Bai, Xiangzhi},
+  journal = {IEEE Transactions on Intelligent Transportation Systems},
+  volume = {23},
+  number = {12},
+  pages = {23194--23211},
+  year = {2022},
+  publisher = {IEEE},
+}

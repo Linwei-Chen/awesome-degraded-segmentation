@@ -1,0 +1,6 @@
+@inproceedings{maskxrcnn2018,
+  title = {Learning to segment every thing},
+  author = {Hu, Ronghang and Doll{\'a}r, Piotr and He, Kaiming and Darrell, Trevor and Girshick, Ross},
+  pages = {4233--4241},
+  year = {2018},
+}

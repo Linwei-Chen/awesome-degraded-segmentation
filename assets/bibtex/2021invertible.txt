@@ -1,0 +1,6 @@
+@inproceedings{2021invertible,
+  title = {Invertible Denoising Network: A Light Solution for Real Noise Removal},
+  author = {Liu, Yang and Qin, Zhenyue and Anwar, Saeed and Ji, Pan and Kim, Dongwoo and Caldwell, Sabrina and Gedeon, Tom},
+  pages = {13365--13374},
+  year = {2021},
+}

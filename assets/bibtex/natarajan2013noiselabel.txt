@@ -1,0 +1,5 @@
+@inproceedings{natarajan2013noiselabel,
+  title = {Learning with noisy labels},
+  author = {Natarajan, Nagarajan and Dhillon, Inderjit S and Ravikumar, Pradeep K and Tewari, Ambuj},
+  year = {2013},
+}

@@ -1,0 +1,6 @@
+@article{tian2019dense,
+  title = {Dense fusion classmate network for land cover classification},
+  author = {Tian, Chao and Li, Cong and Shi, Jianping},
+  journal = {arXiv preprint arXiv:1911.08169},
+  year = {2019},
+}

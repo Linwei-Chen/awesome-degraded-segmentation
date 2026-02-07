@@ -1,0 +1,6 @@
+@inproceedings{tkcn,
+  title = {Tree-structured kronecker convolutional network for semantic segmentation},
+  author = {Wu, Tianyi and Tang, Sheng and Zhang, Rui and Cao, Juan and Li, JinTao},
+  pages = {940--945},
+  year = {2019},
+}

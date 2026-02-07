@@ -1,0 +1,7 @@
+@inproceedings{dong2023icda,
+  title = {ICDA: Illumination-Coupled Domain Adaptation Framework for Unsupervised Nighttime Semantic Segmentation.},
+  author = {Dong, Chenghao and Kang, Xuejing and Ming, Anlong},
+  pages = {672--680},
+  year = {2023},
+  doi = {10.24963/ijcai.2023/75 },
+}

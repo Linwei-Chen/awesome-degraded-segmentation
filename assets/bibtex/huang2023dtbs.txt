@@ -1,0 +1,9 @@
+@incollection{huang2023dtbs,
+  title = {Dtbs: Dual-teacher bi-directional self-training for domain adaptation in nighttime semantic segmentation},
+  author = {Huang, Fanding and Yao, Zihao and Zhou, Wenhui},
+  booktitle = {European Conference on Artificial Intelligence 2023},
+  pages = {1084--1091},
+  year = {2023},
+  publisher = {IOS Press},
+  doi = {doi.org/10.3233/faia230382 },
+}

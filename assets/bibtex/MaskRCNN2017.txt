@@ -1,0 +1,6 @@
+@inproceedings{MaskRCNN2017,
+  title = {Mask R-CNN},
+  author = {He, Kaiming and Gkioxari, Georgia and Doll{\'a}r, Piotr and Girshick, Ross},
+  pages = {2961--2969},
+  year = {2017},
+}

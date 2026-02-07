@@ -1,0 +1,6 @@
+@inproceedings{ade20k,
+  title = {Scene parsing through ade20k dataset},
+  author = {Zhou, Bolei and Zhao, Hang and Puig, Xavier and Fidler, Sanja and Barriuso, Adela and Torralba, Antonio},
+  pages = {633--641},
+  year = {2017},
+}

@@ -1,0 +1,6 @@
+@inproceedings{2021regionvit,
+  title = {Regionvit: Regional-to-local attention for vision transformers},
+  author = {Chen, Chun-Fu and Panda, Rameswar and Fan, Quanfu},
+  pages = {1--15},
+  year = {2021},
+}

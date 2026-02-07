@@ -1,0 +1,6 @@
+@inproceedings{2022convnet,
+  title = {A convnet for the 2020s},
+  author = {Liu, Zhuang and Mao, Hanzi and Wu, Chao-Yuan and Feichtenhofer, Christoph and Darrell, Trevor and Xie, Saining},
+  pages = {11976--11986},
+  year = {2022},
+}

@@ -1,0 +1,7 @@
+@inproceedings{zhang2023delivering,
+  title = {Delivering arbitrary-modal semantic segmentation},
+  author = {Zhang, Jiaming and Liu, Ruiping and Shi, Hao and Yang, Kailun and Rei{\ss}, Simon and Peng, Kunyu and Fu, Haodong and Wang, Kaiwei and Stiefelhagen, Rainer},
+  pages = {1136--1147},
+  year = {2023},
+  doi = {10.1109/cvpr52729.2023.00116 },
+}

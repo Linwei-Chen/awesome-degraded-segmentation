@@ -1,0 +1,10 @@
+@article{2013quantitative,
+  title = {Quantitative error measures for edge detection},
+  author = {Lopez-Molina, Carlos and De Baets, Bernard and Bustince, Humberto},
+  journal = {Pattern recognition},
+  volume = {46},
+  number = {4},
+  pages = {1125--1139},
+  year = {2013},
+  publisher = {Elsevier},
+}

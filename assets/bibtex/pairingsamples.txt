@@ -1,0 +1,6 @@
+@article{pairingsamples,
+  title = {Data augmentation by pairing samples for images classification},
+  author = {Inoue, Hiroshi},
+  journal = {arXiv preprint arXiv:1801.02929},
+  year = {2018},
+}

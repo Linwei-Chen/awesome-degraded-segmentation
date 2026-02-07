@@ -1,0 +1,9 @@
+@article{2019exdark,
+  title = {Getting to know low-light images with the exclusively dark dataset},
+  author = {Loh, Yuen Peng and Chan, Chee Seng},
+  journal = {Computer Vision and Image Understanding},
+  volume = {178},
+  pages = {30--42},
+  year = {2019},
+  publisher = {Elsevier},
+}

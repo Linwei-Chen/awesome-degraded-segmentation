@@ -1,0 +1,6 @@
+@inproceedings{Deepextremecut2018,
+  title = {Deep extreme cut: From extreme points to object segmentation},
+  author = {Maninis, Kevis-Kokitsi and Caelles, Sergi and Pont-Tuset, Jordi and Van Gool, Luc},
+  pages = {616--625},
+  year = {2018},
+}

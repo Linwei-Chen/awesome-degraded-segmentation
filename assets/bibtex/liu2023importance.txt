@@ -1,0 +1,10 @@
+@article{liu2023importance,
+  title = {Importance biased traffic scene segmentation in diverse weather conditions},
+  author = {Liu, Yazhou and Wang, Ming and Lasang, Pongsak and Sun, Quansen},
+  journal = {IEEE Transactions on Intelligent Vehicles},
+  volume = {9},
+  number = {1},
+  pages = {2753--2765},
+  year = {2023},
+  publisher = {IEEE},
+}

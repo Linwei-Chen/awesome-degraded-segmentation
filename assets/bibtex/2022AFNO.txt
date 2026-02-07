@@ -1,0 +1,6 @@
+@inproceedings{2022AFNO,
+  title = {Adaptive fourier neural operators: Efficient token mixers for transformers},
+  author = {Guibas, John and Mardani, Morteza and Li, Zongyi and Tao, Andrew and Anandkumar, Anima and Catanzaro, Bryan},
+  year = {2022},
+  pages = {1--12},
+}

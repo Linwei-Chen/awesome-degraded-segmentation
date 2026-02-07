@@ -1,0 +1,6 @@
+@inproceedings{ACDC,
+  title = {ACDC: The adverse conditions dataset with correspondences for semantic driving scene understanding},
+  author = {Sakaridis, Christos and Dai, Dengxin and Van Gool, Luc},
+  pages = {10765--10775},
+  year = {2021},
+}

@@ -1,0 +1,8 @@
+@inproceedings{marie2023evaluation,
+  title = {Evaluation of Image Quality Assessment Metrics for Semantic Segmentation in a Machine-to-Machine Communication Scenario},
+  author = {Marie, Alban and Desnos, Karol and Morin, Luce and Zhang, Lu},
+  booktitle = {International Conference on Quality of Multimedia Experience},
+  pages = {1--6},
+  year = {2023},
+  organization = {IEEE},
+}

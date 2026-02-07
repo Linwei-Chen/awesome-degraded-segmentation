@@ -1,0 +1,10 @@
+@article{wang2023dpnet,
+  title = {Dpnet: Dual-pyramid semantic segmentation network based on improved deeplabv3 plus},
+  author = {Wang, Jun and Zhang, Xiaolin and Yan, Tianhong and Tan, Aihong},
+  journal = {Electronics},
+  volume = {12},
+  number = {14},
+  pages = {3161},
+  year = {2023},
+  publisher = {MDPI},
+}

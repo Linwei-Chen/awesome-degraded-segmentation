@@ -1,0 +1,6 @@
+@inproceedings{2019notallarea,
+  title = {Not all areas are equal: Transfer learning for semantic segmentation via hierarchical region selection},
+  author = {Sun, Ruoqi and Zhu, Xinge and Wu, Chongruo and Huang, Chen and Shi, Jianping and Ma, Lizhuang},
+  pages = {4360--4369},
+  year = {2019},
+}

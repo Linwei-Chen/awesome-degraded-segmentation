@@ -1,0 +1,6 @@
+@article{SpaceNetMVOI,
+  title = {SpaceNet MVOI: a Multi-View Overhead Imagery Dataset Supplementary Material},
+  author = {Weir, Nicholas and Lindenbaum, David and Bastidas, Alexei and Van Etten, Adam and McPherson, Sean and Shermeyer, Jacob and Kumar, Varun and Tang, Hanlin},
+  journal = {arXiv preprint arXiv:1903.12239},
+  year = {2019},
+}

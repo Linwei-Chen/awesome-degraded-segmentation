@@ -1,0 +1,9 @@
+@article{zhou2020scale,
+  title = {Scale-aware spatial pyramid pooling with both encoder-mask and scale-attention for semantic segmentation},
+  author = {Zhou, Feng and Hu, Yong and Shen, Xukun},
+  journal = {Neurocomputing},
+  volume = {383},
+  pages = {174--182},
+  year = {2020},
+  publisher = {Elsevier},
+}

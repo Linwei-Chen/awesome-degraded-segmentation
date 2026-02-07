@@ -1,0 +1,6 @@
+@inproceedings{dis,
+  title = {Deep dual learning for semantic image segmentation},
+  author = {Luo, Ping and Wang, Guangrun and Lin, Liang and Wang, Xiaogang},
+  pages = {2718--2726},
+  year = {2017},
+}

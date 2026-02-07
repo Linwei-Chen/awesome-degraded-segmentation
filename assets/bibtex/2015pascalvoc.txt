@@ -1,0 +1,8 @@
+@article{2015pascalvoc,
+  title = {The pascal visual object classes challenge: A retrospective},
+  author = {Everingham, Mark and Eslami, SM Ali and Van Gool, Luc and Williams, Christopher KI and Winn, John and Zisserman, Andrew},
+  volume = {111},
+  number = {1},
+  pages = {98--136},
+  year = {2015},
+}

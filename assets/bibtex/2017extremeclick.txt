@@ -1,0 +1,6 @@
+@inproceedings{2017extremeclick,
+  title = {Extreme clicking for efficient object annotation},
+  author = {Papadopoulos, Dim P and Uijlings, Jasper RR and Keller, Frank and Ferrari, Vittorio},
+  pages = {4930--4939},
+  year = {2017},
+}

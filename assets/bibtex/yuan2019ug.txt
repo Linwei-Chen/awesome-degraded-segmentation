@@ -1,0 +1,6 @@
+@article{yuan2019ug,
+  title = {UG $\^{}$\{$2+$\}$ $ Track 2: A Collective Benchmark Effort for Evaluating and Advancing Image Understanding in Poor Visibility Environments},
+  author = {Yuan, Ye and Yang, Wenhan and Ren, Wenqi and Liu, Jiaying and Scheirer, Walter J and Wang, Zhangyang},
+  journal = {arXiv preprint arXiv:1904.04474},
+  year = {2019},
+}

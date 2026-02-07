@@ -1,0 +1,7 @@
+@inproceedings{bruggemann2023contrastive,
+  title = {Contrastive model adaptation for cross-condition robustness in semantic segmentation},
+  author = {Br{\""u}ggemann, David and Sakaridis, Christos and Br{\""o}dermann, Tim and Van Gool, Luc},
+  pages = {11378--11387},
+  year = {2023},
+  doi = {10.1109/iccv51070.2023.01045 },
+}

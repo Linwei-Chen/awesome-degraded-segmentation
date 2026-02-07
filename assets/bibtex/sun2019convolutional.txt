@@ -1,0 +1,9 @@
+@inproceedings{sun2019convolutional,
+  title = {A convolutional network for joint deraining and dehazing from a single image for autonomous driving in rain},
+  author = {Sun, Hao and Ang, Marcelo H and Rus, Daniela},
+  booktitle = {2019 IEEE/RSJ International Conference on Intelligent Robots and Systems},
+  pages = {962--969},
+  year = {2019},
+  organization = {IEEE},
+  doi = {doi.org/10.1109/iros40897.2019.8967644 },
+}

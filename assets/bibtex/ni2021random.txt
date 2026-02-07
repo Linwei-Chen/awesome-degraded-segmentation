@@ -1,0 +1,9 @@
+@article{ni2021random,
+  title = {Random region matting for the high-resolution polsar image semantic segmentation},
+  author = {Ni, Jun and Zhang, Fan and Ma, Fei and Yin, Qiang and Xiang, Deliang},
+  journal = {IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  volume = {14},
+  pages = {3040--3051},
+  year = {2021},
+  publisher = {IEEE},
+}

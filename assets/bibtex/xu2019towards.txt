@@ -1,0 +1,6 @@
+@inproceedings{xu2019towards,
+  title = {Towards real scene super-resolution with raw images},
+  author = {Xu, Xiangyu and Ma, Yongrui and Sun, Wenxiu},
+  pages = {1723--1731},
+  year = {2019},
+}

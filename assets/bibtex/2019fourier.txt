@@ -1,0 +1,6 @@
+@article{2019fourier,
+  title = {A fourier perspective on model robustness in computer vision},
+  author = {Yin, Dong and Gontijo Lopes, Raphael and Shlens, Jon and Cubuk, Ekin Dogus and Gilmer, Justin},
+  volume = {32},
+  year = {2019},
+}

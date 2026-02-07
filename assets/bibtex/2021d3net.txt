@@ -1,0 +1,6 @@
+@inproceedings{2021d3net,
+  title = {Densely connected multi-dilated convolutional networks for dense prediction tasks},
+  author = {Takahashi, Naoya and Mitsufuji, Yuki},
+  pages = {993--1002},
+  year = {2021},
+}

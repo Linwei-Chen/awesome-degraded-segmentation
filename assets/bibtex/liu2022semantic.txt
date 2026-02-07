@@ -1,0 +1,9 @@
+@inproceedings{liu2022semantic,
+  title = {Semantic segmentation in learned compressed domain},
+  author = {Liu, Jinming and Sun, Heming and Katto, Jiro},
+  booktitle = {Picture Coding Symposium},
+  pages = {181--185},
+  year = {2022},
+  organization = {IEEE},
+  doi = {10.1109/pcs56426.2022.10018036 },
+}

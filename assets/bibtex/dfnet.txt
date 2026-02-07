@@ -1,0 +1,6 @@
+@inproceedings{dfnet,
+  title = {DFNet: Semantic Segmentation on Panoramic Images with Dynamic Loss Weights and Residual Fusion Block},
+  author = {Jiang, Wei and Wu, Yan and Guan, Linting and Zhao, Junqiao},
+  pages = {5887--5892},
+  year = {2019},
+}

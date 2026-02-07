@@ -1,0 +1,6 @@
+@inproceedings{2019indexnet,
+  title = {Indices matter: Learning to index for deep image matting},
+  author = {Lu, Hao and Dai, Yutong and Shen, Chunhua and Xu, Songcen},
+  pages = {3266--3275},
+  year = {2019},
+}

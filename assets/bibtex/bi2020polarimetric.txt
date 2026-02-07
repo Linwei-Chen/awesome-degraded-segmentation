@@ -1,0 +1,9 @@
+@article{bi2020polarimetric,
+  title = {Polarimetric SAR image semantic segmentation with 3D discrete wavelet transform and Markov random field},
+  author = {Bi, Haixia and Xu, Lin and Cao, Xiangyong and Xue, Yong and Xu, Zongben},
+  journal = {IEEE transactions on image processing},
+  volume = {29},
+  pages = {6601--6614},
+  year = {2020},
+  publisher = {IEEE},
+}

@@ -1,0 +1,10 @@
+@article{sakaridis2018semantic,
+  title = {Semantic foggy scene understanding with synthetic data},
+  author = {Sakaridis, Christos and Dai, Dengxin and Van Gool, Luc},
+  journal = {International Journal of Computer Vision},
+  volume = {126},
+  pages = {973--992},
+  year = {2018},
+  publisher = {Springer},
+  doi = {10.1007/s11263-018-1072-8 },
+}

@@ -1,0 +1,8 @@
+@inproceedings{choi2018bird,
+  title = {Bird Eyes: A Cloud-Based Object Detection System for Customisable Surveillance},
+  author = {Choi, Seoyoung and Salter, Eli and Zhang, Xuyun and W{\"u}nsche, Burkhard C},
+  booktitle = {2018 International Conference on Image and Vision Computing New Zealand},
+  pages = {1--6},
+  year = {2018},
+  organization = {IEEE},
+}

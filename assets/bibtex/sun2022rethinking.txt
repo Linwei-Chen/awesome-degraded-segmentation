@@ -1,0 +1,9 @@
+@article{sun2022rethinking,
+  title = {Rethinking image restoration for object detection},
+  author = {Sun, Shangquan and Ren, Wenqi and Wang, Tao and Cao, Xiaochun},
+  journal = {Advances in Neural Information Processing Systems},
+  volume = {35},
+  pages = {4461--4474},
+  year = {2022},
+  doi = {},
+}

@@ -1,0 +1,6 @@
+@inproceedings{2023lzu,
+  title = {Learning to Zoom and Unzoom},
+  author = {Thavamani, Chittesh and Li, Mengtian and Ferroni, Francesco and Ramanan, Deva},
+  pages = {5086--5095},
+  year = {2023},
+}

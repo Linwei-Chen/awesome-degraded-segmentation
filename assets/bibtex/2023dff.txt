@@ -1,0 +1,6 @@
+@inproceedings{2023dff,
+  title = {Deep frequency filtering for domain generalization},
+  author = {Lin, Shiqi and Zhang, Zhizheng and Huang, Zhipeng and Lu, Yan and Lan, Cuiling and Chu, Peng and You, Quanzeng and Wang, Jiang and Liu, Zicheng and Parulkar, Amey and others},
+  pages = {11797--11807},
+  year = {2023},
+}

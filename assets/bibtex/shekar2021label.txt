@@ -1,0 +1,11 @@
+@article{shekar2021label,
+  title = {Label-free robustness estimation of object detection cnns for autonomous driving applications},
+  author = {Shekar, Arvind Kumar and Gou, Liang and Ren, Liu and Wendt, Axel},
+  journal = {International Journal of Computer Vision},
+  volume = {129},
+  number = {4},
+  pages = {1185--1201},
+  year = {2021},
+  publisher = {Springer},
+  doi = {10.1007/s11263-020-01423-x },
+}

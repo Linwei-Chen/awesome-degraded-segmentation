@@ -1,0 +1,7 @@
+@inproceedings{2021gfnet,
+  title = {Global filter networks for image classification},
+  author = {Rao, Yongming and Zhao, Wenliang and Zhu, Zheng and Lu, Jiwen and Zhou, Jie},
+  volume = {34},
+  pages = {980--993},
+  year = {2021},
+}

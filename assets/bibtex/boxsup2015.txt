@@ -1,0 +1,6 @@
+@inproceedings{boxsup2015,
+  title = {Boxsup: Exploiting bounding boxes to supervise convolutional networks for semantic segmentation},
+  author = {Dai, Jifeng and He, Kaiming and Sun, Jian},
+  pages = {1635--1643},
+  year = {2015},
+}

@@ -1,0 +1,9 @@
+@inproceedings{yan2024segment,
+  title = {Segment-anything models achieve zero-shot robustness in autonomous driving},
+  author = {Yan, Jun and Wang, Pengyu and Wang, Danni and Huang, Weiquan and Watzenig, Daniel and Yin, Huilin},
+  booktitle = {2024 IEEE International Automated Vehicle Validation Conference},
+  pages = {1--8},
+  year = {2024},
+  organization = {IEEE},
+  doi = {10.1109/iavvc63304.2024.10786458 },
+}

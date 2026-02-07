@@ -1,0 +1,6 @@
+@inproceedings{Decoupleddeepneuralnetwork,
+  title = {Decoupled deep neural network for semi-supervised semantic segmentation},
+  author = {Hong, Seunghoon and Noh, Hyeonwoo and Han, Bohyung},
+  pages = {1495--1503},
+  year = {2015},
+}

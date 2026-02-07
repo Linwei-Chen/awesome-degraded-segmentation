@@ -1,0 +1,7 @@
+@inproceedings{2018smoothed,
+  title = {Smoothed dilated convolutions for improved dense prediction},
+  author = {Wang, Zhengyang and Ji, Shuiwang},
+  booktitle = { ACM SIGKDD International Conference on Knowledge Discovery \& Data Mining},
+  pages = {2486--2495},
+  year = {2018},
+}

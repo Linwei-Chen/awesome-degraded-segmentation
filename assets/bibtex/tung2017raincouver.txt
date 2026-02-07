@@ -1,0 +1,11 @@
+@article{tung2017raincouver,
+  title = {The raincouver scene parsing benchmark for self-driving in adverse weather and at night},
+  author = {Tung, Frederick and Chen, Jianhui and Meng, Lili and Little, James J},
+  journal = {IEEE Robotics and Automation Letters},
+  volume = {2},
+  number = {4},
+  pages = {2188--2193},
+  year = {2017},
+  publisher = {IEEE},
+  doi = {10.1109/lra.2017.2723926 },
+}

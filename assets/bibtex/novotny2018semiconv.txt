@@ -1,0 +1,6 @@
+@inproceedings{novotny2018semiconv,
+  title = {Semi-convolutional operators for instance segmentation},
+  author = {Novotny, David and Albanie, Samuel and Larlus, Diane and Vedaldi, Andrea},
+  pages = {86--102},
+  year = {2018},
+}

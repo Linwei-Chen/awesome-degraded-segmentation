@@ -1,0 +1,11 @@
+@article{erkent2020semantic,
+  title = {Semantic segmentation with unsupervised domain adaptation under varying weather conditions for autonomous vehicles},
+  author = {Erkent, {\""O}zg{\""u}r and Laugier, Christian},
+  journal = {IEEE Robotics and Automation Letters},
+  volume = {5},
+  number = {2},
+  pages = {3580--3587},
+  year = {2020},
+  publisher = {IEEE},
+  doi = {10.1109/lra.2020.2978666 },
+}

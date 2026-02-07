@@ -1,0 +1,6 @@
+@inproceedings{2022exploringfrequency,
+  title = {Exploring frequency adversarial attacks for face forgery detection},
+  author = {Jia, Shuai and Ma, Chao and Yao, Taiping and Yin, Bangjie and Ding, Shouhong and Yang, Xiaokang},
+  pages = {4103--4112},
+  year = {2022},
+}

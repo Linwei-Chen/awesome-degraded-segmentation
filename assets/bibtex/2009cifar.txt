@@ -1,0 +1,7 @@
+@article{2009cifar,
+  title = {Learning multiple layers of features from tiny images},
+  author = {Krizhevsky, Alex and Hinton, Geoffrey and others},
+  year = {2009},
+  publisher = {Toronto, ON, Canada},
+  pages = {1--60},
+}

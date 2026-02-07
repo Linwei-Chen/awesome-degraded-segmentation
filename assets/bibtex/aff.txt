@@ -1,0 +1,6 @@
+@inproceedings{aff,
+  title = {Adaptive affinity fields for semantic segmentation},
+  author = {Ke, Tsung-Wei and Hwang, Jyh-Jing and Liu, Ziwei and Yu, Stella X},
+  pages = {587--602},
+  year = {2018},
+}

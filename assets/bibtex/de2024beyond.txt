@@ -1,0 +1,11 @@
+@article{de2024beyond,
+  title = {Beyond Conventional Monitoring: A Semantic Segmentation Approach to Quantifying Traffic-Induced Dust on Unsealed Roads},
+  author = {de Silva, Asanka and Ranasinghe, Rajitha and Sounthararajah, Arooran and Haghighi, Hamed and Kodikara, Jayantha},
+  journal = {Sensors},
+  volume = {24},
+  number = {2},
+  pages = {12},
+  year = {2024},
+  publisher = {MDPI},
+  doi = {10.3390/s24020510 },
+}

@@ -1,0 +1,6 @@
+@inproceedings{ship2019,
+  title = {Ship Instance Segmentation from Remote Sensing Images Using Sequence Local Context Module},
+  author = {Feng, Yingchao and Diao, Wenhui and Zhang, Yi and Li, Hao and Chang, Zhonghan and Yan, Menglong and Sun, Xian and Gao, Xin},
+  pages = {1025--1028},
+  year = {2019},
+}

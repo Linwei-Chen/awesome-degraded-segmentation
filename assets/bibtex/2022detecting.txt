@@ -1,0 +1,6 @@
+@inproceedings{2022detecting,
+  title = {Detecting camouflaged object in frequency domain},
+  author = {Zhong, Yijie and Li, Bo and Tang, Lv and Kuang, Senyun and Wu, Shuang and Ding, Shouhong},
+  pages = {4504--4513},
+  year = {2022},
+}

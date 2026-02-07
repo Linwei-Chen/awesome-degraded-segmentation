@@ -1,0 +1,10 @@
+@article{jiang2025drnet,
+  title = {DRNet: Learning a dynamic recursion network for chaotic rain streak removal},
+  author = {Jiang, Zhiying and Liu, Risheng and Yang, Shuzhou and Zhang, Zengxi and Fan, Xin},
+  journal = {Pattern Recognition},
+  volume = {158},
+  pages = {111004},
+  year = {2025},
+  publisher = {Elsevier},
+  doi = {doi.org/10.1016/j.patcog.2024.111004 },
+}

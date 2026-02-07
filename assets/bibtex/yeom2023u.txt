@@ -1,0 +1,6 @@
+@article{yeom2023u,
+  title = {U-MixFormer: UNet-like Transformer with Mix-Attention for Efficient Semantic Segmentation},
+  author = {Yeom, Seul-Ki and von Klitzing, Julian},
+  journal = {arXiv preprint arXiv:2312.06272},
+  year = {2023},
+}

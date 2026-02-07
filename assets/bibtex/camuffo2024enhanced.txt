@@ -1,0 +1,9 @@
+@inproceedings{camuffo2024enhanced,
+  title = {Enhanced Model Robustness to Input Corruptions by Per-corruption Adaptation of Normalization Statistics},
+  author = {Camuffo, Elena and Michieli, Umberto and Milani, Simone and Moon, Jijoong and Ozay, Mete},
+  booktitle = {2024 IEEE/RSJ International Conference on Intelligent Robots and Systems},
+  pages = {11558--11565},
+  year = {2024},
+  organization = {IEEE},
+  doi = {10.1109/iros58592.2024.10802512 },
+}

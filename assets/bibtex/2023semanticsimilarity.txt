@@ -1,0 +1,9 @@
+@article{2023semanticsimilarity,
+  title = {Semantic similarity metrics for image registration},
+  author = {Czolbe, Steffen and Pegios, Paraskevas and Krause, Oswin and Feragen, Aasa},
+  journal = {Medical Image Analysis},
+  volume = {87},
+  pages = {102830},
+  year = {2023},
+  publisher = {Elsevier},
+}

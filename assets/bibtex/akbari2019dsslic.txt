@@ -1,0 +1,9 @@
+@inproceedings{akbari2019dsslic,
+  title = {DSSLIC: Deep semantic segmentation-based layered image compression},
+  author = {Akbari, Mohammad and Liang, Jie and Han, Jingning},
+  booktitle = {IEEE International Conference on Acoustics, Speech and Signal Processing},
+  pages = {2042--2046},
+  year = {2019},
+  organization = {IEEE},
+  doi = {10.1109/icassp.2019.8683541 },
+}

@@ -1,0 +1,10 @@
+@article{niu2020effective,
+  title = {Effective image restoration for semantic segmentation},
+  author = {Niu, Xuejing and Yan, Bo and Tan, Weimin and Wang, Junyi},
+  journal = {Neurocomputing},
+  volume = {374},
+  pages = {100--108},
+  year = {2020},
+  publisher = {Elsevier},
+  doi = {10.1016/j.neucom.2019.09.063 },
+}

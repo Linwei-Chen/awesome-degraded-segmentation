@@ -1,0 +1,7 @@
+@article{pyramidalfusion2020,
+  title = {Efficient semantic segmentation with pyramidal fusion},
+  journal = {Pattern Recognition},
+  pages = {107611},
+  year = {2020},
+  publisher = {Elsevier},
+}

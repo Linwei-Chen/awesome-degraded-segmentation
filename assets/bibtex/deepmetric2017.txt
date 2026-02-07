@@ -1,0 +1,6 @@
+@article{deepmetric2017,
+  title = {Semantic instance segmentation via deep metric learning},
+  author = {Fathi, Alireza and Wojna, Zbigniew and Rathod, Vivek and Wang, Peng and Song, Hyun Oh and Guadarrama, Sergio and Murphy, Kevin P},
+  journal = {arXiv preprint arXiv:1703.10277},
+  year = {2017},
+}

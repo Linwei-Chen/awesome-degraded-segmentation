@@ -1,0 +1,7 @@
+@inproceedings{du2019ssf,
+  title = {Ssf-dan: Separated semantic feature based domain adaptation network for semantic segmentation},
+  author = {Du, Liang and Tan, Jingang and Yang, Hongye and Feng, Jianfeng and Xue, Xiangyang and Zheng, Qibao and Ye, Xiaoqing and Zhang, Xiaolin},
+  pages = {982--991},
+  year = {2019},
+  doi = {10.1109/iccv.2019.00107 },
+}

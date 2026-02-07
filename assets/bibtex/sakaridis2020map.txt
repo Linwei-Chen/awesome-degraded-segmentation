@@ -1,0 +1,10 @@
+@article{sakaridis2020map,
+  title = {Map-guided curriculum domain adaptation and uncertainty-aware evaluation for semantic nighttime image segmentation},
+  author = {Sakaridis, Christos and Dai, Dengxin and Van Gool, Luc},
+  volume = {44},
+  number = {6},
+  pages = {3139--3153},
+  year = {2020},
+  publisher = {IEEE},
+  doi = {10.1109/tpami.2020.3045882 },
+}

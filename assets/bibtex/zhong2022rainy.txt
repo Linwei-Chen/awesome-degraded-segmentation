@@ -1,0 +1,7 @@
+@inproceedings{zhong2022rainy,
+  title = {Rainy WCity: A Real Rainfall Dataset with Diverse Conditions for Semantic Driving Scene Understanding.},
+  author = {Zhong, Xian and Tu, Shidong and Ma, Xianzheng and Jiang, Kui and Huang, Wenxin and Wang, Zheng},
+  pages = {1743--1749},
+  year = {2022},
+  doi = {10.24963/ijcai.2022/243},
+}

@@ -1,0 +1,7 @@
+@inproceedings{chang2019all,
+  title = {All about structure: Adapting structural information across domains for boosting semantic segmentation},
+  author = {Chang, Wei-Lun and Wang, Hui-Po and Peng, Wen-Hsiao and Chiu, Wei-Chen},
+  pages = {1900--1909},
+  year = {2019},
+  doi = {10.1109/cvpr.2019.00200 },
+}

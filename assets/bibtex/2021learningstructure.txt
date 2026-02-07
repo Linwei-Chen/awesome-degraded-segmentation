@@ -1,0 +1,7 @@
+@inproceedings{2021learningstructure,
+  title = {Learning structure-aware semantic segmentation with image-level supervision},
+  author = {Liu, Jiawei and Zhang, Jing and Hong, Yicong and Barnes, Nick},
+  booktitle = {International Joint Conference on Neural Networks},
+  pages = {1--8},
+  year = {2021},
+}

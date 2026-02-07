@@ -1,0 +1,10 @@
+@article{wang2021raining,
+  title = {A De-raining semantic segmentation network for real-time foreground segmentation},
+  author = {Wang, Fanyi and Zhang, Yihui},
+  journal = {Journal of Real-Time Image Processing},
+  volume = {18},
+  pages = {873--887},
+  year = {2021},
+  publisher = {Springer},
+  doi = {10.1007/s11554-020-01042-2 },
+}

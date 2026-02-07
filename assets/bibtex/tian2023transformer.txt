@@ -1,0 +1,11 @@
+@article{tian2023transformer,
+  title = {Transformer-based under-sampled single-pixel imaging},
+  author = {Tian, Ye and Fu, Ying and Zhang, Jun},
+  journal = {Chinese Journal of Electronics},
+  volume = {32},
+  number = {5},
+  pages = {1151--1159},
+  year = {2023},
+  publisher = {CIE},
+  doi = {10.23919/cje.2022.00.284 },
+}

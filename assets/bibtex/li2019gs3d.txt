@@ -1,0 +1,6 @@
+@inproceedings{li2019gs3d,
+  title = {Gs3d: An efficient 3d object detection framework for autonomous driving},
+  author = {Li, Buyu and Ouyang, Wanli and Sheng, Lu and Zeng, Xingyu and Wang, Xiaogang},
+  pages = {1019--1028},
+  year = {2019},
+}

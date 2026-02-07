@@ -1,0 +1,6 @@
+@article{wang2023survey,
+  title = {A Survey on the Robustness of Computer Vision Models against Common Corruptions},
+  author = {Wang, Shunxin and Veldhuis, Raymond and Brune, Christoph and Strisciuglio, Nicola},
+  journal = {arXiv preprint arXiv:2305.06024},
+  year = {2023},
+}

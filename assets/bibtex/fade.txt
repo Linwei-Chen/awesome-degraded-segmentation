@@ -1,0 +1,7 @@
+@inproceedings{fade,
+  title = {FADE: Fusing the assets of decoder and encoder for task-agnostic upsampling},
+  author = {Lu, Hao and Liu, Wenze and Fu, Hongtao and Cao, Zhiguo},
+  pages = {231--247},
+  year = {2022},
+  organization = {Springer},
+}

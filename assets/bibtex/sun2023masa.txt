@@ -1,0 +1,10 @@
+@article{sun2023masa,
+  title = {Masa-segnet: A semantic segmentation network for polsar images},
+  author = {Sun, Jun and Yang, Shiqi and Gao, Xuesong and Ou, Dinghua and Tian, Zhaonan and Wu, Jing and Wang, Mantao},
+  journal = {Remote Sensing},
+  volume = {15},
+  number = {14},
+  pages = {3662},
+  year = {2023},
+  publisher = {MDPI},
+}

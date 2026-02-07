@@ -1,0 +1,11 @@
+@article{jiqing2023all,
+  title = {All-weather road drivable area segmentation method based on CycleGAN},
+  author = {Jiqing, Chen and Depeng, Wei and Teng, Long and Tian, Luo and Huabin, Wang},
+  journal = {The Visual Computer},
+  volume = {39},
+  number = {10},
+  pages = {5135--5151},
+  year = {2023},
+  publisher = {Springer},
+  doi = {10.1007/s00371-022-02650-8 },
+}

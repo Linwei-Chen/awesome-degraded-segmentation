@@ -1,0 +1,6 @@
+@inproceedings{2023revisiting,
+  title = {Revisiting Vision Transformer from the View of Path Ensemble},
+  author = {Chang, Shuning and Wang, Pichao and Luo, Hao and Wang, Fan and Shou, Mike Zheng},
+  pages = {19889--19899},
+  year = {2023},
+}

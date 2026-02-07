@@ -1,0 +1,6 @@
+@inproceedings{2023nat,
+  title = {Neighborhood attention transformer},
+  author = {Hassani, Ali and Walton, Steven and Li, Jiachen and Li, Shen and Shi, Humphrey},
+  pages = {6185--6194},
+  year = {2023},
+}

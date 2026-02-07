@@ -1,0 +1,10 @@
+@article{wang2022cluster,
+  title = {Cluster alignment with target knowledge mining for unsupervised domain adaptation semantic segmentation},
+  author = {Wang, Shuang and Zhao, Dong and Zhang, Chi and Guo, Yuwei and Zang, Qi and Gu, Yu and Li, Yi and Jiao, Licheng},
+  journal = {IEEE Transactions on Image Processing},
+  volume = {31},
+  pages = {7403--7418},
+  year = {2022},
+  publisher = {IEEE},
+  doi = {10.1109/tip.2022.3222634 },
+}

@@ -1,0 +1,6 @@
+@article{gff,
+  title = {GFF: Gated Fully Fusion for Semantic Segmentation},
+  author = {Li, Xiangtai and Zhao, Houlong and Han, Lei and Tong, Yunhai and Yang, Kuiyuan},
+  journal = {arXiv preprint arXiv:1904.01803},
+  year = {2019},
+}

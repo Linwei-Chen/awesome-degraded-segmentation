@@ -1,0 +1,6 @@
+@inproceedings{sbd2011,
+  title = {Semantic contours from inverse detectors},
+  author = {Hariharan, Bharath and Arbel{\'a}ez, Pablo and Bourdev, Lubomir and Maji, Subhransu and Malik, Jitendra},
+  pages = {991--998},
+  year = {2011},
+}

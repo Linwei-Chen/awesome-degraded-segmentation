@@ -1,0 +1,6 @@
+@inproceedings{2021dpt,
+  title = {Vision transformers for dense prediction},
+  author = {Ranftl, Ren{\'e} and Bochkovskiy, Alexey and Koltun, Vladlen},
+  pages = {12179--12188},
+  year = {2021},
+}

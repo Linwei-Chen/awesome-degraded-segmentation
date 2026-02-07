@@ -1,0 +1,6 @@
+@inproceedings{2023maskdino,
+  title = {Mask dino: Towards a unified transformer-based framework for object detection and segmentation},
+  author = {Li, Feng and Zhang, Hao and Xu, Huaizhe and Liu, Shilong and Zhang, Lei and Ni, Lionel M and Shum, Heung-Yeung},
+  pages = {3041--3050},
+  year = {2023},
+}

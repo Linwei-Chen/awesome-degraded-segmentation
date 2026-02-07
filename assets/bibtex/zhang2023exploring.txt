@@ -1,0 +1,9 @@
+@article{zhang2023exploring,
+  title = {Exploring the Robustness of Human Parsers Toward Common Corruptions},
+  author = {Zhang, Sanyi and Cao, Xiaochun and Wang, Rui and Qi, Guo-Jun and Zhou, Jie},
+  journal = {IEEE Transactions on Image Processing},
+  volume = {32},
+  pages = {5394--5407},
+  year = {2023},
+  publisher = {IEEE},
+}

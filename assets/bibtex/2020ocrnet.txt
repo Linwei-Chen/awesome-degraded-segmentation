@@ -1,0 +1,7 @@
+@inproceedings{2020ocrnet,
+  title = {Object-contextual representations for semantic segmentation},
+  author = {Yuan, Yuhui and Chen, Xilin and Wang, Jingdong},
+  pages = {173--190},
+  year = {2020},
+  organization = {Springer},
+}

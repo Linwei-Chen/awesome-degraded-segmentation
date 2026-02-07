@@ -1,0 +1,6 @@
+@inproceedings{kuo2018deep,
+  title = {Deep Aggregation Net for Land Cover Classification.},
+  author = {Kuo, Tzu-Sheng and Tseng, Keng-Sen and Yan, Jia-Wei and Liu, Yen-Cheng and Wang, Yu-Chiang Frank},
+  pages = {252--256},
+  year = {2018},
+}

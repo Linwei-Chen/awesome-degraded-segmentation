@@ -1,0 +1,7 @@
+@inproceedings{kim2020learning,
+  title = {Learning texture invariant representation for domain adaptation of semantic segmentation},
+  author = {Kim, Myeongjin and Byun, Hyeran},
+  pages = {12975--12984},
+  year = {2020},
+  doi = {10.1109/cvpr42600.2020.01299 },
+}

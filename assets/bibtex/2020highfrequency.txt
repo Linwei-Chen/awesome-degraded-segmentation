@@ -1,0 +1,6 @@
+@inproceedings{2020highfrequency,
+  title = {High-frequency component helps explain the generalization of convolutional neural networks},
+  author = {Wang, Haohan and Wu, Xindi and Huang, Zeyi and Xing, Eric P},
+  pages = {8684--8694},
+  year = {2020},
+}

@@ -1,0 +1,8 @@
+@inproceedings{lei2020semantic,
+  title = {Semantic image segmentation on snow driving scenarios},
+  author = {Lei, Yayun and Emaru, Takanori and Ravankar, Ankit A and Kobayashi, Yukinori and Wang, Su},
+  booktitle = {2020 IEEE International Conference on Mechatronics and Automation},
+  pages = {1094--1100},
+  year = {2020},
+  organization = {IEEE},
+}

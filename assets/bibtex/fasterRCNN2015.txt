@@ -1,0 +1,6 @@
+@inproceedings{fasterRCNN2015,
+  title = {Faster R-CNN: Towards real-time object detection with region proposal networks},
+  author = {Ren, Shaoqing and He, Kaiming and Girshick, Ross and Sun, Jian},
+  pages = {91--99},
+  year = {2015},
+}

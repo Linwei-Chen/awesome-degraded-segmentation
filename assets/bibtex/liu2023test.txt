@@ -1,0 +1,11 @@
+@article{liu2023test,
+  title = {Test-time adaptation for nighttime color-thermal semantic segmentation},
+  author = {Liu, Yexin and Zhang, Weiming and Zhao, Guoyang and Zhu, Jinjing and Vasilakos, Athanasios V and Wang, Lin},
+  journal = {IEEE Transactions on Artificial Intelligence},
+  volume = {5},
+  number = {10},
+  pages = {4893--4904},
+  year = {2023},
+  publisher = {IEEE},
+  doi = {10.1109/tai.2023.3336611 },
+}

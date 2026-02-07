@@ -1,0 +1,6 @@
+@inproceedings{2015deconv,
+  title = {Learning deconvolution network for semantic segmentation},
+  author = {Noh, Hyeonwoo and Hong, Seunghoon and Han, Bohyung},
+  pages = {1520--1528},
+  year = {2015},
+}

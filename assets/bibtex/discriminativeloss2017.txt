@@ -1,0 +1,6 @@
+@article{discriminativeloss2017,
+  title = {Semantic instance segmentation with a discriminative loss function},
+  author = {De Brabandere, Bert and Neven, Davy and Van Gool, Luc},
+  journal = {arXiv preprint arXiv:1708.02551},
+  year = {2017},
+}

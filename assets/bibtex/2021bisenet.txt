@@ -1,0 +1,9 @@
+@article{2021bisenet,
+  title = {Bisenet v2: Bilateral network with guided aggregation for real-time semantic segmentation},
+  author = {Yu, Changqian and Gao, Changxin and Wang, Jingbo and Yu, Gang and Shen, Chunhua and Sang, Nong},
+  volume = {129},
+  number = {11},
+  pages = {3051--3068},
+  year = {2021},
+  publisher = {Springer},
+}

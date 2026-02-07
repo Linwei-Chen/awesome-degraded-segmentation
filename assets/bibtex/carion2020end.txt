@@ -1,0 +1,8 @@
+@inproceedings{carion2020end,
+  title = {End-to-end object detection with transformers},
+  author = {Carion, Nicolas and Massa, Francisco and Synnaeve, Gabriel and Usunier, Nicolas and Kirillov, Alexander and Zagoruyko, Sergey},
+  booktitle = {European Conference on Computer Vision},
+  pages = {213--229},
+  year = {2020},
+  organization = {Springer},
+}

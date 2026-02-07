@@ -1,0 +1,6 @@
+@inproceedings{2019dupsample,
+  title = {Decoders Matter for Semantic Segmentation: Data-Dependent Decoding Enables Flexible Feature Aggregation},
+  author = {Tian, Zhi and He, Tong and Shen, Chunhua and Yan, Youliang},
+  pages = {3126--3135},
+  year = {2019},
+}

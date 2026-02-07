@@ -1,0 +1,6 @@
+@inproceedings{2016understanding,
+  title = {Understanding the effective receptive field in deep convolutional neural networks},
+  author = {Luo, Wenjie and Li, Yujia and Urtasun, Raquel and Zemel, Richard},
+  volume = {29},
+  year = {2016},
+}

@@ -1,0 +1,10 @@
+@article{cui2019accurate,
+  title = {Accurate semantic segmentation in turbulence media},
+  author = {Cui, Linyan and Zhang, Yan},
+  journal = {IEEE Access},
+  volume = {7},
+  pages = {166749--166761},
+  year = {2019},
+  publisher = {IEEE},
+  doi = {10.1109/access.2019.2953534 },
+}

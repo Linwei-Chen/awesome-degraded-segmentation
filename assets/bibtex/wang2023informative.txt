@@ -1,0 +1,8 @@
+@inproceedings{wang2023informative,
+  title = {Informative Classes Matter: Towards Unsupervised Domain Adaptive Nighttime Semantic Segmentation},
+  author = {Wang, Shiqin and Xu, Xin and Ma, Xianzheng and Jiang, Kui and Wang, Zheng},
+  booktitle = {International Conference on Multimedia},
+  pages = {163--172},
+  year = {2023},
+  doi = {10.1145/3581783.3611956 },
+}

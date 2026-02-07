@@ -1,0 +1,6 @@
+@article{shan2023robustness,
+  title = {Robustness of segment anything model (sam) for autonomous driving in adverse weather conditions},
+  author = {Shan, Xinru and Zhang, Chaoning},
+  journal = {arXiv preprint arXiv:2306.13290},
+  year = {2023},
+}

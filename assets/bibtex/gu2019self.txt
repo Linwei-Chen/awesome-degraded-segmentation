@@ -1,0 +1,6 @@
+@inproceedings{gu2019self,
+  title = {Self-guided network for fast image denoising},
+  author = {Gu, Shuhang and Li, Yawei and Gool, Luc Van and Timofte, Radu},
+  pages = {2511--2520},
+  year = {2019},
+}

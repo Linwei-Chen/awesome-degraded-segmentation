@@ -1,0 +1,6 @@
+@article{embedmask2019,
+  title = {EmbedMask: Embedding Coupling for One-stage Instance Segmentation},
+  author = {Ying, Hui and Huang, Zhaojin and Liu, Shu and Shao, Tianjia and Zhou, Kun},
+  journal = {arXiv preprint arXiv:1912.01954},
+  year = {2019},
+}

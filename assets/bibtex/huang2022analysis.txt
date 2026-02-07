@@ -1,0 +1,9 @@
+@inproceedings{huang2022analysis,
+  title = {Analysis of the Over-exposure Problem for Robust Scene Parsing},
+  author = {Huang, Renhao and Pagnucco, Maurice and Song, Yang},
+  booktitle = {2022 International Conference on Digital Image Computing: Techniques and Applications},
+  pages = {1--8},
+  year = {2022},
+  organization = {IEEE},
+  doi = {10.1109/dicta56598.2022.10034628 },
+}

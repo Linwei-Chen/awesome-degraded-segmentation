@@ -1,0 +1,6 @@
+@article{refinenet2019,
+  title = {Refinenet: Multi-path refinement networks for dense prediction},
+  author = {Lin, Guosheng and Liu, Fayao and Milan, Anton and Shen, Chunhua and Reid, Ian},
+  year = {2019},
+  publisher = {IEEE},
+}

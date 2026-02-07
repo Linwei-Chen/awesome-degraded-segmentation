@@ -1,0 +1,6 @@
+@inproceedings{guo2020zero,
+  title = {Zero-reference deep curve estimation for low-light image enhancement},
+  author = {Guo, Chunle and Li, Chongyi and Guo, Jichang and Loy, Chen Change and Hou, Junhui and Kwong, Sam and Cong, Runmin},
+  pages = {1780--1789},
+  year = {2020},
+}

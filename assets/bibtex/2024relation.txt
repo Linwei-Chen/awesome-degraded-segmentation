@@ -1,0 +1,10 @@
+@article{2024relation,
+  title = {Relation-Guided Adversarial Learning for Data-Free Knowledge Transfer},
+  author = {Liang, Yingping and Fu, Ying},
+  journal = {International Journal of Computer Vision},
+  year = {2025},
+  volume = {133},
+  number = {5},
+  pages = {2868--2885},
+  doi = {10.1007/s11263-024-02303-4 },
+}

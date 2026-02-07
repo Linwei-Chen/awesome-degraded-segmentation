@@ -1,0 +1,10 @@
+@article{zhang2023hybrid,
+  title = {A hybrid domain learning framework for unsupervised semantic segmentation},
+  author = {Zhang, Yuhang and Tian, Shishun and Liao, Muxin and Zou, Wenbin and Xu, Chen},
+  journal = {Neurocomputing},
+  volume = {516},
+  pages = {133--145},
+  year = {2023},
+  publisher = {Elsevier},
+  doi = {10.1016/j.neucom.2022.10.005 },
+}

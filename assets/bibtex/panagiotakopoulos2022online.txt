@@ -1,0 +1,9 @@
+@inproceedings{panagiotakopoulos2022online,
+  title = {Online domain adaptation for semantic segmentation in ever-changing conditions},
+  author = {Panagiotakopoulos, Theodoros and Dovesi, Pier Luigi and H{\"a}renstam-Nielsen, Linus and Poggi, Matteo},
+  booktitle = {European Conference on Computer Vision},
+  pages = {128--146},
+  year = {2022},
+  organization = {Springer},
+  doi = {10.1007/978-3-031-19830-4_8 },
+}

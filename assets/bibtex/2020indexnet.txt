@@ -1,0 +1,9 @@
+@article{2020indexnet,
+  title = {Index networks},
+  author = {Lu, Hao and Dai, Yutong and Shen, Chunhua and Xu, Songcen},
+  volume = {44},
+  number = {1},
+  pages = {242--255},
+  year = {2020},
+  publisher = {IEEE},
+}

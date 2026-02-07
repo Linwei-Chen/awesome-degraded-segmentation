@@ -1,0 +1,6 @@
+@inproceedings{2023xdecoder,
+  title = {Generalized decoding for pixel, image, and language},
+  author = {Zou, Xueyan and Dou, Zi-Yi and Yang, Jianwei and Gan, Zhe and Li, Linjie and Li, Chunyuan and Dai, Xiyang and Behl, Harkirat and Wang, Jianfeng and Yuan, Lu and others},
+  pages = {15116--15127},
+  year = {2023},
+}

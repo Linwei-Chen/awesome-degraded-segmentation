@@ -1,0 +1,9 @@
+@inproceedings{singh2021deep,
+  title = {Deep learning based image segmentation directly in the jpeg compressed domain},
+  author = {Singh, Ashutosh and Rajesh, Bulla and Javed, Mohammed},
+  booktitle = {2021 IEEE 8th Uttar Pradesh Section International Conference on Electrical, Electronics and Computer Engineering},
+  pages = {1--6},
+  year = {2021},
+  organization = {IEEE},
+  doi = {10.1109/upcon52273.2021.9667630 },
+}

@@ -1,0 +1,9 @@
+@inproceedings{hataya2022djmix,
+  title = {Djmix: Unsupervised task-agnostic image augmentation for improving robustness of convolutional neural networks},
+  author = {Hataya, Ryuichiro and Nakayama, Hideki},
+  booktitle = {2022 International Joint Conference on Neural Networks},
+  pages = {1--8},
+  year = {2022},
+  organization = {IEEE},
+  doi = {10.1109/ijcnn55064.2022.9892068 },
+}

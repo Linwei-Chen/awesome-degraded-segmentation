@@ -1,0 +1,6 @@
+@inproceedings{2022nightlab,
+  title = {NightLab: A dual-level architecture with hardness detection for segmentation at night},
+  author = {Deng, Xueqing and Wang, Peng and Lian, Xiaochen and Newsam, Shawn},
+  pages = {16938--16948},
+  year = {2022},
+}

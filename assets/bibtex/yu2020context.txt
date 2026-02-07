@@ -1,0 +1,6 @@
+@inproceedings{yu2020context,
+  title = {Context prior for scene segmentation},
+  author = {Yu, Changqian and Wang, Jingbo and Gao, Changxin and Yu, Gang and Shen, Chunhua and Sang, Nong},
+  pages = {12416--12425},
+  year = {2020},
+}

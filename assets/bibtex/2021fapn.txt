@@ -1,0 +1,6 @@
+@inproceedings{2021fapn,
+  title = {FaPN: Feature-aligned pyramid network for dense image prediction},
+  author = {Huang, Shihua and Lu, Zhichao and Cheng, Ran and He, Cheng},
+  pages = {864--873},
+  year = {2021},
+}

@@ -1,0 +1,6 @@
+@inproceedings{2020pointrend,
+  title = {Pointrend: Image segmentation as rendering},
+  author = {Kirillov, Alexander and Wu, Yuxin and He, Kaiming and Girshick, Ross},
+  pages = {9799--9808},
+  year = {2020},
+}

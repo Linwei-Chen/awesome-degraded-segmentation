@@ -1,0 +1,9 @@
+@article{2022dilatedatt,
+  title = {Dilated Neighborhood Attention Transformer},
+  author = {Ali Hassani and Humphrey Shi},
+  year = 2022,
+  url = {https://arxiv.org/abs/2209.15001},
+  eprint = {2209.15001},
+  archiveprefix = {arXiv},
+  primaryclass = {cs.CV},
+}

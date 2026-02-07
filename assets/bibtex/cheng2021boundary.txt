@@ -1,0 +1,6 @@
+@inproceedings{cheng2021boundary,
+  title = {Boundary IoU: Improving object-centric image segmentation evaluation},
+  author = {Cheng, Bowen and Collins, Ross and Zhu, Yukun and Liu, Ting and Darrell, Trevor and Chen, Liang-Chieh},
+  pages = {15334--15342},
+  year = {2021},
+}

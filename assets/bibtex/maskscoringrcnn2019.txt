@@ -1,0 +1,6 @@
+@inproceedings{maskscoringrcnn2019,
+  title = {Mask scoring R-CNN},
+  author = {Huang, Zhaojin and Huang, Lichao and Gong, Yongchao and Huang, Chang and Wang, Xinggang},
+  pages = {6409--6418},
+  year = {2019},
+}

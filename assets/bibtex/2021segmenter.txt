@@ -1,0 +1,6 @@
+@inproceedings{2021segmenter,
+  title = {Segmenter: Transformer for semantic segmentation},
+  author = {Strudel, Robin and Garcia, Ricardo and Laptev, Ivan and Schmid, Cordelia},
+  pages = {7262--7272},
+  year = {2021},
+}

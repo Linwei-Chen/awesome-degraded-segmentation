@@ -1,0 +1,6 @@
+@inproceedings{zhao2024unimix,
+  title = {Unimix: Towards domain adaptive and generalizable lidar semantic segmentation in adverse weather},
+  author = {Zhao, Haimei and Zhang, Jing and Chen, Zhuo and Zhao, Shanshan and Tao, Dacheng},
+  pages = {14781--14791},
+  year = {2024},
+}

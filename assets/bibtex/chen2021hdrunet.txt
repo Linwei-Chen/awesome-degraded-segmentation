@@ -1,0 +1,6 @@
+@inproceedings{chen2021hdrunet,
+  title = {HDRUnet: Single image hdr reconstruction with denoising and dequantization},
+  author = {Chen, Xiangyu and Liu, Yihao and Zhang, Zhengwen and Qiao, Yu and Dong, Chao},
+  pages = {354--363},
+  year = {2021},
+}

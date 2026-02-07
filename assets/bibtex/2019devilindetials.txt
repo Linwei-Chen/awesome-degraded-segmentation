@@ -1,0 +1,6 @@
+@inproceedings{2019devilindetials,
+  title = {Looking for the devil in the details: Learning trilinear attention sampling network for fine-grained image recognition},
+  author = {Zheng, Heliang and Fu, Jianlong and Zha, Zheng-Jun and Luo, Jiebo},
+  pages = {5012--5021},
+  year = {2019},
+}

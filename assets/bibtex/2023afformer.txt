@@ -1,0 +1,6 @@
+@inproceedings{2023afformer,
+  title = {AFFormer: Head-Free Lightweight Semantic Segmentation with Linear Transformer},
+  author = {Bo, Dong and Pichao, Wang and Fan Wang},
+  pages = {516--524},
+  year = {2023},
+}

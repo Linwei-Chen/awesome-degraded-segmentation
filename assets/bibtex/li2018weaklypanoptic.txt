@@ -1,0 +1,6 @@
+@inproceedings{li2018weaklypanoptic,
+  title = {Weakly-and semi-supervised panoptic segmentation},
+  author = {Li, Qizhu and Arnab, Anurag and Torr, Philip HS},
+  pages = {102--118},
+  year = {2018},
+}

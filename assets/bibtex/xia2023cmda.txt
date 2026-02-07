@@ -1,0 +1,7 @@
+@inproceedings{xia2023cmda,
+  title = {Cmda: Cross-modality domain adaptation for nighttime semantic segmentation},
+  author = {Xia, Ruihao and Zhao, Chaoqiang and Zheng, Meng and Wu, Ziyan and Sun, Qiyu and Tang, Yang},
+  pages = {21572--21581},
+  year = {2023},
+  doi = {10.1109/iccv51070.2023.01972 },
+}

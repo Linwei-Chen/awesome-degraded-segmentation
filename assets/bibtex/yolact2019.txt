@@ -1,0 +1,6 @@
+@inproceedings{yolact2019,
+  title = {YOLACT: real-time instance segmentation},
+  author = {Bolya, Daniel and Zhou, Chong and Xiao, Fanyi and Lee, Yong Jae},
+  pages = {9157--9166},
+  year = {2019},
+}

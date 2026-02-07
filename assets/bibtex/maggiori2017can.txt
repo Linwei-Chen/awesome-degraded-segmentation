@@ -1,0 +1,6 @@
+@inproceedings{maggiori2017can,
+  title = {Can semantic labeling methods generalize to any city? the inria aerial image labeling benchmark},
+  author = {Maggiori, Emmanuel and Tarabalka, Yuliya and Charpiat, Guillaume and Alliez, Pierre},
+  pages = {3226--3229},
+  year = {2017},
+}

@@ -1,0 +1,10 @@
+@article{van2020semisurvey,
+  title = {A survey on semi-supervised learning},
+  author = {Van Engelen, Jesper E and Hoos, Holger H},
+  journal = {Mach. Learn.},
+  volume = {109},
+  number = {2},
+  pages = {373--440},
+  year = {2020},
+  publisher = {Springer},
+}

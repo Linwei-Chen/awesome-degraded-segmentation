@@ -1,0 +1,6 @@
+@inproceedings{yu2018deep,
+  title = {Deep layer aggregation},
+  author = {Yu, Fisher and Wang, Dequan and Shelhamer, Evan and Darrell, Trevor},
+  pages = {2403--2412},
+  year = {2018},
+}

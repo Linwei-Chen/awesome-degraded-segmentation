@@ -1,0 +1,7 @@
+@inproceedings{2021maskformer,
+  title = {Per-pixel classification is not all you need for semantic segmentation},
+  author = {Cheng, Bowen and Schwing, Alex and Kirillov, Alexander},
+  volume = {34},
+  pages = {17864--17875},
+  year = {2021},
+}

@@ -1,0 +1,6 @@
+@inproceedings{2018guidedfilter,
+  title = {Fast end-to-end trainable guided filter},
+  author = {Wu, Huikai and Zheng, Shuai and Zhang, Junge and Huang, Kaiqi},
+  pages = {1838--1847},
+  year = {2018},
+}

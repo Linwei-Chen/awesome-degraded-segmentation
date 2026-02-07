@@ -1,0 +1,6 @@
+@inproceedings{2022mae,
+  title = {Masked autoencoders are scalable vision learners},
+  author = {He, Kaiming and Chen, Xinlei and Xie, Saining and Li, Yanghao and Doll{\'a}r, Piotr and Girshick, Ross},
+  pages = {16000--16009},
+  year = {2022},
+}

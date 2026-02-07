@@ -1,0 +1,7 @@
+@inproceedings{foggyzurich,
+  title = {Model adaptation with synthetic and real data for semantic dense foggy scene understanding},
+  author = {Sakaridis, Christos and Dai, Dengxin and Hecker, Simon and Van Gool, Luc},
+  pages = {687--704},
+  year = {2018},
+  doi = {10.1007/978-3-030-01261-8_42},
+}

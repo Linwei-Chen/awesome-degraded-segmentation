@@ -1,0 +1,6 @@
+@inproceedings{2023oneformer,
+  title = {Oneformer: One transformer to rule universal image segmentation},
+  author = {Jain, Jitesh and Li, Jiachen and Chiu, Mang Tik and Hassani, Ali and Orlov, Nikita and Shi, Humphrey},
+  pages = {2989--2998},
+  year = {2023},
+}

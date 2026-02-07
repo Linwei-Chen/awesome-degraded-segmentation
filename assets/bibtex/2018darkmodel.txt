@@ -1,0 +1,9 @@
+@inproceedings{2018darkmodel,
+  title = {Dark model adaptation: Semantic image segmentation from daytime to nighttime},
+  author = {Dai, Dengxin and Van Gool, Luc},
+  booktitle = { International Conference on Intelligent Transportation Systems},
+  pages = {3819--3824},
+  year = {2018},
+  organization = {IEEE},
+  doi = {10.1109/itsc.2018.8569387 },
+}

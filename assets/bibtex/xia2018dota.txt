@@ -1,0 +1,6 @@
+@inproceedings{xia2018dota,
+  title = {DOTA: A large-scale dataset for object detection in aerial images},
+  author = {Xia, Gui-Song and Bai, Xiang and Ding, Jian and Zhu, Zhen and Belongie, Serge and Luo, Jiebo and Datcu, Mihai and Pelillo, Marcello and Zhang, Liangpei},
+  pages = {3974--3983},
+  year = {2018},
+}

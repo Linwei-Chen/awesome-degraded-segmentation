@@ -1,0 +1,9 @@
+@inproceedings{wang2024fuzzysegnet,
+  title = {FuzzySegNet: Deep Fuzzy Neural Network for Corrupted Image Segmentation},
+  author = {Wang, Xing and Han, Honggui and Wu, Xiaolong},
+  booktitle = {China Automation Congress},
+  pages = {3441--3446},
+  year = {2024},
+  organization = {IEEE},
+  doi = {10.1109/cac63892.2024.10865617 },
+}

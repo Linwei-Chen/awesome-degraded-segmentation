@@ -1,0 +1,7 @@
+@article{lee2025fog,
+  title = {Fog-free training for foggy scene understanding},
+  author = {Lee, Minyoung and Song, Kyungwoo and Choe, Junsuk},
+  journal = {Pattern Recognition Letters},
+  year = {2025},
+  publisher = {Elsevier},
+}

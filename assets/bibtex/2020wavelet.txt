@@ -1,0 +1,6 @@
+@inproceedings{2020wavelet,
+  title = {Wavelet integrated CNNs for noise-robust image classification},
+  author = {Li, Qiufu and Shen, Linlin and Guo, Sheng and Lai, Zhihui},
+  pages = {7245--7254},
+  year = {2020},
+}

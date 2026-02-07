@@ -1,0 +1,9 @@
+@article{carafe++,
+  title = {Carafe++: Unified content-aware reassembly of features},
+  author = {Wang, Jiaqi and Chen, Kai and Xu, Rui and Liu, Ziwei and Loy, Chen Change and Lin, Dahua},
+  volume = {44},
+  number = {9},
+  pages = {4674--4687},
+  year = {2021},
+  publisher = {IEEE},
+}

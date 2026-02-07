@@ -1,0 +1,6 @@
+@article{liu2024towards,
+  title = {Towards Robust Online Domain Adaptive Semantic Segmentation under Adverse Weather Conditions},
+  author = {Liu, Taorong and Xiao, Jing and Liao, Liang and Lin, Chia-Wen},
+  journal = {arXiv preprint arXiv:2409.01072},
+  year = {2024},
+}

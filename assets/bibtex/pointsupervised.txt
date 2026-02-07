@@ -1,0 +1,6 @@
+@article{pointsupervised,
+  title = {Instance Segmentation with Point Supervision},
+  author = {Laradji, Issam H and Rostamzadeh, Negar and Pinheiro, Pedro O and Vazquez, David and Schmidt, Mark},
+  journal = {arXiv preprint arXiv:1906.06392},
+  year = {2019},
+}

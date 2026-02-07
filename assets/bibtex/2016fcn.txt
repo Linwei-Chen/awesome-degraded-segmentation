@@ -1,0 +1,8 @@
+@article{2016fcn,
+  title = {Fully Convolutional Networks for Semantic Segmentation.},
+  author = {Shelhamer, E and Long, J and Darrell, T},
+  volume = {39},
+  number = {4},
+  pages = {640--651},
+  year = {2016},
+}

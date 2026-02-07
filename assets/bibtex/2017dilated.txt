@@ -1,0 +1,6 @@
+@inproceedings{2017dilated,
+  title = {Dilated residual networks},
+  author = {Yu, Fisher and Koltun, Vladlen and Funkhouser, Thomas},
+  pages = {472--480},
+  year = {2017},
+}

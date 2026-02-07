@@ -1,0 +1,9 @@
+@inproceedings{marrs2023plug,
+  title = {Plug-and-Play Joint Image Deblurring and Detection},
+  author = {Marrs, Corey and Kathariya, Birendra and Li, Zhu and York, George},
+  booktitle = {2023 IEEE 25th International Workshop on Multimedia Signal Processing},
+  pages = {1--6},
+  year = {2023},
+  organization = {IEEE},
+  doi = {10.1109/mmsp59012.2023.10337646 },
+}

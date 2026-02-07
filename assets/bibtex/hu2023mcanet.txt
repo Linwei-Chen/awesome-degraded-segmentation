@@ -1,0 +1,10 @@
+@article{hu2023mcanet,
+  title = {Mcanet: A multi-branch network for cloud/snow segmentation in high-resolution remote sensing images},
+  author = {Hu, Kai and Zhang, Enwei and Xia, Min and Weng, Liguo and Lin, Haifeng},
+  journal = {Remote Sensing},
+  volume = {15},
+  number = {4},
+  pages = {1055},
+  year = {2023},
+  publisher = {MDPI},
+}

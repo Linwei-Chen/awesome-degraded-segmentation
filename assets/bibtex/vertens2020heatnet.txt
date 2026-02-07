@@ -1,0 +1,9 @@
+@inproceedings{vertens2020heatnet,
+  title = {Heatnet: Bridging the day-night domain gap in semantic segmentation with thermal images},
+  author = {Vertens, Johan and Z{\""u}rn, Jannik and Burgard, Wolfram},
+  booktitle = {2020 IEEE/RSJ International Conference on Intelligent Robots and Systems},
+  pages = {8461--8468},
+  year = {2020},
+  organization = {IEEE},
+  doi = {10.1109/iros45743.2020.9341192 },
+}

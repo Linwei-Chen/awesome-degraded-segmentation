@@ -1,0 +1,8 @@
+@inproceedings{chaudhary2019ritnet,
+  title = {Ritnet: Real-time semantic segmentation of the eye for gaze tracking},
+  author = {Chaudhary, Aayush K and Kothari, Rakshit and Acharya, Manoj and Dangi, Shusil and Nair, Nitinraj and Bailey, Reynold and Kanan, Christopher and Diaz, Gabriel and Pelz, Jeff B},
+  booktitle = {2019 IEEE/CVF International Conference on Computer Vision Workshop},
+  pages = {3698--3702},
+  year = {2019},
+  organization = {IEEE},
+}

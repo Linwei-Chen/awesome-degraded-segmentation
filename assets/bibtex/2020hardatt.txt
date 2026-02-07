@@ -1,0 +1,10 @@
+@article{2020hardatt,
+  title = {Hard attention net for automatic retinal vessel segmentation},
+  author = {Wang, Dongyi and Haytham, Ayman and Pottenburgh, Jessica and Saeedi, Osamah and Tao, Yang},
+  journal = {IEEE Journal of Biomedical and Health Informatics},
+  volume = {24},
+  number = {12},
+  pages = {3384--3396},
+  year = {2020},
+  publisher = {IEEE},
+}

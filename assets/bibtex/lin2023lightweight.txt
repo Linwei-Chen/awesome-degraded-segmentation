@@ -1,0 +1,11 @@
+@article{lin2023lightweight,
+  title = {Lightweight deep learning methods for panoramic dental X-ray image segmentation},
+  author = {Lin, Songyue and Hao, Xuejiang and Liu, Yan and Yan, Dong and Liu, Jianwei and Zhong, Mingjun},
+  journal = {Neural Computing and Applications},
+  volume = {35},
+  number = {11},
+  pages = {8295--8306},
+  year = {2023},
+  publisher = {Springer},
+  doi = {10.1007/s00521-022-08102-7 },
+}

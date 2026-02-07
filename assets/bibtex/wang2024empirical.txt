@@ -1,0 +1,8 @@
+@article{wang2024empirical,
+  title = {An empirical study on the robustness of the segment anything model},
+  author = {Wang, Yuqing and Zhao, Yun and Petzold, Linda},
+  journal = {Pattern Recognition},
+  pages = {110685},
+  year = {2024},
+  publisher = {Elsevier},
+}

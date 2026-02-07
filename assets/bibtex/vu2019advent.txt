@@ -1,0 +1,7 @@
+@inproceedings{vu2019advent,
+  title = {Advent: Adversarial entropy minimization for domain adaptation in semantic segmentation},
+  author = {Vu, Tuan-Hung and Jain, Himalaya and Bucher, Maxime and Cord, Matthieu and P{\'e}rez, Patrick},
+  pages = {2517--2526},
+  year = {2019},
+  doi = {10.55277/researchhub.5bktj0o6.1 },
+}

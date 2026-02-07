@@ -1,0 +1,9 @@
+@inproceedings{rebut2021styleless,
+  title = {StyleLess layer: Improving robustness for real-world driving},
+  author = {Rebut, Julien and Bursuc, Andrei and P{\'e}rez, Patrick},
+  booktitle = {2021 IEEE/RSJ International Conference on Intelligent Robots and Systems},
+  pages = {8992--8999},
+  year = {2021},
+  organization = {IEEE},
+  doi = {10.1109/iros51168.2021.9636204 },
+}

@@ -1,0 +1,8 @@
+@inproceedings{yu2023improving,
+  title = {Improving Nighttime Semantic Segmentation with Dual-Domain Mixed Attention and Shallow Feature Enhancement},
+  author = {Yu, Guoqiang and Zhou, Xudong},
+  booktitle = {2023 IEEE 9th International Conference on Cloud Computing and Intelligent Systems},
+  pages = {403--408},
+  year = {2023},
+  organization = {IEEE},
+}

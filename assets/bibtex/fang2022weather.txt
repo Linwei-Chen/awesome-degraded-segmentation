@@ -1,0 +1,9 @@
+@inproceedings{fang2022weather,
+  title = {Weather-oriented Domain Generalization of Semantic Segmentation for Autonomous Driving},
+  author = {Fang, Cheng and Guo, Bin and Liu, Sicong and Ma, Ke and Yu, Zhiwen},
+  booktitle = {2022 IEEE Smartworld, Ubiquitous Intelligence \& Computing, Scalable Computing \& Communications, Digital Twin, Privacy Computing, Metaverse, Autonomous \& Trusted Vehicles},
+  pages = {368--375},
+  year = {2022},
+  organization = {IEEE},
+  doi = {10.1109/smartworld-uic-atc-scalcom-digitaltwin-pricomp-metaverse56740.2022.00073 },
+}

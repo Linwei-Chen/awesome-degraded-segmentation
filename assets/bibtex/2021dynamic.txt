@@ -1,0 +1,6 @@
+@inproceedings{2021dynamic,
+  title = {Dynamic high-pass filtering and multi-spectral attention for image super-resolution},
+  author = {Magid, Salma Abdel and Zhang, Yulun and Wei, Donglai and Jang, Won-Dong and Lin, Zudi and Fu, Yun and Pfister, Hanspeter},
+  pages = {4288--4297},
+  year = {2021},
+}

@@ -1,0 +1,8 @@
+@article{tremblay2021rain,
+  title = {Rain rendering for evaluating and improving robustness to bad weather},
+  journal = {International Journal of Computer Vision},
+  volume = {129},
+  pages = {341--360},
+  year = {2021},
+  publisher = {Springer},
+}

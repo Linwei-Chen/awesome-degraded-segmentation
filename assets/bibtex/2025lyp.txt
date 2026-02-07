@@ -1,0 +1,10 @@
+@ARTICLE{2025lyp,
+  author = {Liang, Yingping and Fu, Ying and Hu, Yutao and Shao, Wenqi and Liu, Jiaming and Zhang, Debing},
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  title = {Flow-Anything: Learning Real-World Optical Flow Estimation From Large-Scale Single-View Images},
+  year = {2025},
+  volume = {47},
+  number = {10},
+  pages = {8435-8452},
+  doi = {10.1109/tpami.2025.3576851},
+}

@@ -1,0 +1,6 @@
+@misc{gonzalez2002digital,
+  title = {Digital image processing},
+  author = {Gonzalez, Rafael C and Woods, Richard E and others},
+  year = {2002},
+  publisher = {Prentice hall Upper Saddle River, NJ},
+}

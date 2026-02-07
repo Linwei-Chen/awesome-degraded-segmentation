@@ -1,0 +1,10 @@
+@article{sun2022irdclnet,
+  title = {IRDCLNet: Instance segmentation of ship images based on interference reduction and dynamic contour learning in foggy scenes},
+  author = {Sun, Yuxin and Su, Li and Luo, Yongkang and Meng, Hao and Zhang, Zhi and Zhang, Wen and Yuan, Shouzheng},
+  journal = {IEEE Transactions on Circuits and Systems for Video Technology},
+  volume = {32},
+  number = {9},
+  pages = {6029--6043},
+  year = {2022},
+  publisher = {IEEE},
+}

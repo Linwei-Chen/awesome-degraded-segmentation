@@ -1,0 +1,8 @@
+@inproceedings{li2023daytime,
+  title = {Daytime to Night Image Translation Based on Semantic Segmentation},
+  author = {Li, Peng and Wen, Suinan and Hou, Wanyu and Feng, Shihao},
+  booktitle = {2023 IEEE International Conference on Sensors, Electronics and Computer Engineering},
+  pages = {610--613},
+  year = {2023},
+  organization = {IEEE},
+}

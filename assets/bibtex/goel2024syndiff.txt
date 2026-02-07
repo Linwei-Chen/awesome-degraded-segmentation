@@ -1,0 +1,6 @@
+@article{goel2024syndiff,
+  title = {SynDiff-AD: Improving Semantic Segmentation and End-to-End Autonomous Driving with Synthetic Data from Latent Diffusion Models},
+  author = {Goel, Harsh and Narasimhan, Sai Shankar and Akcin, Oguzhan and Chinchali, Sandeep},
+  journal = {arXiv preprint arXiv:2411.16776},
+  year = {2024},
+}

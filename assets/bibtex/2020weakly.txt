@@ -1,0 +1,7 @@
+@inproceedings{2020weakly,
+  title = {Weakly supervised instance segmentation by learning annotation consistent instances},
+  author = {Arun, Aditya and Jawahar, CV and Kumar, M Pawan},
+  pages = {254--270},
+  year = {2020},
+  organization = {Springer},
+}

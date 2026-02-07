@@ -1,0 +1,9 @@
+@article{2021alignseg,
+  title = {Alignseg: Feature-aligned segmentation networks},
+  author = {Huang, Zilong and Wei, Yunchao and Wang, Xinggang and Liu, Wenyu and Huang, Thomas S and Shi, Humphrey},
+  volume = {44},
+  number = {1},
+  pages = {550--557},
+  year = {2021},
+  publisher = {IEEE},
+}

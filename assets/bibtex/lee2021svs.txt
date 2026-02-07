@@ -1,0 +1,6 @@
+@article{lee2021svs,
+  title = {SVS-Net: A novel semantic segmentation network in optical coherence tomography angiography images},
+  author = {Lee, Yih-Cherng and Yeung, Ling},
+  journal = {arXiv preprint arXiv:2104.07083},
+  year = {2021},
+}

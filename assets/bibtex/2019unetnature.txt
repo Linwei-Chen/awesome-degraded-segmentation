@@ -1,0 +1,9 @@
+@article{2019unetnature,
+  title = {U-Net: deep learning for cell counting, detection, and morphometry},
+  journal = {Nature methods},
+  volume = {16},
+  number = {1},
+  pages = {67--70},
+  year = {2019},
+  publisher = {Nature Publishing Group},
+}

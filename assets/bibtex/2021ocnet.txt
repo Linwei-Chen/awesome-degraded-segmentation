@@ -1,0 +1,9 @@
+@article{2021ocnet,
+  title = {OCNet: Object context for semantic segmentation},
+  author = {Yuan, Yuhui and Huang, Lang and Guo, Jianyuan and Zhang, Chao and Chen, Xilin and Wang, Jingdong},
+  volume = {129},
+  number = {8},
+  pages = {2375--2398},
+  year = {2021},
+  publisher = {Springer},
+}

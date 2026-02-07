@@ -1,0 +1,9 @@
+@inproceedings{pfeuffer2019robust,
+  title = {Robust semantic segmentation in adverse weather conditions by means of sensor data fusion},
+  author = {Pfeuffer, Andreas and Dietmayer, Klaus},
+  booktitle = {International Conference on Information Fusion},
+  pages = {1--8},
+  year = {2019},
+  organization = {IEEE},
+  doi = {10.1109/itsc45102.2020.9294554 },
+}

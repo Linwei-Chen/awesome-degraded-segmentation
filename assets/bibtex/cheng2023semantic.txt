@@ -1,0 +1,11 @@
+@article{cheng2023semantic,
+  title = {Semantic segmentation of remote sensing imagery based on multiscale deformable CNN and DenseCRF},
+  author = {Cheng, Xiang and Lei, Hong},
+  journal = {Remote Sensing},
+  volume = {15},
+  number = {5},
+  pages = {1229},
+  year = {2023},
+  publisher = {MDPI},
+  doi = {10.3390/rs15051229 },
+}

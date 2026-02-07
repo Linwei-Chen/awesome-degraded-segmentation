@@ -1,0 +1,6 @@
+@inproceedings{2022frequencysimilarity,
+  title = {Frequency-driven imperceptible adversarial attack on semantic similarity},
+  author = {Luo, Cheng and Lin, Qinliang and Xie, Weicheng and Wu, Bizhu and Xie, Jinheng and Shen, Linlin},
+  pages = {15315--15324},
+  year = {2022},
+}

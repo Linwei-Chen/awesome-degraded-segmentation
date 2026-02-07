@@ -1,0 +1,6 @@
+@inproceedings{hamaguchi2018effective,
+  title = {Effective use of dilated convolutions for segmenting small object instances in remote sensing imagery},
+  author = {Hamaguchi, Ryuhei and Fujita, Aito and Nemoto, Keisuke and Imaizumi, Tomoyuki and Hikosaka, Shuhei},
+  pages = {1442--1450},
+  year = {2018},
+}

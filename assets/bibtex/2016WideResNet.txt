@@ -1,0 +1,6 @@
+@INPROCEEDINGS{2016WideResNet,
+  author = {Sergey Zagoruyko and Nikos Komodakis},
+  title = {Wide Residual Networks},
+  year = {2016},
+  pages = {1--15},
+}

@@ -1,0 +1,10 @@
+@article{di2020rainy,
+  title = {Rainy night scene understanding with near scene semantic adaptation},
+  author = {Di, Shuai and Feng, Qi and Li, Chun-Guang and Zhang, Mei and Zhang, Honggang and Elezovikj, Semir and Tan, Chiu C and Ling, Haibin},
+  journal = {IEEE Transactions on Intelligent Transportation Systems},
+  volume = {22},
+  number = {3},
+  pages = {1594--1602},
+  year = {2020},
+  publisher = {IEEE},
+}

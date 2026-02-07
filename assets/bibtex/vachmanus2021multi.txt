@@ -1,0 +1,11 @@
+@article{vachmanus2021multi,
+  title = {Multi-modal sensor fusion-based semantic segmentation for snow driving scenarios},
+  author = {Vachmanus, Sirawich and Ravankar, Ankit A and Emaru, Takanori and Kobayashi, Yukinori},
+  journal = {IEEE sensors journal},
+  volume = {21},
+  number = {15},
+  pages = {16839--16851},
+  year = {2021},
+  publisher = {IEEE},
+  doi = {10.1109/jsen.2021.3077029 },
+}

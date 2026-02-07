@@ -1,0 +1,9 @@
+@article{lokumarambage2023wireless,
+  title = {Wireless end-to-end image transmission system using semantic communications},
+  author = {Lokumarambage, Maheshi U and Gowrisetty, Vishnu Sai Sankeerth and Rezaei, Hossein and Sivalingam, Thushan and Rajatheva, Nandana and Fernando, Anil},
+  journal = {IEEE Access},
+  volume = {11},
+  pages = {37149--37163},
+  year = {2023},
+  publisher = {IEEE},
+}

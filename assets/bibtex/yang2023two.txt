@@ -1,0 +1,9 @@
+@inproceedings{yang2023two,
+  title = {A Two-Stage Self-Training Framework for Nighttime Semantic Segmentation},
+  author = {Yang, Dan and Liu, Cuiwei and Jiang, Youzhi},
+  booktitle = {2023 38th Youth Academic Annual Conference of Chinese Association of Automation},
+  pages = {905--910},
+  year = {2023},
+  organization = {IEEE},
+  doi = {10.1109/yac59482.2023.10401644 },
+}

@@ -1,0 +1,11 @@
+@article{wang2024multi,
+  title = {Multi task deep learning phase unwrapping method based on semantic segmentation},
+  author = {Wang, Linlin and Liang, Wenjie and Guo, Wanyi and Wang, Zhujun and Wang, Chuanyun and Gao, Qian},
+  journal = {Journal of Optics},
+  volume = {26},
+  number = {11},
+  pages = {115709},
+  year = {2024},
+  publisher = {IOP Publishing},
+  doi = {10.1088/2040-8986/ad8505},
+}

@@ -1,0 +1,9 @@
+@article{yu2019fruit,
+  title = {Fruit detection for strawberry harvesting robot in non-structural environment based on Mask-RCNN},
+  author = {Yu, Yang and Zhang, Kailiang and Yang, Li and Zhang, Dongxing},
+  journal = {Computers and Electronics in Agriculture},
+  volume = {163},
+  pages = {104846},
+  year = {2019},
+  publisher = {Elsevier},
+}

@@ -1,0 +1,9 @@
+@article{hua2020cross,
+  title = {Cross-Attentional Bracket-shaped Convolutional Network for semantic image segmentation},
+  author = {Hua, Cam-Hao and Huynh-The, Thien and Bae, Sung-Ho and Lee, Sungyoung},
+  journal = {Information Sciences},
+  volume = {539},
+  pages = {277--294},
+  year = {2020},
+  publisher = {Elsevier},
+}

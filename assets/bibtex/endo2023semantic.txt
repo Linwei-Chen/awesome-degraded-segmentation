@@ -1,0 +1,7 @@
+@inproceedings{endo2023semantic,
+  title = {Semantic segmentation of degraded images using layer-wise feature adjustor},
+  author = {Endo, Kazuki and Tanaka, Masayuki and Okutomi, Masatoshi},
+  pages = {3205--3213},
+  year = {2023},
+  doi = {10.1109/wacv56688.2023.00322 },
+}

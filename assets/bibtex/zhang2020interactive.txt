@@ -1,0 +1,6 @@
+@inproceedings{zhang2020interactive,
+  title = {Interactive Object Segmentation With Inside-Outside Guidance},
+  author = {Zhang, Shiyin and Liew, Jun Hao and Wei, Yunchao and Wei, Shikui and Zhao, Yao},
+  pages = {12234--12244},
+  year = {2020},
+}

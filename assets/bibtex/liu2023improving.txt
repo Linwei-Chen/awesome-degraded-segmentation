@@ -1,0 +1,11 @@
+@article{liu2023improving,
+  title = {Improving nighttime driving-scene segmentation via dual image-adaptive learnable filters},
+  author = {Liu, Wenyu and Li, Wentong and Zhu, Jianke and Cui, Miaomiao and Xie, Xuansong and Zhang, Lei},
+  journal = {IEEE Transactions on Circuits and Systems for Video Technology},
+  volume = {33},
+  number = {10},
+  pages = {5855--5867},
+  year = {2023},
+  publisher = {IEEE},
+  doi = {10.1109/tcsvt.2023.3260240 },
+}

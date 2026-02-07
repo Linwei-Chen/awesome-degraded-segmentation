@@ -1,0 +1,6 @@
+@inproceedings{deformableattention,
+  title = {Deformable DETR: Deformable Transformers for End-to-End Object Detection},
+  author = {Zhu, Xizhou and Su, Weijie and Lu, Lewei and Li, Bin and Wang, Xiaogang and Dai, Jifeng},
+  pages = {1--12},
+  year = {2021},
+}

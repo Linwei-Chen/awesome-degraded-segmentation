@@ -1,0 +1,8 @@
+@article{guo2025low,
+  title = {Low-Light Enhancement and Global-Local Feature Interaction for RGB-T Semantic Segmentation},
+  author = {Guo, Xueyi and Liu, Yisha and Xue, Weimin and Zhang, Zhiwei and Zhuang, Yan},
+  journal = {IEEE Transactions on Instrumentation and Measurement},
+  year = {2025},
+  publisher = {IEEE},
+  doi = {10.1109/tim.2025.3545511 },
+}

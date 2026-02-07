@@ -1,0 +1,10 @@
+@article{yang2023multi,
+  title = {Multi-class semantic segmentation of breast tissues from MRI images using U-Net based on Haar wavelet pooling},
+  author = {Yang, Kwang Bin and Lee, Jinwon and Yang, Jeongsam},
+  journal = {Scientific Reports},
+  volume = {13},
+  number = {1},
+  pages = {11704},
+  year = {2023},
+  publisher = {Nature Publishing Group UK London},
+}

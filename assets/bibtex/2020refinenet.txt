@@ -1,0 +1,9 @@
+@ARTICLE{2020refinenet,
+  author = {Lin, Guosheng and Liu, Fayao and Milan, Anton and Shen, Chunhua and Reid, Ian},
+  title = {RefineNet: Multi-Path Refinement Networks for Dense Prediction},
+  year = {2020},
+  volume = {42},
+  number = {5},
+  pages = {1228-1242},
+  doi = {10.1109/TPAMI.2019.2893630},
+}

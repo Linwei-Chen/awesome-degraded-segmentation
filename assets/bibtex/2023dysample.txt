@@ -1,0 +1,6 @@
+@inproceedings{2023dysample,
+  title = {Learning to Upsample by Learning to Sample},
+  author = {Liu, Wenze and Lu, Hao and Fu, Hongtao and Cao, Zhiguo},
+  pages = {6027--6037},
+  year = {2023},
+}

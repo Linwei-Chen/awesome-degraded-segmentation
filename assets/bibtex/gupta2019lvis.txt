@@ -1,0 +1,6 @@
+@inproceedings{gupta2019lvis,
+  title = {LVIS: A dataset for large vocabulary instance segmentation},
+  author = {Gupta, Agrim and Dollar, Piotr and Girshick, Ross},
+  pages = {5356--5364},
+  year = {2019},
+}

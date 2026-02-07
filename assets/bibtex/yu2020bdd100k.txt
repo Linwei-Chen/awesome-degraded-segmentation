@@ -1,0 +1,7 @@
+@inproceedings{yu2020bdd100k,
+  title = {Bdd100k: A diverse driving dataset for heterogeneous multitask learning},
+  author = {Yu, Fisher and Chen, Haofeng and Wang, Xin and Xian, Wenqi and Chen, Yingying and Liu, Fangchen and Madhavan, Vashisht and Darrell, Trevor},
+  pages = {8239--8248},
+  year = {2020},
+  doi = {10.1109/cvpr42600.2020.00271 },
+}

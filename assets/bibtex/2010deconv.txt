@@ -1,0 +1,7 @@
+@inproceedings{2010deconv,
+  title = {Deconvolutional networks},
+  author = {Zeiler, Matthew D and Krishnan, Dilip and Taylor, Graham W and Fergus, Rob},
+  pages = {2528--2535},
+  year = {2010},
+  organization = {IEEE},
+}

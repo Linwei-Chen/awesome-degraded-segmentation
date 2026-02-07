@@ -1,0 +1,6 @@
+@inproceedings{xiao20233d,
+  title = {3d semantic segmentation in the wild: Learning generalized models for adverse-condition point clouds},
+  author = {Xiao, Aoran and Huang, Jiaxing and Xuan, Weihao and Ren, Ruijie and Liu, Kangcheng and Guan, Dayan and El Saddik, Abdulmotaleb and Lu, Shijian and Xing, Eric P},
+  pages = {9382--9392},
+  year = {2023},
+}

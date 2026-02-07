@@ -1,0 +1,6 @@
+@inproceedings{ding2023hgformer,
+  title = {Hgformer: Hierarchical grouping transformer for domain generalized semantic segmentation},
+  author = {Ding, Jian and Xue, Nan and Xia, Gui-Song and Schiele, Bernt and Dai, Dengxin},
+  pages = {15413--15423},
+  year = {2023},
+}

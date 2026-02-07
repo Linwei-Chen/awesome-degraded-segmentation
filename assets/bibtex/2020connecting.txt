@@ -1,0 +1,8 @@
+@article{2020connecting,
+  title = {Connecting image denoising and high-level vision tasks via deep learning},
+  author = {Liu, Ding and Wen, Bihan and Jiao, Jianbo and Liu, Xianming and Wang, Zhangyang and Huang, Thomas S},
+  volume = {29},
+  pages = {3695--3706},
+  year = {2020},
+  publisher = {IEEE},
+}

@@ -1,0 +1,6 @@
+@inproceedings{2021statisticaltexture,
+  title = {Learning statistical texture for semantic segmentation},
+  author = {Zhu, Lanyun and Ji, Deyi and Zhu, Shiping and Gan, Weihao and Wu, Wei and Yan, Junjie},
+  pages = {12537--12546},
+  year = {2021},
+}

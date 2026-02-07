@@ -1,0 +1,7 @@
+@inproceedings{2020yolodark,
+  title = {Yolo in the dark-domain adaptation method for merging multiple models},
+  author = {Sasagawa, Yukihiro and Nagahara, Hajime},
+  pages = {345--359},
+  year = {2020},
+  organization = {Springer},
+}

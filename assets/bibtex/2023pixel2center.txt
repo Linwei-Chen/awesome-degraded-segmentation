@@ -1,0 +1,7 @@
+@article{2023pixel2center,
+  title = {Semantic segmentation via pixel-to-center similarity calculation},
+  author = {Wu, Dongyue and Guo, Zilin and Li, Aoyan and Yu, Changqian and Sang, Nong and Gao, Changxin},
+  journal = {CAAI Transactions on Intelligence Technology},
+  year = {2023},
+  publisher = {Wiley Online Library},
+}

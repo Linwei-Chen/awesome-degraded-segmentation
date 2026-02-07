@@ -1,0 +1,7 @@
+@inproceedings{kalb2023principles,
+  title = {Principles of forgetting in domain-incremental semantic segmentation in adverse weather conditions},
+  author = {Kalb, Tobias and Beyerer, J{\""u}rgen},
+  pages = {19508--19518},
+  year = {2023},
+  doi = {10.1109/cvpr52729.2023.01869 },
+}

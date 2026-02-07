@@ -1,0 +1,5 @@
+@inproceedings{zhang2018generalizedce,
+  title = {Generalized cross entropy loss for training deep neural networks with noisy labels},
+  author = {Zhang, Zhilu and Sabuncu, Mert},
+  year = {2018},
+}

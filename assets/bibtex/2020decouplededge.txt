@@ -1,0 +1,7 @@
+@inproceedings{2020decouplededge,
+  title = {Improving semantic segmentation via decoupled body and edge supervision},
+  author = {Li, Xiangtai and Li, Xia and Zhang, Li and Cheng, Guangliang and Shi, Jianping and Lin, Zhouchen and Tan, Shaohua and Tong, Yunhai},
+  pages = {435--452},
+  year = {2020},
+  organization = {Springer},
+}

@@ -1,0 +1,8 @@
+@inproceedings{2021cabinet,
+  title = {Cabinet: Efficient context aggregation network for low-latency semantic segmentation},
+  author = {Kumaar, Saumya and Lyu, Ye and Nex, Francesco and Yang, Michael Ying},
+  booktitle = {IEEE International Conference on Robotics and Automation},
+  pages = {13517--13524},
+  year = {2021},
+  organization = {IEEE},
+}

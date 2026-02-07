@@ -1,0 +1,7 @@
+@inproceedings{2020thinking,
+  title = {Thinking in frequency: Face forgery detection by mining frequency-aware clues},
+  author = {Qian, Yuyang and Yin, Guojun and Sheng, Lu and Chen, Zixuan and Shao, Jing},
+  pages = {86--103},
+  year = {2020},
+  organization = {Springer},
+}

@@ -1,0 +1,6 @@
+@inproceedings{autoaugment,
+  title = {AutoAugment: Learning Augmentation Strategies From Data},
+  author = {Cubuk, Ekin D and Zoph, Barret and Mane, Dandelion and Vasudevan, Vijay and Le, Quoc V},
+  pages = {113--123},
+  year = {2019},
+}

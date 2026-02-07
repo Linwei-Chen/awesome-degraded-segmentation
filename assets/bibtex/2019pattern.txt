@@ -1,0 +1,6 @@
+@inproceedings{2019pattern,
+  title = {Pattern-affinitive propagation across depth, surface normal and semantic segmentation},
+  author = {Zhang, Zhenyu and Cui, Zhen and Xu, Chunyan and Yan, Yan and Sebe, Nicu and Yang, Jian},
+  pages = {4106--4115},
+  year = {2019},
+}

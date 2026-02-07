@@ -1,0 +1,7 @@
+@inproceedings{2015stn,
+  title = {Spatial transformer networks},
+  author = {Jaderberg, Max and Simonyan, Karen and Zisserman, Andrew and others},
+  volume = {28},
+  pages = {1--9},
+  year = {2015},
+}

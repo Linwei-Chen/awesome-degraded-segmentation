@@ -1,0 +1,6 @@
+@article{tandarksegnet,
+  title = {Darksegnet: Low-Light Semantic Segmentation Network Based on Image Pyramid},
+  author = {Tan, Jintao and Zhonghui, Chen and Ruokun, Qu and Chenglong, Li and others},
+  journal = {SSRN Electronic Journal},
+  year = {2024},
+}

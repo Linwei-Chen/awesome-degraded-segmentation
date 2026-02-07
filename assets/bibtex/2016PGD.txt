@@ -1,0 +1,7 @@
+@article{2016PGD,
+  title = {Adversarial machine learning at scale},
+  author = {Kurakin, Alexey and Goodfellow, Ian and Bengio, Samy},
+  journal = {arXiv preprint arXiv:1611.01236},
+  pages = {1--17},
+  year = {2016},
+}

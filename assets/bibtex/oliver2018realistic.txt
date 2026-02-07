@@ -1,0 +1,5 @@
+@inproceedings{oliver2018realistic,
+  title = {Realistic evaluation of deep semi-supervised learning algorithms},
+  author = {Oliver, Avital and Odena, Augustus and Raffel, Colin A and Cubuk, Ekin Dogus and Goodfellow, Ian},
+  year = {2018},
+}

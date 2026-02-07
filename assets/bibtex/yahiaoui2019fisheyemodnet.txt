@@ -1,0 +1,6 @@
+@article{yahiaoui2019fisheyemodnet,
+  title = {Fisheyemodnet: Moving object detection on surround-view cameras for autonomous driving},
+  author = {Yahiaoui, Marie and Rashed, Hazem and Mariotti, Letizia and Sistu, Ganesh and Clancy, Ian and Yahiaoui, Lucie and Kumar, Varun Ravi and Yogamani, Senthil},
+  journal = {arXiv preprint arXiv:1908.11789},
+  year = {2019},
+}

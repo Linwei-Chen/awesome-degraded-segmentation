@@ -1,0 +1,10 @@
+@article{liu2024lane,
+  title = {Lane detection based on real-time semantic segmentation for end-to-end autonomous driving under low-light conditions},
+  author = {Liu, Yang and Wang, Yongfu and Li, Qiansheng},
+  journal = {Digital Signal Processing},
+  volume = {155},
+  pages = {104752},
+  year = {2024},
+  publisher = {Elsevier},
+  doi = {10.1016/j.dsp.2024.104752 },
+}

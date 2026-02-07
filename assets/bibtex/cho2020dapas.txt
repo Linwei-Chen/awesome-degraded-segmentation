@@ -1,0 +1,9 @@
+@inproceedings{cho2020dapas,
+  title = {Dapas: Denoising autoencoder to prevent adversarial attack in semantic segmentation},
+  author = {Cho, Seungju and Jun, Tae Joon and Oh, Byungsoo and Kim, Daeyoung},
+  booktitle = {2020 International Joint Conference on Neural Networks},
+  pages = {1--8},
+  year = {2020},
+  organization = {IEEE},
+  doi = {10.1109/ijcnn48605.2020.9207291 },
+}

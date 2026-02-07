@@ -1,0 +1,7 @@
+@inproceedings{2021knet,
+  title = {K-net: Towards unified image segmentation},
+  author = {Zhang, Wenwei and Pang, Jiangmiao and Chen, Kai and Loy, Chen Change},
+  volume = {34},
+  pages = {10326--10338},
+  year = {2021},
+}

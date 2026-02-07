@@ -1,0 +1,6 @@
+@inproceedings{liu2017sgn,
+  title = {Sgn: Sequential grouping networks for instance segmentation},
+  author = {Liu, Shu and Jia, Jiaya and Fidler, Sanja and Urtasun, Raquel},
+  pages = {3496--3504},
+  year = {2017},
+}

@@ -1,0 +1,10 @@
+@article{wu2021one,
+  title = {A one-stage domain adaptation network with image alignment for unsupervised nighttime semantic segmentation},
+  author = {Wu, Xinyi and Wu, Zhenyao and Ju, Lili and Wang, Song},
+  volume = {45},
+  number = {1},
+  pages = {58--72},
+  year = {2021},
+  publisher = {IEEE},
+  doi = {10.1109/tpami.2021.3138829 },
+}

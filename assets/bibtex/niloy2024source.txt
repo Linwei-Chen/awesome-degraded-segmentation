@@ -1,0 +1,9 @@
+@inproceedings{niloy2024source,
+  title = {Source-Free Online Domain Adaptive Semantic Segmentation of Satellite Images Under Image Degradation},
+  author = {Niloy, Fahim Faisal and Bhaumik, Kishor Kumar and Woo, Simon S},
+  booktitle = {ICASSP 2024-2024 IEEE International Conference on Acoustics, Speech and Signal Processing},
+  pages = {7275--7279},
+  year = {2024},
+  organization = {IEEE},
+  doi = {10.1109/icassp48485.2024.10447965 },
+}

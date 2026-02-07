@@ -1,0 +1,6 @@
+@inproceedings{2016ohsm,
+  title = {Training region-based object detectors with online hard example mining},
+  author = {Shrivastava, Abhinav and Gupta, Abhinav and Girshick, Ross},
+  pages = {761--769},
+  year = {2016},
+}

@@ -1,0 +1,6 @@
+@inproceedings{2021FNO,
+  title = {Fourier neural operator for parametric partial differential equations},
+  author = {Li, Zongyi and Kovachki, Nikola and Azizzadenesheli, Kamyar and Liu, Burigede and Bhattacharya, Kaushik and Stuart, Andrew and Anandkumar, Anima},
+  year = {2021},
+  pages = {1--12},
+}

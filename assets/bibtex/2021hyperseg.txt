@@ -1,0 +1,6 @@
+@inproceedings{2021hyperseg,
+  title = {Hyperseg: Patch-wise hypernetwork for real-time semantic segmentation},
+  author = {Nirkin, Yuval and Wolf, Lior and Hassner, Tal},
+  pages = {4061--4070},
+  year = {2021},
+}

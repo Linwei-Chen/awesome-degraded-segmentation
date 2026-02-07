@@ -1,0 +1,10 @@
+@article{li2024liis,
+  title = {LIIS: Low-light image instance segmentation},
+  author = {Li, Wei and Huang, Ya and Zhang, Xinyuan and Han, Guijin},
+  journal = {Journal of Visual Communication and Image Representation},
+  volume = {100},
+  pages = {104116},
+  year = {2024},
+  publisher = {Elsevier},
+  doi = {10.2139/ssrn.4960634 },
+}

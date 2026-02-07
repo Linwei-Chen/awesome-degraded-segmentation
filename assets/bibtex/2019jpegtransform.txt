@@ -1,0 +1,6 @@
+@inproceedings{2019jpegtransform,
+  title = {Deep residual learning in the jpeg transform domain},
+  author = {Ehrlich, Max and Davis, Larry S},
+  pages = {3484--3493},
+  year = {2019},
+}

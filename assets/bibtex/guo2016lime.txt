@@ -1,0 +1,10 @@
+@article{guo2016lime,
+  title = {LIME: Low-light image enhancement via illumination map estimation},
+  author = {Guo, Xiaojie and Li, Yu and Ling, Haibin},
+  journal = {IEEE Transactions on image processing},
+  volume = {26},
+  number = {2},
+  pages = {982--993},
+  year = {2016},
+  publisher = {IEEE},
+}

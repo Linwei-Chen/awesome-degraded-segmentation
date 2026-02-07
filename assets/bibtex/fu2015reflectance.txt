@@ -1,0 +1,9 @@
+@article{fu2015reflectance,
+  title = {Reflectance and fluorescence spectral recovery via actively lit RGB images},
+  author = {Fu, Ying and Lam, Antony and Sato, Imari and Okabe, Takahiro and Sato, Yoichi},
+  volume = {38},
+  number = {7},
+  pages = {1313--1326},
+  year = {2015},
+  publisher = {IEEE},
+}

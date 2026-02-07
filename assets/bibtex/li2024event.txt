@@ -1,0 +1,7 @@
+@inproceedings{li2024event,
+  title = {Event-assisted low-light video object segmentation},
+  author = {Li, Hebei and Wang, Jin and Yuan, Jiahui and Li, Yue and Weng, Wenming and Peng, Yansong and Zhang, Yueyi and Xiong, Zhiwei and Sun, Xiaoyan},
+  pages = {3250--3259},
+  year = {2024},
+  doi = {10.1109/cvpr52733.2024.00313 },
+}

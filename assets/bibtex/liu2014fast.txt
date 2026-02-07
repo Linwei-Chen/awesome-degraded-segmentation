@@ -1,0 +1,10 @@
+@article{liu2014fast,
+  title = {Fast burst images denoising},
+  author = {Liu, Ziwei and Yuan, Lu and Tang, Xiaoou and Uyttendaele, Matt and Sun, Jian},
+  journal = {ACM Transactions on Graphics},
+  volume = {33},
+  number = {6},
+  pages = {1--9},
+  year = {2014},
+  publisher = {ACM New York, NY, USA},
+}

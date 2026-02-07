@@ -1,0 +1,7 @@
+@inproceedings{zhao2024stable,
+  title = {Stable Neighbor Denoising for Source-free Domain Adaptive Segmentation},
+  author = {Zhao, Dong and Wang, Shuang and Zang, Qi and Jiao, Licheng and Sebe, Nicu and Zhong, Zhun},
+  pages = {23416--23427},
+  year = {2024},
+  doi = {10.1109/cvpr52733.2024.02210 },
+}

@@ -1,0 +1,8 @@
+@article{2023dilateformer,
+  author = {Jiao, Jiayu and Tang, Yu-Ming and Lin, Kun-Yu and Gao, Yipeng and Ma, Jinhua and Wang, Yaowei and Zheng, Wei-Shi},
+  journal = {IEEE Transactions on Multimedia},
+  title = {DilateFormer: Multi-Scale Dilated Transformer for Visual Recognition},
+  year = {2023},
+  pages = {1-14},
+  doi = {10.1109/TMM.2023.3243616},
+}

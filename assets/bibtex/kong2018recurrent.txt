@@ -1,0 +1,6 @@
+@inproceedings{kong2018recurrent,
+  title = {Recurrent pixel embedding for instance grouping},
+  author = {Kong, Shu and Fowlkes, Charless C},
+  pages = {9018--9028},
+  year = {2018},
+}

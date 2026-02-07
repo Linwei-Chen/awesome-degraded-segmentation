@@ -1,0 +1,6 @@
+@article{dasnet,
+  title = {DASNet: Reducing Pixel-level Annotations for Instance and Semantic Segmentation},
+  author = {Niu, Chuang and Ren, Shenghan and Liang, Jimin},
+  journal = {arXiv preprint arXiv:1809.06013},
+  year = {2018},
+}

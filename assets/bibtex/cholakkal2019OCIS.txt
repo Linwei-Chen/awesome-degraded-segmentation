@@ -1,0 +1,6 @@
+@inproceedings{cholakkal2019OCIS,
+  title = {Object counting and instance segmentation with image-level supervision},
+  author = {Cholakkal, Hisham and Sun, Guolei and Khan, Fahad Shahbaz and Shao, Ling},
+  pages = {12397--12405},
+  year = {2019},
+}

@@ -1,0 +1,9 @@
+@article{nguyen2018raw,
+  title = {Raw image reconstruction using a self-contained sRGB--JPEG image with small memory overhead},
+  author = {Nguyen, Rang MH and Brown, Michael S},
+  volume = {126},
+  number = {6},
+  pages = {637--650},
+  year = {2018},
+  publisher = {Springer},
+}

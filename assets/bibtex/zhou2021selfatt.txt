@@ -1,0 +1,9 @@
+@article{zhou2021selfatt,
+  title = {Self-attention feature fusion network for semantic segmentation},
+  author = {Zhou, Zhen and Zhou, Yan and Wang, Dongli and Mu, Jinzhen and Zhou, Haibin},
+  journal = {Neurocomputing},
+  volume = {453},
+  pages = {50--59},
+  year = {2021},
+  publisher = {Elsevier},
+}

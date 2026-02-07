@@ -1,0 +1,6 @@
+@article{kou2024enhancing,
+  title = {Enhancing Autonomous Vehicle Perception in Adverse Weather through Image Augmentation during Semantic Segmentation Training},
+  author = {Kou, Ethan and Curran, Noah},
+  journal = {arXiv preprint arXiv:2408.07239},
+  year = {2024},
+}

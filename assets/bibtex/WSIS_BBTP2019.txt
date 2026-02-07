@@ -1,0 +1,6 @@
+@inproceedings{WSIS_BBTP2019,
+  title = {Weakly Supervised Instance Segmentation using the Bounding Box Tightness Prior},
+  author = {Hsu, Cheng-Chun and Hsu, Kuang-Jui and Tsai, Chung-Chi and Lin, Yen-Yu and Chuang, Yung-Yu},
+  pages = {6586--6597},
+  year = {2019},
+}

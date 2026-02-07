@@ -1,0 +1,7 @@
+@inproceedings{gao2022cross,
+  title = {Cross-domain correlation distillation for unsupervised domain adaptation in nighttime semantic segmentation},
+  author = {Gao, Huan and Guo, Jichang and Wang, Guoli and Zhang, Qian},
+  pages = {9913--9923},
+  year = {2022},
+  doi = {10.21203/rs.3.rs-3365367/v1 },
+}

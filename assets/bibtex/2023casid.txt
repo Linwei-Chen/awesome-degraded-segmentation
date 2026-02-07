@@ -1,0 +1,9 @@
+@article{2023casid,
+  title = {A large-scale climate-aware satellite image dataset for domain adaptive land-cover semantic segmentation},
+  author = {Liu, Songlin and Chen, Linwei and Zhang, Li and Hu, Jun and Fu, Ying},
+  journal = {ISPRS Journal of Photogrammetry and Remote Sensing},
+  volume = {205},
+  pages = {98--114},
+  year = {2023},
+  publisher = {Elsevier},
+}

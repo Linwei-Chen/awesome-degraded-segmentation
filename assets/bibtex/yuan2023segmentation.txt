@@ -1,0 +1,10 @@
+@article{yuan2023segmentation,
+  title = {Segmentation-guided semantic-aware self-supervised denoising for SAR image},
+  author = {Yuan, Ye and Wu, Yanxia and Feng, Pengming and Fu, Yan and Wu, Yulei},
+  journal = {IEEE Transactions on Geoscience and Remote Sensing},
+  volume = {61},
+  pages = {1-15},
+  year = {2023},
+  publisher = {IEEE},
+  doi = {10.1109/tgrs.2023.3323485 },
+}

@@ -1,0 +1,11 @@
+@article{alipour2020semantic,
+  title = {Semantic segmentation of JPEG blocks using a deep CNN for non-aligned JPEG forgery detection and localization},
+  author = {Alipour, Neda and Behrad, Alireza},
+  journal = {Multimedia Tools and Applications},
+  volume = {79},
+  number = {11},
+  pages = {8249--8265},
+  year = {2020},
+  publisher = {Springer},
+  doi = {10.1007/s11042-019-08597-8 },
+}

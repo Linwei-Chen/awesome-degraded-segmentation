@@ -1,0 +1,7 @@
+@inproceedings{brempong2022denoising,
+  title = {Denoising pretraining for semantic segmentation},
+  author = {Brempong, Emmanuel Asiedu and Kornblith, Simon and Chen, Ting and Parmar, Niki and Minderer, Matthias and Norouzi, Mohammad},
+  pages = {4175--4186},
+  year = {2022},
+  doi = {10.1109/cvprw56347.2022.00462 },
+}

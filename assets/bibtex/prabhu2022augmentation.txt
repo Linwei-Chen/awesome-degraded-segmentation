@@ -1,0 +1,7 @@
+@inproceedings{prabhu2022augmentation,
+  title = {Augmentation consistency-guided self-training for source-free domain adaptive semantic segmentation},
+  author = {Prabhu, Viraj Uday and Khare, Shivam and Kartik, Deeksha and Hoffman, Judy},
+  booktitle = {NeurIPS 2022 Workshop on Distribution Shifts: Connecting Methods and Applications},
+  year = {2022},
+  doi = {},
+}

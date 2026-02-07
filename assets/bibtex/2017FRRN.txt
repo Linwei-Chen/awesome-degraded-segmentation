@@ -1,0 +1,6 @@
+@inproceedings{2017FRRN,
+  title = {Full-resolution residual networks for semantic segmentation in street scenes},
+  author = {Pohlen, Tobias and Hermans, Alexander and Mathias, Markus and Leibe, Bastian},
+  pages = {4151--4160},
+  year = {2017},
+}

@@ -1,0 +1,7 @@
+@article{2016dynamic,
+  title = {Dynamic filter networks},
+  author = {Jia, Xu and De Brabandere, Bert and Tuytelaars, Tinne and Gool, Luc V},
+  volume = {29},
+  pages = {1--9},
+  year = {2016},
+}

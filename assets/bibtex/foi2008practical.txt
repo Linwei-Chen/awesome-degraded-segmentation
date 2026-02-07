@@ -1,0 +1,10 @@
+@article{foi2008practical,
+  title = {Practical Poissonian-Gaussian noise modeling and fitting for single-image raw-data},
+  author = {Foi, Alessandro and Trimeche, Mejdi and Katkovnik, Vladimir and Egiazarian, Karen},
+  journal = {IEEE Transactions on Image Processing},
+  volume = {17},
+  number = {10},
+  pages = {1737--1754},
+  year = {2008},
+  publisher = {IEEE},
+}

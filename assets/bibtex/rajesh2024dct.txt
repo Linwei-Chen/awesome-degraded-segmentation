@@ -1,0 +1,9 @@
+@article{rajesh2024dct,
+  title = {DCT-CompSegNet: fast layout segmentation in DCT compressed JPEG document images using deep feature learning},
+  author = {Rajesh, Bulla and Zaman, Sk Mahafuz and Javed, Mohammed and Lin, Meng},
+  journal = {Multimedia Tools and Applications},
+  pages = {1--21},
+  year = {2024},
+  publisher = {Springer},
+  doi = {10.1007/s11042-024-18204-0 },
+}

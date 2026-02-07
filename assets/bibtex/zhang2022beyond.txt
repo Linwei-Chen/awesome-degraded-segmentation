@@ -1,0 +1,11 @@
+@article{zhang2022beyond,
+  title = {Beyond monocular deraining: Parallel stereo deraining network via semantic prior},
+  author = {Zhang, Kaihao and Luo, Wenhan and Yu, Yanjiang and Ren, Wenqi and Zhao, Fang and Li, Changsheng and Ma, Lin and Liu, Wei and Li, Hongdong},
+  journal = {International Journal of Computer Vision},
+  volume = {130},
+  number = {7},
+  pages = {1754--1769},
+  year = {2022},
+  publisher = {Springer},
+  doi = {10.1007/s11263-022-01620-w },
+}

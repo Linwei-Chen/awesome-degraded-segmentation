@@ -1,0 +1,6 @@
+@inproceedings{2020dyconv,
+  title = {Dynamic convolution: Attention over convolution kernels},
+  author = {Chen, Yinpeng and Dai, Xiyang and Liu, Mengchen and Chen, Dongdong and Yuan, Lu and Liu, Zicheng},
+  pages = {11030--11039},
+  year = {2020},
+}

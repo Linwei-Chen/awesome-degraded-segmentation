@@ -1,0 +1,6 @@
+@article{li2024universal,
+  title = {A Universal Degradation-based Bridging Technique for Domain Adaptive Semantic Segmentation},
+  author = {Li, Wangkai and Sun, Rui and Zhang, Tianzhu},
+  journal = {arXiv preprint arXiv:2412.10339},
+  year = {2024},
+}

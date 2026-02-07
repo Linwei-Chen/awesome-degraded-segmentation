@@ -1,0 +1,9 @@
+@article{kim2012new,
+  title = {A new in-camera imaging model for color computer vision and its application},
+  author = {Kim, Seon Joo and Lin, Hai Ting and Lu, Zheng and S{\"u}sstrunk, Sabine and Lin, Stephen and Brown, Michael S},
+  volume = {34},
+  number = {12},
+  pages = {2289--2302},
+  year = {2012},
+  publisher = {IEEE},
+}

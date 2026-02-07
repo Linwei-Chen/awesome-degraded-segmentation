@@ -1,0 +1,10 @@
+@article{li2023joint,
+  title = {Joint Detection and Reconstruction of Weak Spectral Lines under Non-Gaussian Impulsive Noise with Deep Learning},
+  author = {Li, Zhen and Guo, Junyuan and Wang, Xiaohan},
+  journal = {Remote Sensing},
+  volume = {15},
+  number = {13},
+  pages = {3268},
+  year = {2023},
+  publisher = {MDPI},
+}

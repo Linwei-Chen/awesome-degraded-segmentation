@@ -1,0 +1,6 @@
+@article{jeong2022doubly,
+  title = {Doubly contrastive end-to-end semantic segmentation for autonomous driving under adverse weather},
+  author = {Jeong, Jongoh and Kim, Jong-Hwan},
+  journal = {arXiv preprint arXiv:2211.11131},
+  year = {2022},
+}

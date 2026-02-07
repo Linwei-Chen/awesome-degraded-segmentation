@@ -1,0 +1,7 @@
+@inproceedings{xu2021cdada,
+  title = {CDAda: A curriculum domain adaptation for nighttime semantic segmentation},
+  author = {Xu, Qi and Ma, Yinan and Wu, Jing and Long, Chengnian and Huang, Xiaolin},
+  pages = {2962--2971},
+  year = {2021},
+  doi = {10.1109/iccvw54120.2021.00331 },
+}

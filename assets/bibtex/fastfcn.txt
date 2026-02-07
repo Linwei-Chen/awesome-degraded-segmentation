@@ -1,0 +1,6 @@
+@article{fastfcn,
+  title = {FastFCN: Rethinking Dilated Convolution in the Backbone for Semantic Segmentation},
+  author = {Wu, Huikai and Zhang, Junge and Huang, Kaiqi and Liang, Kongming and Yu, Yizhou},
+  journal = {arXiv preprint arXiv:1903.11816},
+  year = {2019},
+}

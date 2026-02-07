@@ -1,0 +1,5 @@
+@inproceedings{2023slak,
+  title = {More ConvNets in the 2020s: Scaling up Kernels Beyond 51x51 using Sparsity},
+  author = {Liu, Shiwei and Chen, Tianlong and Chen, Xiaohan and Chen, Xuxi and Xiao, Qiao and Wu, Boqian and K{\"a}rkk{\"a}inen, Tommi and Pechenizkiy, Mykola and Mocanu, Decebal Constantin and Wang, Zhangyang},
+  year = {2023},
+}

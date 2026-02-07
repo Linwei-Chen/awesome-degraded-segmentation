@@ -1,0 +1,6 @@
+@inproceedings{2019centernet,
+  title = {Centernet: Keypoint triplets for object detection},
+  author = {Duan, Kaiwen and Bai, Song and Xie, Lingxi and Qi, Honggang and Huang, Qingming and Tian, Qi},
+  pages = {6569--6578},
+  year = {2019},
+}

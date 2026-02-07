@@ -1,0 +1,9 @@
+@inproceedings{zhao2023real,
+  title = {Real rainy scene analysis: A dual-module benchmark for image deraining and segmentation},
+  author = {Zhao, Shilei and Huang, Wenxin and Yang, Mingxuan and Liu, Wenxuan},
+  booktitle = {2023 IEEE International Conference on Multimedia and Expo Workshops},
+  pages = {69--74},
+  year = {2023},
+  organization = {IEEE},
+  doi = {10.1109/icmew59549.2023.00018 },
+}

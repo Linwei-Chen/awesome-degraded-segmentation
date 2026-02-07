@@ -1,0 +1,9 @@
+@article{long2017accurate,
+  title = {Accurate object localization in remote sensing images based on convolutional neural networks},
+  author = {Long, Yang and Gong, Yiping and Xiao, Zhifeng and Liu, Qing},
+  volume = {55},
+  number = {5},
+  pages = {2486--2498},
+  year = {2017},
+  publisher = {IEEE},
+}

@@ -1,0 +1,6 @@
+@article{lowandhighconsist2019,
+  title = {Semi-supervised semantic segmentation with high-and low-level consistency},
+  author = {Mittal, Sudhanshu and Tatarchenko, Maxim and Brox, Thomas},
+  year = {2019},
+  publisher = {IEEE},
+}

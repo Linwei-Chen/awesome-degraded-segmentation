@@ -1,0 +1,6 @@
+@article{lohdefink2022improving,
+  title = {Improving performance of semantic segmentation CycleGANs by noise injection into the latent segmentation space},
+  author = {L{\""o}hdefink, Jonas and Fingscheidt, Tim},
+  journal = {arXiv preprint arXiv:2201.06415},
+  year = {2022},
+}

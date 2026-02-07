@@ -1,0 +1,9 @@
+@inproceedings{moriyasu2023top,
+  title = {Top-K Confidence Map Aggregation for Robust Semantic Segmentation Against Unexpected Degradation},
+  author = {Moriyasu, Yu and Shibata, Takashi and Tanaka, Masayuki and Okutomi, Masatoshi},
+  booktitle = {2023 IEEE International Conference on Consumer Electronics},
+  pages = {1--6},
+  year = {2023},
+  organization = {IEEE},
+  doi = {10.1109/icce56470.2023.10043389 },
+}

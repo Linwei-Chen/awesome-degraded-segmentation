@@ -1,0 +1,6 @@
+@inproceedings{girshick2015fast,
+  title = {Fast r-cnn},
+  author = {Girshick, Ross},
+  pages = {1440--1448},
+  year = {2015},
+}

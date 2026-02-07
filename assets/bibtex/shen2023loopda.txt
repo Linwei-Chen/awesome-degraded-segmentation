@@ -1,0 +1,7 @@
+@inproceedings{shen2023loopda,
+  title = {LoopDA: Constructing self-loops to adapt nighttime semantic segmentation},
+  author = {Shen, Fengyi and Pataki, Zador and Gurram, Akhil and Liu, Ziyuan and Wang, He and Knoll, Alois},
+  pages = {3256--3266},
+  year = {2023},
+  doi = {10.1109/wacv56688.2023.00327 },
+}

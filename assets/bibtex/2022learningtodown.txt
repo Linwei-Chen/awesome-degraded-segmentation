@@ -1,0 +1,7 @@
+@inproceedings{2022learningtodown,
+  title = {Learning to Downsample for Segmentation of Ultra-High Resolution Images},
+  author = {Chen Jin and Ryutaro Tanno and Thomy Mertzanidou and Eleftheria Panagiotaki and Daniel C. Alexander},
+  year = {2022},
+  pages = {1--17},
+  url = {https://openreview.net/forum?id=HndgQudNb91},
+}

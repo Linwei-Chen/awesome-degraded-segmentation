@@ -1,0 +1,6 @@
+@article{r2cnn2017,
+  title = {R2CNN: rotational region cnn for orientation robust scene text detection},
+  author = {Jiang, Yingying and Zhu, Xiangyu and Wang, Xiaobing and Yang, Shuli and Li, Wei and Wang, Hua and Fu, Pei and Luo, Zhenbo},
+  journal = {arXiv preprint arXiv:1706.09579},
+  year = {2017},
+}

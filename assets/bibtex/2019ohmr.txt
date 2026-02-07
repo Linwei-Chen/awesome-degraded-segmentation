@@ -1,0 +1,9 @@
+@article{2019ohmr,
+  title = {Online hard region mining for semantic segmentation},
+  author = {Yin, Jin and Xia, Pengfei and He, Jingsong},
+  journal = {Neural Processing Letters},
+  volume = {50},
+  pages = {2665--2679},
+  year = {2019},
+  publisher = {Springer},
+}

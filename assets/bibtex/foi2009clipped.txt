@@ -1,0 +1,10 @@
+@article{foi2009clipped,
+  title = {Clipped noisy images: Heteroskedastic modeling and practical denoising},
+  author = {Foi, Alessandro},
+  journal = {Signal Processing},
+  volume = {89},
+  number = {12},
+  pages = {2609--2629},
+  year = {2009},
+  publisher = {Elsevier},
+}

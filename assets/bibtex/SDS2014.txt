@@ -1,0 +1,6 @@
+@inproceedings{SDS2014,
+  title = {Simultaneous detection and segmentation},
+  author = {Hariharan, Bharath and Arbel{\'a}ez, Pablo and Girshick, Ross and Malik, Jitendra},
+  pages = {297--312},
+  year = {2014},
+}

@@ -1,0 +1,11 @@
+@inproceedings{NEURIPS2021_64f1f27b,
+  author = {Xie, Enze and Wang, Wenhai and Yu, Zhiding and Anandkumar, Anima and Alvarez, Jose M. and Luo, Ping},
+  booktitle = {Advances in Neural Information Processing Systems},
+  editor = {M. Ranzato and A. Beygelzimer and Y. Dauphin and P.S. Liang and J. Wortman Vaughan},
+  pages = {12077--12090},
+  publisher = {Curran Associates, Inc.},
+  title = {SegFormer: Simple and Efficient Design for Semantic Segmentation with Transformers},
+  url = {https://proceedings.neurips.cc/paper_files/paper/2021/file/64f1f27bf1b4ec22924fd0acb550c235-Paper.pdf},
+  volume = {34},
+  year = {2021},
+}

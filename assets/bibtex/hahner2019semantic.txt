@@ -1,0 +1,8 @@
+@inproceedings{hahner2019semantic,
+  title = {Semantic understanding of foggy scenes with purely synthetic data},
+  author = {Hahner, Martin and Dai, Dengxin and Sakaridis, Christos and Zaech, Jan-Nico and Van Gool, Luc},
+  booktitle = {2019 IEEE Intelligent Transportation Systems Conference},
+  pages = {3675--3681},
+  year = {2019},
+  organization = {IEEE},
+}

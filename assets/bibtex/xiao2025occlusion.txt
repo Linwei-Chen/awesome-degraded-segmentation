@@ -1,0 +1,9 @@
+@inproceedings{xiao2025occlusion,
+  title = {Occlusion-Embedded Hybrid Transformer for Light Field Super-Resolution},
+  author = {Xiao, Zeyu and Li, Zhuoyuan and Jia, Wei},
+  volume = {39},
+  number = {8},
+  pages = {8700--8708},
+  year = {2025},
+  doi = {10.1609/aaai.v39i8.32940 },
+}

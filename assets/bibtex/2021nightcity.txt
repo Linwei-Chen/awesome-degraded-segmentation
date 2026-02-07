@@ -1,0 +1,6 @@
+@article{2021nightcity,
+  title = {Night-time Scene Parsing with a Large Real Dataset},
+  author = {Tan, Xin and Xu, Ke and Cao, Ying and Zhang, Yiheng and Ma, Lizhuang and Lau, Rynson WH},
+  year = {2021},
+  publisher = {IEEE},
+}

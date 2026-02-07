@@ -1,0 +1,9 @@
+@article{li2021deep,
+  title = {Deep semantic segmentation-based multiple description coding},
+  author = {Li, Xue and Meng, Lili and Tan, Yanyan and Zhang, Jia and Wan, Wenbo and Zhang, Huaxiang},
+  journal = {Multimedia Tools and Applications},
+  volume = {80},
+  pages = {10323--10337},
+  year = {2021},
+  publisher = {Springer},
+}

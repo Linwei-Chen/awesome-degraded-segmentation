@@ -1,0 +1,6 @@
+@inproceedings{2021exploringsparsity,
+  title = {Exploring sparsity in image super-resolution for efficient inference},
+  author = {Wang, Longguang and Dong, Xiaoyu and Wang, Yingqian and Ying, Xinyi and Lin, Zaiping and An, Wei and Guo, Yulan},
+  pages = {4917--4926},
+  year = {2021},
+}

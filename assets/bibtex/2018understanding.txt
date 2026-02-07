@@ -1,0 +1,7 @@
+@inproceedings{2018understanding,
+  title = {Understanding convolution for semantic segmentation},
+  author = {Wang, Panqu and Chen, Pengfei and Yuan, Ye and Liu, Ding and Huang, Zehua and Hou, Xiaodi and Cottrell, Garrison},
+  pages = {1451--1460},
+  year = {2018},
+  organization = {Ieee},
+}

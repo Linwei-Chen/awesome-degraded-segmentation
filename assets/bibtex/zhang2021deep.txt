@@ -1,0 +1,10 @@
+@article{zhang2021deep,
+  title = {Deep dense multi-scale network for snow removal using semantic and depth priors},
+  author = {Zhang, Kaihao and Li, Rongqing and Yu, Yanjiang and Luo, Wenhan and Li, Changsheng},
+  journal = {IEEE Transactions on Image Processing},
+  volume = {30},
+  pages = {7419--7431},
+  year = {2021},
+  publisher = {IEEE},
+  doi = {10.1109/tip.2021.3104166 },
+}

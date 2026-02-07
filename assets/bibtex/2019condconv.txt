@@ -1,0 +1,6 @@
+@article{2019condconv,
+  title = {Condconv: Conditionally parameterized convolutions for efficient inference},
+  author = {Yang, Brandon and Bender, Gabriel and Le, Quoc V and Ngiam, Jiquan},
+  volume = {32},
+  year = {2019},
+}

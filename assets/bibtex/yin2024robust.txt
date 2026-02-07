@@ -1,0 +1,10 @@
+@article{yin2024robust,
+  title = {Robust semantic segmentation method of urban scenes in snowy environment},
+  author = {Yin, Hanqi and Yin, Guisheng and Sun, Yiming and Zhang, Liguo and Tian, Ye},
+  journal = {Machine Vision and Applications},
+  volume = {35},
+  number = {3},
+  pages = {59},
+  year = {2024},
+  publisher = {Springer},
+}

@@ -1,0 +1,10 @@
+@article{hu2017iot,
+  title = {IoT-driven automated object detection algorithm for urban surveillance systems in smart cities},
+  author = {Hu, Ling and Ni, Qiang},
+  journal = {IEEE Internet of Things Journal},
+  volume = {5},
+  number = {2},
+  pages = {747--754},
+  year = {2017},
+  publisher = {IEEE},
+}

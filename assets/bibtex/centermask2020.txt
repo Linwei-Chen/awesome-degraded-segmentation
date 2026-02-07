@@ -1,0 +1,6 @@
+@inproceedings{centermask2020,
+  title = {CenterMask: Real-Time Anchor-Free Instance Segmentation},
+  author = {Lee, Youngwan and Park, Jongyoul},
+  pages = {13906--13915},
+  year = {2019},
+}

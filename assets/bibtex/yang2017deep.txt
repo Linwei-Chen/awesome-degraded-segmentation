@@ -1,0 +1,6 @@
+@inproceedings{yang2017deep,
+  title = {Deep joint rain detection and removal from a single image},
+  author = {Yang, Wenhan and Tan, Robby T and Feng, Jiashi and Liu, Jiaying and Guo, Zongming and Yan, Shuicheng},
+  pages = {1357--1366},
+  year = {2017},
+}

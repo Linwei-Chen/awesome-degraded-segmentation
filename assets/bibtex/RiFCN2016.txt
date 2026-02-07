@@ -1,0 +1,6 @@
+@article{RiFCN2016,
+  title = {Fully convolutional networks for dense semantic labelling of high-resolution aerial imagery},
+  author = {Sherrah, Jamie},
+  journal = {arXiv preprint arXiv:1606.02585},
+  year = {2016},
+}

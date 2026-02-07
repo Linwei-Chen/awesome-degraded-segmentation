@@ -1,0 +1,6 @@
+@inproceedings{yang2019scrdet,
+  title = {SCRDet: Towards more robust detection for small, cluttered and rotated objects},
+  author = {Yang, Xue and Yang, Jirui and Yan, Junchi and Zhang, Yue and Zhang, Tengfei and Guo, Zhi and Sun, Xian and Fu, Kun},
+  pages = {8232--8241},
+  year = {2019},
+}

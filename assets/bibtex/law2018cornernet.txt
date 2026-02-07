@@ -1,0 +1,7 @@
+@inproceedings{law2018cornernet,
+  title = {Cornernet: Detecting objects as paired keypoints},
+  author = {Law, Hei and Deng, Jia},
+  booktitle = { the European conference on computer vision},
+  pages = {734--750},
+  year = {2018},
+}

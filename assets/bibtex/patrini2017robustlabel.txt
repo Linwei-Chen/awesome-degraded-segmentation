@@ -1,0 +1,5 @@
+@inproceedings{patrini2017robustlabel,
+  title = {Making deep neural networks robust to label noise: A loss correction approach},
+  author = {Patrini, Giorgio and Rozza, Alessandro and Krishna Menon, Aditya and Nock, Richard and Qu, Lizhen},
+  year = {2017},
+}

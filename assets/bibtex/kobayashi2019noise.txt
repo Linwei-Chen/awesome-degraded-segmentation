@@ -1,0 +1,8 @@
+@inproceedings{kobayashi2019noise,
+  title = {Noise reduction of segmented images by spatio-temporal morphological operations},
+  author = {Kobayashi, Shingo and Miyamoto, Ryusuke},
+  booktitle = {IEEE Asia Pacific Conference on Circuits and Systems},
+  pages = {297--300},
+  year = {2019},
+  organization = {IEEE},
+}

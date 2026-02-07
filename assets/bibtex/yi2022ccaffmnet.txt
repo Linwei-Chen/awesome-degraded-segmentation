@@ -1,0 +1,10 @@
+@article{yi2022ccaffmnet,
+  title = {CCAFFMNet: Dual-spectral semantic segmentation network with channel-coordinate attention feature fusion module},
+  author = {Yi, Shi and Li, Junjie and Liu, Xi and Yuan, Xuesong},
+  journal = {Neurocomputing},
+  volume = {482},
+  pages = {236--251},
+  year = {2022},
+  publisher = {Elsevier},
+  doi = {10.1016/j.neucom.2021.11.056 },
+}

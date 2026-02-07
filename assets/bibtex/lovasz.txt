@@ -1,0 +1,6 @@
+@inproceedings{lovasz,
+  title = {The Lov{\'a}sz-Softmax loss: A tractable surrogate for the optimization of the intersection-over-union measure in neural networks},
+  author = {Berman, Maxim and Rannen Triki, Amal and Blaschko, Matthew B},
+  pages = {4413--4421},
+  year = {2018},
+}

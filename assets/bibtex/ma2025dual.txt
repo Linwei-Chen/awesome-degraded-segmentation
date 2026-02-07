@@ -1,0 +1,7 @@
+@article{ma2025dual,
+  title = {Dual-Level Masked Semantic Inference for Semi-Supervised Semantic Segmentation},
+  author = {Ma, Qiankun and Zhang, Ziyao and Qiao, Pengchong and Wang, Yu and Ji, Rongrong and Liu, Chang and Chen, Jie},
+  journal = {IEEE Transactions on Multimedia},
+  year = {2025},
+  publisher = {IEEE},
+}

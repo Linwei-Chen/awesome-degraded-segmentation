@@ -1,0 +1,6 @@
+@inproceedings{2021instancesasqueries,
+  title = {Instances as queries},
+  author = {Fang, Yuxin and Yang, Shusheng and Wang, Xinggang and Li, Yu and Fang, Chen and Shan, Ying and Feng, Bin and Liu, Wenyu},
+  pages = {6910--6919},
+  year = {2021},
+}

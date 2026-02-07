@@ -1,0 +1,6 @@
+@inproceedings{exfuse2018,
+  title = {Exfuse: Enhancing feature fusion for semantic segmentation},
+  author = {Zhang, Zhenli and Zhang, Xiangyu and Peng, Chao and Xue, Xiangyang and Sun, Jian},
+  pages = {269--284},
+  year = {2018},
+}

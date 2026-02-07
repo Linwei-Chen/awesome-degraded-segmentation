@@ -1,0 +1,8 @@
+@article{2023depthadablur,
+  title = {Anti-aliasing deep image classifiers using novel depth adaptive blurring and activation function},
+  author = {Hossain, Md Tahmid and Teng, Shyh Wei and Lu, Guojun and Rahman, Mohammad Arifur and Sohel, Ferdous},
+  journal = {Neurocomputing},
+  volume = {536},
+  pages = {164--174},
+  year = {2023},
+}

@@ -1,0 +1,6 @@
+@article{1975theory,
+  title = {Theory and application of digital signal processing},
+  author = {Rabiner, Lawrence R and Gold, Bernard},
+  journal = {Englewood Cliffs: Prentice-Hall},
+  year = {1975},
+}

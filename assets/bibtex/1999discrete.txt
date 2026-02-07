@@ -1,0 +1,6 @@
+@book{1999discrete,
+  title = {Discrete-time signal processing},
+  author = {Oppenheim, Alan V},
+  year = {1999},
+  publisher = {Pearson Education India},
+}

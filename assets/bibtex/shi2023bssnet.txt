@@ -1,0 +1,10 @@
+@article{shi2023bssnet,
+  title = {BSSNet: A real-time semantic segmentation network for road scenes inspired from AutoEncoder},
+  author = {Shi, Xiaoqiang and Yin, Zhenyu and Han, Guangjie and Liu, Wenzhuo and Qin, Li and Bi, Yuanguo and Li, Shurui},
+  journal = {IEEE Transactions on Circuits and Systems for Video Technology},
+  volume = {34},
+  number = {5},
+  pages = {3424--3438},
+  year = {2023},
+  publisher = {IEEE},
+}

@@ -1,0 +1,8 @@
+@inproceedings{liu2023comprehensive,
+  title = {Comprehensive Augmented Domain Adaptation for Image Segmentation Under Rainy Conditions},
+  author = {Liu, Minghao and Xie, Jiaxuan and Hu, Yuzhang and Yang, Wenhan and Liu, Jiaying},
+  booktitle = {2023 IEEE International Conference on Multimedia and Expo Workshops},
+  pages = {63--68},
+  year = {2023},
+  organization = {IEEE},
+}

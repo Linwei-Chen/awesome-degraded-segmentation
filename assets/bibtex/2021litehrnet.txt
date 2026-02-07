@@ -1,0 +1,6 @@
+@inproceedings{2021litehrnet,
+  title = {Lite-hrnet: A lightweight high-resolution network},
+  author = {Yu, Changqian and Xiao, Bin and Gao, Changxin and Yuan, Lu and Zhang, Lei and Sang, Nong and Wang, Jingdong},
+  pages = {10440--10450},
+  year = {2021},
+}

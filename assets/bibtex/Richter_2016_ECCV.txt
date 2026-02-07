@@ -1,0 +1,5 @@
+@inproceedings{Richter_2016_ECCV,
+  Author = {Stephan R. Richter and Vibhav Vineet and Stefan Roth and Vladlen Koltun},
+  Title = {Playing for Data: Ground Truth from Computer Games},
+  Year = {2016},
+}

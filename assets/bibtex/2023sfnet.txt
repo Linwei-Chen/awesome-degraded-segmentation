@@ -1,0 +1,7 @@
+@article{2023sfnet,
+  title = {Sfnet: Faster and accurate semantic segmentation via semantic flow},
+  author = {Li, Xiangtai and Zhang, Jiangning and Yang, Yibo and Cheng, Guangliang and Yang, Kuiyuan and Tong, Yunhai and Tao, Dacheng},
+  pages = {1--24},
+  year = {2023},
+  publisher = {Springer},
+}

@@ -1,0 +1,9 @@
+@inproceedings{dong2023degraded,
+  title = {Degraded Image Semantic Segmentation Using Intra-image and Inter-image Contrastive Learning},
+  author = {Dong, Lusen and Li, Sichen and Zheng, Jin},
+  booktitle = {China Automation Congress},
+  pages = {8958--8964},
+  year = {2023},
+  organization = {IEEE},
+  doi = {10.1109/cac59555.2023.10452132 },
+}

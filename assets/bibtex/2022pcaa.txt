@@ -1,0 +1,6 @@
+@inproceedings{2022pcaa,
+  title = {Partial Class Activation Attention for Semantic Segmentation},
+  author = {Liu, Sun-Ao and Xie, Hongtao and Xu, Hai and Zhang, Yongdong and Tian, Qi},
+  pages = {16836--16845},
+  year = {2022},
+}

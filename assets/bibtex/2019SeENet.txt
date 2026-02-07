@@ -1,0 +1,6 @@
+@inproceedings{2019SeENet,
+  title = {Towards bridging semantic gap to improve semantic segmentation},
+  author = {Pang, Yanwei and Li, Yazhao and Shen, Jianbing and Shao, Ling},
+  pages = {4230--4239},
+  year = {2019},
+}

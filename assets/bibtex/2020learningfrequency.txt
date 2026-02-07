@@ -1,0 +1,6 @@
+@inproceedings{2020learningfrequency,
+  title = {Learning in the frequency domain},
+  author = {Xu, Kai and Qin, Minghai and Sun, Fei and Wang, Yuhao and Chen, Yen-Kuang and Ren, Fengbo},
+  pages = {1740--1749},
+  year = {2020},
+}

@@ -1,0 +1,9 @@
+@inproceedings{liu2023semantic,
+  title = {Semantic Segmentation Research of Motion Blurred Images by Event Camera},
+  author = {Liu, Xiangyong and Yin, Fengfeng and Jiang, Wei and Fan, Siwen},
+  booktitle = {International Conference on Vehicular Control and Intelligence},
+  pages = {1--4},
+  year = {2023},
+  organization = {IEEE},
+  doi = {10.1109/cvci59596.2023.10397200 },
+}

@@ -1,0 +1,10 @@
+@article{shang2020semantic,
+  title = {Semantic segmentation for SAR image based on texture complexity analysis and key superpixels},
+  author = {Shang, Ronghua and Peng, Pei and Shang, Fanhua and Jiao, Licheng and Shen, Yifei and Stolkin, Rustam},
+  journal = {Remote Sensing},
+  volume = {12},
+  number = {13},
+  pages = {2141},
+  year = {2020},
+  publisher = {MDPI},
+}

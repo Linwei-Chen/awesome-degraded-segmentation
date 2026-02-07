@@ -1,0 +1,9 @@
+@article{chen2022consistency,
+  title = {Consistency-Aware Map Generation at Multiple Zoom Levels Using Aerial Image},
+  author = {Chen, Linwei and Fang, Zheng and Fu, Ying},
+  journal = {IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing},
+  volume = {15},
+  pages = {5953--5966},
+  year = {2022},
+  publisher = {IEEE},
+}

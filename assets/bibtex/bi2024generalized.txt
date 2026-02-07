@@ -1,0 +1,7 @@
+@inproceedings{bi2024generalized,
+  title = {Generalized Foggy-Scene Semantic Segmentation by Frequency Decoupling},
+  author = {Bi, Qi and You, Shaodi and Gevers, Theo},
+  pages = {1389--1399},
+  year = {2024},
+  doi = {10.1109/cvprw63382.2024.00146 },
+}

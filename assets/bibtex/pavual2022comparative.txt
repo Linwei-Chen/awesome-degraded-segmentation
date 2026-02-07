@@ -1,0 +1,7 @@
+@inproceedings{pavual2022comparative,
+  title = {Comparative Analysis of Deep Semantic Segmentation Networks Sensitivity to Input Noise},
+  booktitle = {2022 26th International Conference on System Theory, Control and Computing},
+  pages = {252--257},
+  year = {2022},
+  organization = {IEEE},
+}

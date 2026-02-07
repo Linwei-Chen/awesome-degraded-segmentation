@@ -1,0 +1,6 @@
+@inproceedings{2022mask2former,
+  title = {Masked-attention mask transformer for universal image segmentation},
+  author = {Cheng, Bowen and Misra, Ishan and Schwing, Alexander G and Kirillov, Alexander and Girdhar, Rohit},
+  pages = {1290--1299},
+  year = {2022},
+}

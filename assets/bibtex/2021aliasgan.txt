@@ -1,0 +1,7 @@
+@article{2021aliasgan,
+  title = {Alias-free generative adversarial networks},
+  author = {Karras, Tero and Aittala, Miika and Laine, Samuli and H{\"a}rk{\"o}nen, Erik and Hellsten, Janne and Lehtinen, Jaakko and Aila, Timo},
+  volume = {34},
+  pages = {852--863},
+  year = {2021},
+}

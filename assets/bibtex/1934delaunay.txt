@@ -1,0 +1,9 @@
+@article{1934delaunay,
+  title = {Sur la sphere vide},
+  author = {Delaunay, Boris and others},
+  journal = {Izv. Akad. Nauk SSSR, Otdelenie Matematicheskii i Estestvennyka Nauk},
+  volume = {7},
+  number = {793-800},
+  pages = {1--2},
+  year = {1934},
+}

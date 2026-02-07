@@ -1,0 +1,6 @@
+@inproceedings{hrformer,
+  title = {HRFormer: High-Resolution Transformer for Dense Prediction},
+  author = {Yuhui Yuan and Rao Fu and Lang Huang and Weihong Lin and Chao Zhang and Xilin Chen and Jingdong Wang},
+  pages = {1--13},
+  year = {2021},
+}

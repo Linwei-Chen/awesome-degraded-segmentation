@@ -1,0 +1,6 @@
+@inproceedings{2019pixeladaptive,
+  title = {Pixel-adaptive convolutional neural networks},
+  author = {Su, Hang and Jampani, Varun and Sun, Deqing and Gallo, Orazio and Learned-Miller, Erik and Kautz, Jan},
+  pages = {11166--11175},
+  year = {2019},
+}

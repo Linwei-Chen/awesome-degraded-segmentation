@@ -1,0 +1,6 @@
+@inproceedings{2021softpool,
+  title = {Refining activation downsampling with SoftPool},
+  author = {Stergiou, Alexandros and Poppe, Ronald and Kalliatakis, Grigorios},
+  pages = {10357--10366},
+  year = {2021},
+}

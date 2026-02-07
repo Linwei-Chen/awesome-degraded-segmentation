@@ -1,0 +1,10 @@
+@article{ibrahim2007brightness,
+  title = {Brightness preserving dynamic histogram equalization for image contrast enhancement},
+  author = {Ibrahim, Haidi and Kong, Nicholas Sia Pik},
+  journal = {IEEE Transactions on Consumer Electronics},
+  volume = {53},
+  number = {4},
+  pages = {1752--1758},
+  year = {2007},
+  publisher = {IEEE},
+}

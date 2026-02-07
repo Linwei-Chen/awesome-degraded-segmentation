@@ -1,0 +1,6 @@
+@inproceedings{2023antialiasingtiny,
+  title = {The Importance of Anti-Aliasing in Tiny Object Detection},
+  author = {Ning, Jinlai and Spratling, Michael},
+  booktitle = {Asian Conference on Machine Learning},
+  year = {2023},
+}

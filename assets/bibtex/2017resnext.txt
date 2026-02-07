@@ -1,0 +1,6 @@
+@inproceedings{2017resnext,
+  title = {Aggregated residual transformations for deep neural networks},
+  author = {Xie, Saining and Girshick, Ross and Doll{\'a}r, Piotr and Tu, Zhuowen and He, Kaiming},
+  pages = {1492--1500},
+  year = {2017},
+}

@@ -1,0 +1,6 @@
+@inproceedings{2018encnet,
+  title = {Context encoding for semantic segmentation},
+  author = {Zhang, Hang and Dana, Kristin and Shi, Jianping and Zhang, Zhongyue and Wang, Xiaogang and Tyagi, Ambrish and Agrawal, Amit},
+  pages = {7151--7160},
+  year = {2018},
+}

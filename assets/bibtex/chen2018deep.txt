@@ -1,0 +1,6 @@
+@inproceedings{chen2018deep,
+  title = {Deep photo enhancer: Unpaired learning for image enhancement from photographs with gans},
+  author = {Chen, Yu-Sheng and Wang, Yu-Ching and Kao, Man-Hsin and Chuang, Yung-Yu},
+  pages = {6306--6314},
+  year = {2018},
+}

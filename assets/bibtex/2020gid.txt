@@ -1,0 +1,9 @@
+@article{2020gid,
+  title = {Land-cover classification with high-resolution remote sensing images using transferable deep models},
+  author = {Tong, Xin-Yi and Xia, Gui-Song and Lu, Qikai and Shen, Huanfeng and Li, Shengyang and You, Shucheng and Zhang, Liangpei},
+  journal = {Remote Sensing of Environment},
+  volume = {237},
+  pages = {111322},
+  year = {2020},
+  publisher = {Elsevier},
+}

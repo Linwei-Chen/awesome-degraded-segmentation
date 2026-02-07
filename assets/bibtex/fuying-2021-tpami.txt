@@ -1,0 +1,9 @@
+@article{fuying-2021-tpami,
+  title = {Coded hyperspectral image reconstruction using deep external and internal learning},
+  author = {Fu, Ying and Zhang, Tao and Wang, Lizhi and Huang, Hua},
+  volume = {44},
+  number = {7},
+  pages = {3404-3420},
+  year = {2022},
+  publisher = {IEEE},
+}

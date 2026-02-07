@@ -1,0 +1,8 @@
+@inproceedings{vachmanus2020semantic,
+  title = {Semantic segmentation for road surface detection in snowy environment},
+  author = {Vachmanus, Sirawich and Ravankar, Ankit A and Emaru, Takanori and Kobayashi, Yukinori},
+  booktitle = {2020 59th Annual Conference of the Society of Instrument and Control Engineers of Japan},
+  pages = {1381--1386},
+  year = {2020},
+  organization = {IEEE},
+}

@@ -1,0 +1,6 @@
+@inproceedings{2018DFN,
+  title = {Learning a discriminative feature network for semantic segmentation},
+  author = {Yu, Changqian and Wang, Jingbo and Peng, Chao and Gao, Changxin and Yu, Gang and Sang, Nong},
+  pages = {1857--1866},
+  year = {2018},
+}

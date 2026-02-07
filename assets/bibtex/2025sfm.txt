@@ -1,0 +1,10 @@
+@ARTICLE{2025sfm,
+  author = {Chen, Linwei and Fu, Ying and Gu, Lin and Zheng, Dezhi and Dai, Jifeng},
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  title = {Spatial Frequency Modulation for Semantic Segmentation},
+  year = {2025},
+  volume = {47},
+  number = {11},
+  pages = {9767-9784},
+  doi = {10.1109/tpami.2025.3592621 },
+}

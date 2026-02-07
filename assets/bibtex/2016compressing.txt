@@ -1,0 +1,7 @@
+@inproceedings{2016compressing,
+  title = {Compressing convolutional neural networks in the frequency domain},
+  author = {Chen, Wenlin and Wilson, James and Tyree, Stephen and Weinberger, Kilian Q and Chen, Yixin},
+  booktitle = { the ACM SIGKDD international conference on knowledge discovery and data mining},
+  pages = {1475--1484},
+  year = {2016},
+}

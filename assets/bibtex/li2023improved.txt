@@ -1,0 +1,10 @@
+@article{li2023improved,
+  title = {An improved SAR image semantic segmentation Deeplabv3+ network based on the feature post-processing module},
+  author = {Li, Qiupeng and Kong, Yingying},
+  journal = {Remote Sensing},
+  volume = {15},
+  number = {8},
+  pages = {2153},
+  year = {2023},
+  publisher = {MDPI},
+}

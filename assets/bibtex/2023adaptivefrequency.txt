@@ -1,0 +1,6 @@
+@inproceedings{2023adaptivefrequency,
+  title = {Adaptive Frequency Filters As Efficient Global Token Mixers},
+  author = {Huang, Zhipeng and Zhang, Zhizheng and Lan, Cuiling and Zha, Zheng-Jun and Lu, Yan and Guo, Baining},
+  pages = {1--11},
+  year = {2023},
+}

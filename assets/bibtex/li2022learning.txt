@@ -1,0 +1,10 @@
+@article{li2022learning,
+  title = {Learning intra-domain style-invariant representation for unsupervised domain adaptation of semantic segmentation},
+  author = {Li, Zongyao and Togo, Ren and Ogawa, Takahiro and Haseyama, Miki},
+  journal = {Pattern Recognition},
+  volume = {132},
+  pages = {108911},
+  year = {2022},
+  publisher = {Elsevier},
+  doi = {10.1016/j.patcog.2022.108911 },
+}

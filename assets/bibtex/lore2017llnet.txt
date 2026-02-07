@@ -1,0 +1,9 @@
+@article{lore2017llnet,
+  title = {LLNet: A deep autoencoder approach to natural low-light image enhancement},
+  author = {Lore, Kin Gwn and Akintayo, Adedotun and Sarkar, Soumik},
+  journal = {Pattern Recognition},
+  volume = {61},
+  pages = {650--662},
+  year = {2017},
+  publisher = {Elsevier},
+}

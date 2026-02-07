@@ -1,0 +1,10 @@
+@article{shannon1949communication,
+  title = {Communication in the presence of noise},
+  author = {Shannon, Claude E},
+  journal = { the IRE},
+  volume = {37},
+  number = {1},
+  pages = {10--21},
+  year = {1949},
+  publisher = {IEEE},
+}

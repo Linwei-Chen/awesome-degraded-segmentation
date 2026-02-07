@@ -1,0 +1,9 @@
+@article{volpi2016dense,
+  title = {Dense semantic labeling of subdecimeter resolution images with convolutional neural networks},
+  author = {Volpi, Michele and Tuia, Devis},
+  volume = {55},
+  number = {2},
+  pages = {881--893},
+  year = {2016},
+  publisher = {IEEE},
+}

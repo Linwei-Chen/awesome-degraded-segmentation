@@ -1,0 +1,9 @@
+@inproceedings{lim2023performance,
+  title = {Performance assessment of U-Net for semantic segmentation of liquid spray images with Gaussian blurring},
+  author = {Lim, Wei Lun and Teow, Matthew YW and Wong, Richard TK and Pathan, Refat Khan and Lau, Sian Lun and Ho, Chiung Ching and Bravo, Luis and Koneru, Rahul Babu and Khare, Prashant},
+  booktitle = {IEEE International Conference on Computing},
+  pages = {462--467},
+  year = {2023},
+  organization = {IEEE},
+  doi = {10.1109/icoco59262.2023.10397704 },
+}

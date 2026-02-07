@@ -1,0 +1,6 @@
+@inproceedings{rajagopalan2023improving,
+  title = {Improving robustness of semantic segmentation to motion-blur using class-centric augmentation},
+  author = {Rajagopalan, AN and others},
+  pages = {10470--10479},
+  year = {2023},
+}

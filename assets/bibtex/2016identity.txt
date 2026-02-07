@@ -1,0 +1,7 @@
+@inproceedings{2016identity,
+  title = {Identity mappings in deep residual networks},
+  author = {He, Kaiming and Zhang, Xiangyu and Ren, Shaoqing and Sun, Jian},
+  pages = {630--645},
+  year = {2016},
+  organization = {Springer},
+}

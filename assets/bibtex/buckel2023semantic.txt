@@ -1,0 +1,11 @@
+@article{buckel2023semantic,
+  title = {Semantic Segmentation and Inpainting of Dust with the S-Dust Dataset},
+  author = {Buckel, Peter and Oksanen, Timo and Dietmueller, Thomas},
+  journal = {International Federation of Automatic Control},
+  volume = {56},
+  number = {2},
+  pages = {8896--8901},
+  year = {2023},
+  publisher = {Elsevier},
+  doi = {10.1016/j.ifacol.2023.10.091 },
+}

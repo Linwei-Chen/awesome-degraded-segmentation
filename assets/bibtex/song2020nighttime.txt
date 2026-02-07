@@ -1,0 +1,11 @@
+@article{song2020nighttime,
+  title = {Nighttime road scene parsing by unsupervised domain adaptation},
+  author = {Song, Can and Wu, Jin and Zhu, Lei and Zhang, Mei and Ling, Haibin},
+  journal = {IEEE transactions on intelligent transportation systems},
+  volume = {23},
+  number = {4},
+  pages = {3244--3255},
+  year = {2020},
+  publisher = {IEEE},
+  doi = {10.1109/tits.2020.3033569 },
+}

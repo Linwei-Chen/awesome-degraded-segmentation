@@ -1,0 +1,8 @@
+@inproceedings{tian2020uno,
+  title = {UNO: Uncertainty-aware noisy-or multimodal fusion for unanticipated input degradation},
+  author = {Tian, Junjiao and Cheung, Wesley and Glaser, Nathaniel and Liu, Yen-Cheng and Kira, Zsolt},
+  pages = {5716--5723},
+  year = {2020},
+  organization = {IEEE},
+  doi = {10.1109/icra40945.2020.9197266 },
+}

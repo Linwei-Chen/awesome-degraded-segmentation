@@ -1,0 +1,6 @@
+@article{semiusinggans2017,
+  title = {Semi and weakly supervised semantic segmentation using generative adversarial network},
+  author = {Souly, Nasim and Spampinato, Concetto and Shah, Mubarak},
+  journal = {arXiv preprint arXiv:1703.09695},
+  year = {2017},
+}

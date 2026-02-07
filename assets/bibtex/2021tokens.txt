@@ -1,0 +1,6 @@
+@inproceedings{2021tokens,
+  title = {Tokens-to-token vit: Training vision transformers from scratch on imagenet},
+  author = {Yuan, Li and Chen, Yunpeng and Wang, Tao and Yu, Weihao and Shi, Yujun and Jiang, Zi-Hang and Tay, Francis EH and Feng, Jiashi and Yan, Shuicheng},
+  pages = {558--567},
+  year = {2021},
+}

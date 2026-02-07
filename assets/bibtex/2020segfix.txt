@@ -1,0 +1,8 @@
+@inproceedings{2020segfix,
+  title = {Segfix: Model-agnostic boundary refinement for segmentation},
+  author = {Yuan, Yuhui and Xie, Jingyi and Chen, Xilin and Wang, Jingdong},
+  booktitle = {Computer Vision--ECCV 2020: 16th European Conference, Glasgow, UK, August 23--28, 2020, Proceedings, Part XII 16},
+  pages = {489--506},
+  year = {2020},
+  organization = {Springer},
+}

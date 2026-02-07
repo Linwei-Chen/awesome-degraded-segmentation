@@ -1,0 +1,7 @@
+@inproceedings{2019bonnet,
+  title = {Bonnet: An open-source training and deployment framework for semantic segmentation in robotics using cnns},
+  author = {Milioto, Andres and Stachniss, Cyrill},
+  pages = {7094--7100},
+  year = {2019},
+  organization = {IEEE},
+}

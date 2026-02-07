@@ -1,0 +1,10 @@
+@article{shi2022towards,
+  title = {Towards robust semantic segmentation of land covers in foggy conditions},
+  author = {Shi, Weipeng and Qin, Wenhu and Chen, Allshine},
+  journal = {Remote Sensing},
+  volume = {14},
+  number = {18},
+  pages = {4551},
+  year = {2022},
+  publisher = {MDPI},
+}

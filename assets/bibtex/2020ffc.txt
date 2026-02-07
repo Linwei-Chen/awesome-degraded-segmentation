@@ -1,0 +1,7 @@
+@inproceedings{2020ffc,
+  title = {Fast fourier convolution},
+  author = {Chi, Lu and Jiang, Borui and Mu, Yadong},
+  volume = {33},
+  pages = {4479--4488},
+  year = {2020},
+}

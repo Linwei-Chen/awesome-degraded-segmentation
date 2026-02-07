@@ -1,0 +1,10 @@
+@article{memon2022unified,
+  title = {Unified DeepLabV3+ for semi-dark image semantic segmentation},
+  author = {Memon, Mehak Maqbool and Hashmani, Manzoor Ahmed and Junejo, Aisha Zahid and Rizvi, Syed Sajjad and Raza, Kamran},
+  journal = {Sensors},
+  volume = {22},
+  number = {14},
+  pages = {5312},
+  year = {2022},
+  publisher = {MDPI},
+}

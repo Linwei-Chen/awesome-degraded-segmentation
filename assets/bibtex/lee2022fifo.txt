@@ -1,0 +1,7 @@
+@inproceedings{lee2022fifo,
+  title = {Fifo: Learning fog-invariant features for foggy scene segmentation.},
+  author = {Lee, Sohyun and Son, T and Kwak, S},
+  pages = {18889--18899},
+  year = {2022},
+  doi = {10.1109/cvpr52688.2022.01834 },
+}

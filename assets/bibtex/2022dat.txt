@@ -1,0 +1,6 @@
+@inproceedings{2022dat,
+  title = {Vision transformer with deformable attention},
+  author = {Xia, Zhuofan and Pan, Xuran and Song, Shiji and Li, Li Erran and Huang, Gao},
+  pages = {4794--4803},
+  year = {2022},
+}

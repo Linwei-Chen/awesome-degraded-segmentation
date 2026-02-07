@@ -1,0 +1,10 @@
+@article{guo2019degraded,
+  title = {Degraded image semantic segmentation with dense-gram networks},
+  author = {Guo, Dazhou and Pei, Yanting and Zheng, Kang and Yu, Hongkai and Lu, Yuhang and Wang, Song},
+  journal = {IEEE Transactions on Image Processing},
+  volume = {29},
+  pages = {782--795},
+  year = {2019},
+  publisher = {IEEE},
+  doi = {10.1109/tip.2019.2936111 },
+}

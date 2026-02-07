@@ -1,0 +1,7 @@
+@inproceedings{jin2021raidar,
+  title = {Raidar: A rich annotated image dataset of rainy street scenes},
+  author = {Jin, Jiongchao and Fatemi, Arezou and Lira, Wallace Michel Pinto and Yu, Fenggen and Leng, Biao and Ma, Rui and Mahdavi-Amiri, Ali and Zhang, Hao},
+  pages = {2951--2961},
+  year = {2021},
+  doi = {10.1109/iccvw54120.2021.00330 },
+}

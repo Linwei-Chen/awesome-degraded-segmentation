@@ -1,0 +1,8 @@
+@inproceedings{wang2018gladnet,
+  title = {GLADNet: Low-light enhancement network with global awareness},
+  author = {Wang, Wenjing and Wei, Chen and Yang, Wenhan and Liu, Jiaying},
+  booktitle = { IEEE International Conference on Automatic Face \& Gesture Recognition},
+  pages = {751--755},
+  year = {2018},
+  organization = {IEEE},
+}

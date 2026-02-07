@@ -1,0 +1,6 @@
+@inproceedings{self-erasing2018,
+  title = {Self-erasing network for integral object attention},
+  author = {Hou, Qibin and Jiang, PengTao and Wei, Yunchao and Cheng, Ming-Ming},
+  pages = {549--559},
+  year = {2018},
+}

@@ -1,0 +1,6 @@
+@inproceedings{deeplabv3plus,
+  title = {Encoder-decoder with atrous separable convolution for semantic image segmentation},
+  author = {Chen, Liang-Chieh and Zhu, Yukun and Papandreou, George and Schroff, Florian and Adam, Hartwig},
+  pages = {801--818},
+  year = {2018},
+}

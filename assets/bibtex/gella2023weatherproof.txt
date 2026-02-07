@@ -1,0 +1,7 @@
+@article{gella2023weatherproof,
+  title = {Weatherproof: A paired-dataset approach to semantic segmentation in adverse weather},
+  author = {Gella, Blake and Zhang, Howard and Upadhyay, Rishi and Chang, Tiffany and Waliman, Matthew and Ba, Yunhao and Wong, Alex and Kadambi, Achuta},
+  journal = {arXiv preprint arXiv:2312.09534},
+  year = {2023},
+  doi = {},
+}

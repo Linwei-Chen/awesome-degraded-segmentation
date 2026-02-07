@@ -1,0 +1,6 @@
+@inproceedings{2016pixelshuffle,
+  title = {Real-time single image and video super-resolution using an efficient sub-pixel convolutional neural network},
+  author = {Shi, Wenzhe and Caballero, Jose and Husz{\'a}r, Ferenc and Totz, Johannes and Aitken, Andrew P and Bishop, Rob and Rueckert, Daniel and Wang, Zehan},
+  pages = {1874--1883},
+  year = {2016},
+}

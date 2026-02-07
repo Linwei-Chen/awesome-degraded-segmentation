@@ -1,0 +1,6 @@
+@inproceedings{benenson2019largeinteractive,
+  title = {Large-scale interactive object segmentation with human annotators},
+  author = {Benenson, Rodrigo and Popov, Stefan and Ferrari, Vittorio},
+  pages = {11700--11709},
+  year = {2019},
+}

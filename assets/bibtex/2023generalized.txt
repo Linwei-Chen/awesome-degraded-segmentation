@@ -1,0 +1,6 @@
+@article{2023generalized,
+  title = {Generalized Semantic Segmentation by Self-Supervised Source Domain Projection and Multi-Level Contrastive Learning},
+  author = {Yang, Liwei and Gu, Xiang and Sun, Jian},
+  journal = {arXiv preprint arXiv:2303.01906},
+  year = {2023},
+}

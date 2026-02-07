@@ -1,0 +1,11 @@
+@article{lee2022speckle,
+  title = {Speckle reduction via deep content-aware image prior for precise breast tumor segmentation in an ultrasound image},
+  author = {Lee, Haeyun and Lee, Moon Hwan and Youn, Sangyeon and Lee, Kyungsu and Lew, Hah Min and Hwang, Jae Youn},
+  journal = {IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control},
+  volume = {69},
+  number = {9},
+  pages = {2638--2650},
+  year = {2022},
+  publisher = {IEEE},
+  doi = {10.1109/tuffc.2022.3193640 },
+}

@@ -1,0 +1,6 @@
+@inproceedings{song2019boxdriven,
+  title = {Box-driven class-wise region masking and filling rate guided loss for weakly supervised semantic segmentation},
+  author = {Song, Chunfeng and Huang, Yan and Ouyang, Wanli and Wang, Liang},
+  pages = {3136--3145},
+  year = {2019},
+}

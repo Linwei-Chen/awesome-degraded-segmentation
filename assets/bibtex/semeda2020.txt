@@ -1,0 +1,8 @@
+@article{semeda2020,
+  title = {SEMEDA: Enhancing Segmentation Precision with Semantic Edge Aware Loss},
+  author = {Chen, Yifu and Dapogny, Arnaud and Cord, Matthieu},
+  journal = {Pattern Recognition},
+  pages = {107557},
+  year = {2020},
+  publisher = {Elsevier},
+}

@@ -1,0 +1,6 @@
+@inproceedings{cho2024cat,
+  title = {Cat-seg: Cost aggregation for open-vocabulary semantic segmentation},
+  author = {Cho, Seokju and Shin, Heeseong and Hong, Sunghwan and Arnab, Anurag and Seo, Paul Hongsuck and Kim, Seungryong},
+  pages = {4113--4123},
+  year = {2024},
+}

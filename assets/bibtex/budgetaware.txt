@@ -1,0 +1,6 @@
+@inproceedings{budgetaware,
+  title = {Budget-aware semi-supervised semantic and instance segmentation},
+  author = {Bellver Bueno, M{\'\i}riam and Salvador Aguilera, Amaia and Torres Vi{\~n}als, Jordi and Gir{\'o} Nieto, Xavier},
+  pages = {93--102},
+  year = {2019},
+}

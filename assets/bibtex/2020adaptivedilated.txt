@@ -1,0 +1,6 @@
+@inproceedings{2020adaptivedilated,
+  title = {Adaptive dilated network with self-correction supervision for counting},
+  author = {Bai, Shuai and He, Zhiqun and Qiao, Yu and Hu, Hanzhe and Wu, Wei and Yan, Junjie},
+  pages = {4594--4603},
+  year = {2020},
+}

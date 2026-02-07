@@ -1,0 +1,9 @@
+@inproceedings{chen2022assembly,
+  title = {Assembly monitoring using semantic segmentation network based on multiscale feature maps and trainable guided filter},
+  author = {Chen, Chengjun and Zhang, Chunlin and Li, Changzhi and Hong, Jun},
+  journal = {IEEE Transactions on Instrumentation and Measurement},
+  volume = {71},
+  pages = {1--11},
+  year = {2022},
+  publisher = {IEEE},
+}

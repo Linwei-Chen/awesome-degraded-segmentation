@@ -1,0 +1,7 @@
+@article{2011densecrf,
+  title = {Efficient inference in fully connected crfs with gaussian edge potentials},
+  author = {Kr{\"a}henb{\"u}hl, Philipp and Koltun, Vladlen},
+  volume = {24},
+  pages = {1--14},
+  year = {2011},
+}

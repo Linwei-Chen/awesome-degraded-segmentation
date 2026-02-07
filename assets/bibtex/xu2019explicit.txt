@@ -1,0 +1,6 @@
+@inproceedings{xu2019explicit,
+  title = {Explicit shape encoding for real-time instance segmentation},
+  author = {Xu, Wenqiang and Wang, Haiyang and Qi, Fubo and Lu, Cewu},
+  pages = {5168--5177},
+  year = {2019},
+}

@@ -1,0 +1,6 @@
+@inproceedings{fu2016weighted,
+  title = {A weighted variational model for simultaneous reflectance and illumination estimation},
+  author = {Fu, Xueyang and Zeng, Delu and Huang, Yue and Zhang, Xiao-Ping and Ding, Xinghao},
+  pages = {2782--2790},
+  year = {2016},
+}

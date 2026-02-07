@@ -1,0 +1,10 @@
+@article{kan2023dsrss,
+  title = {DSRSS-Net: Improved-Resolution Snow Cover Mapping from FY-4A Satellite Images Using the Dual-Branch Super-Resolution Semantic Segmentation Network},
+  author = {Kan, Xi and Lu, Zhengsong and Zhang, Yonghong and Zhu, Linglong and Sian, Kenny Thiam Choy Lim Kam and Wang, Jiangeng and Liu, Xu and Zhou, Zhou and Cao, Haixiao},
+  journal = {Remote Sensing},
+  volume = {15},
+  number = {18},
+  pages = {4431},
+  year = {2023},
+  publisher = {MDPI},
+}

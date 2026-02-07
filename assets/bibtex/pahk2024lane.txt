@@ -1,0 +1,7 @@
+@article{pahk2024lane,
+  title = {Lane Segmentation Data Augmentation for Heavy Rain Sensor Blockage using Realistically Translated Raindrop Images and CARLA Simulator},
+  author = {Pahk, Jinu and Park, Seongjeong and Shim, Jungseok and Son, Sungho and Lee, Jungki and An, Jinung and Lim, Yongseob and Choi, Gyeungho},
+  journal = {IEEE Robotics and Automation Letters},
+  year = {2024},
+  publisher = {IEEE},
+}

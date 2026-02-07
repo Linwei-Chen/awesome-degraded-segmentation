@@ -1,0 +1,9 @@
+@inproceedings{peng2021semantic,
+  title = {Semantic nighttime image segmentation via illumination and position aware domain adaptation},
+  author = {Peng, Junhan and Su, Jia and Sun, Yongqing and Wang, Zheng and Lin, Chia-wen},
+  booktitle = {2021 IEEE International Conference on Image Processing},
+  pages = {1034--1038},
+  year = {2021},
+  organization = {IEEE},
+  doi = {10.1109/icip42928.2021.9506596 },
+}

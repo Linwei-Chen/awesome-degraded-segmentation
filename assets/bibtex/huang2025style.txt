@@ -1,0 +1,10 @@
+@article{huang2025style,
+  title = {Style Optimization Networks for real-time semantic segmentation of rainy and foggy weather},
+  author = {Huang, Yifang and He, Haitao and He, Hongdou and Zhao, Guyu and Shi, Peng and Fu, Pengpeng},
+  journal = {Signal Processing: Image Communication},
+  volume = {130},
+  pages = {117199},
+  year = {2025},
+  publisher = {Elsevier},
+  doi = {10.1016/j.image.2024.117199 },
+}

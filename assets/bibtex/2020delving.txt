@@ -1,0 +1,6 @@
+@inproceedings{2020delving,
+  title = {Delving deeper into anti-aliasing in convnets},
+  author = {Zou, Xueyan and Xiao, Fanyi and Yu, Zhiding and Lee, Yong Jae},
+  pages = {1--13},
+  year = {2020},
+}

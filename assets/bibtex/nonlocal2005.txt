@@ -1,0 +1,8 @@
+@inproceedings{nonlocal2005,
+  title = {A non-local algorithm for image denoising},
+  author = {Buades, Antoni and Coll, Bartomeu and Morel, J-M},
+  volume = {2},
+  pages = {60--65},
+  year = {2005},
+  organization = {IEEE},
+}

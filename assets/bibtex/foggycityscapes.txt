@@ -1,0 +1,9 @@
+@article{foggycityscapes,
+  title = {Semantic foggy scene understanding with synthetic data},
+  author = {Sakaridis, Christos and Dai, Dengxin and Van Gool, Luc},
+  volume = {126},
+  pages = {973--992},
+  year = {2018},
+  publisher = {Springer},
+  doi = {10.1007/s11263-018-1072-8 },
+}

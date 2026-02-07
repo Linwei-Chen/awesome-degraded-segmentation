@@ -1,0 +1,10 @@
+@article{alsharay2022improved,
+  title = {Improved sea-ice identification using semantic segmentation with raindrop removal},
+  author = {Alsharay, Nahed M and Chen, Yuanzhu and Dobre, Octavia A and De Silva, Oscar},
+  journal = {IEEE Access},
+  volume = {10},
+  pages = {21599--21607},
+  year = {2022},
+  publisher = {IEEE},
+  doi = {10.1109/access.2022.3150969 },
+}

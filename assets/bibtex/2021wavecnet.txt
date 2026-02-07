@@ -1,0 +1,8 @@
+@article{2021wavecnet,
+  title = {Wavecnet: Wavelet integrated cnns to suppress aliasing effect for noise-robust image classification},
+  author = {Li, Qiufu and Shen, Linlin and Guo, Sheng and Lai, Zhihui},
+  volume = {30},
+  pages = {7074--7089},
+  year = {2021},
+  publisher = {IEEE},
+}

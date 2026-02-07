@@ -1,0 +1,8 @@
+@inproceedings{vertens2017smsnet,
+  title = {Smsnet: Semantic motion segmentation using deep convolutional neural networks},
+  author = {Vertens, Johan and Valada, Abhinav and Burgard, Wolfram},
+  booktitle = {2017 IEEE/RSJ International Conference on Intelligent Robots and Systems},
+  pages = {582--589},
+  year = {2017},
+  organization = {IEEE},
+}

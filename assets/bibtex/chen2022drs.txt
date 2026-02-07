@@ -1,0 +1,10 @@
+@article{chen2022drs,
+  title = {DRs-UNet: A deep semantic segmentation network for the recognition of active landslides from InSAR imagery in the three rivers region of the Qinghai--Tibet Plateau},
+  author = {Chen, Ximing and Yao, Xin and Zhou, Zhenkai and Liu, Yang and Yao, Chuangchuang and Ren, Kaiyu},
+  journal = {Remote Sensing},
+  volume = {14},
+  number = {8},
+  pages = {1848},
+  year = {2022},
+  publisher = {MDPI},
+}

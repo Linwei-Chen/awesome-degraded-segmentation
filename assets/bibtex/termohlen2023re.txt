@@ -1,0 +1,7 @@
+@inproceedings{termohlen2023re,
+  title = {A Re-Parameterized Vision Transformer (ReVT) for Domain-Generalized Semantic Segmentation},
+  author = {Term{\""o}hlen, Jan-Aike and Bartels, Timo and Fingscheidt, Tim},
+  pages = {4376--4385},
+  year = {2023},
+  doi = {10.1109/iccvw60793.2023.00472 },
+}

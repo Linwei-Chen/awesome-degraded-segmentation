@@ -1,0 +1,5 @@
+@inproceedings{hayder2017boundary,
+  title = {Boundary-aware instance segmentation},
+  author = {Hayder, Zeeshan and He, Xuming and Salzmann, Mathieu},
+  year = {2017},
+}

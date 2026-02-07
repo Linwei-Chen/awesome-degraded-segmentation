@@ -1,0 +1,6 @@
+@inproceedings{zhu2019IAM,
+  title = {Learning instance activation maps for weakly supervised instance segmentation},
+  author = {Zhu, Yi and Zhou, Yanzhao and Xu, Huijuan and Ye, Qixiang and Doermann, David and Jiao, Jianbin},
+  pages = {3116--3125},
+  year = {2019},
+}

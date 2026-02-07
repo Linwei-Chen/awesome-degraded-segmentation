@@ -1,0 +1,6 @@
+@inproceedings{gatedscnn2019,
+  title = {Gated-scnn: Gated shape cnns for semantic segmentation},
+  author = {Takikawa, Towaki and Acuna, David and Jampani, Varun and Fidler, Sanja},
+  pages = {5229--5238},
+  year = {2019},
+}

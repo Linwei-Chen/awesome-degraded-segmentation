@@ -1,0 +1,6 @@
+@article{selfcorrecting2020,
+  title = {Semi-Supervised Semantic Image Segmentation with Self-correcting Networks},
+  author = {Ibrahim, Mostafa S and Vahdat, Arash and Macready, William G},
+  pages = {12715--12725},
+  year = {2020},
+}

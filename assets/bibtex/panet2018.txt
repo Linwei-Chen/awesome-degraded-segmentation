@@ -1,0 +1,6 @@
+@inproceedings{panet2018,
+  title = {Path aggregation network for instance segmentation},
+  author = {Liu, Shu and Qi, Lu and Qin, Haifang and Shi, Jianping and Jia, Jiaya},
+  pages = {8759--8768},
+  year = {2018},
+}

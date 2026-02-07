@@ -1,0 +1,9 @@
+@article{zhang2024convolutional,
+  title = {Convolutional neural networks rarely learn shape for semantic segmentation},
+  author = {Zhang, Yixin and Mazurowski, Maciej A},
+  journal = {Pattern Recognition},
+  volume = {146},
+  pages = {110018},
+  year = {2024},
+  publisher = {Elsevier},
+}

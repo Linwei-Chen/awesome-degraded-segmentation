@@ -1,0 +1,7 @@
+@article{shao2024cot,
+  title = {CoT: Contourlet Transformer for Hierarchical Semantic Segmentation},
+  author = {Shao, Yilin and Sun, Long and Jiao, Licheng and Liu, Xu and Liu, Fang and Li, Lingling and Yang, Shuyuan},
+  journal = {IEEE Transactions on Neural Networks and Learning Systems},
+  year = {2024},
+  publisher = {IEEE},
+}

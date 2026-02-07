@@ -1,0 +1,6 @@
+@article{diamond2017dirty,
+  title = {Dirty pixels: Optimizing image classification architectures for raw sensor data},
+  author = {Diamond, Steven and Sitzmann, Vincent and Boyd, Stephen and Wetzstein, Gordon and Heide, Felix},
+  journal = {arXiv preprint arXiv:1701.06487},
+  year = {2017},
+}

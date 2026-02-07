@@ -1,0 +1,6 @@
+@inproceedings{2018learningtozoom,
+  title = {Learning to zoom: a saliency-based sampling layer for neural networks},
+  author = {Recasens, Adria and Kellnhofer, Petr and Stent, Simon and Matusik, Wojciech and Torralba, Antonio},
+  pages = {51--66},
+  year = {2018},
+}

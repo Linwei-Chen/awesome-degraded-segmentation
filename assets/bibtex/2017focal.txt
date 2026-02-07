@@ -1,0 +1,6 @@
+@inproceedings{2017focal,
+  title = {Focal loss for dense object detection},
+  author = {Lin, Tsung-Yi and Goyal, Priya and Girshick, Ross and He, Kaiming and Doll{\'a}r, Piotr},
+  pages = {2980--2988},
+  year = {2017},
+}

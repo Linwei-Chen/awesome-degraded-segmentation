@@ -1,0 +1,6 @@
+@inproceedings{2019efficientseg,
+  title = {Efficient segmentation: Learning downsampling near semantic boundaries},
+  author = {Marin, Dmitrii and He, Zijian and Vajda, Peter and Chatterjee, Priyam and Tsai, Sam and Yang, Fei and Boykov, Yuri},
+  pages = {2131--2141},
+  year = {2019},
+}

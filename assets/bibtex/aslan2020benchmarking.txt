@@ -1,0 +1,10 @@
+@article{aslan2020benchmarking,
+  title = {Benchmarking algorithms for food localization and semantic segmentation},
+  author = {Aslan, Sinem and Ciocca, Gianluigi and Mazzini, Davide and Schettini, Raimondo},
+  journal = {International Journal of Machine Learning and Cybernetics},
+  volume = {11},
+  number = {12},
+  pages = {2827--2847},
+  year = {2020},
+  publisher = {Springer},
+}

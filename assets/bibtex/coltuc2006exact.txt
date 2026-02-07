@@ -1,0 +1,10 @@
+@article{coltuc2006exact,
+  title = {Exact histogram specification},
+  author = {Coltuc, Dinu and Bolon, Philippe and Chassery, J-M},
+  journal = {IEEE Transactions on Image Processing},
+  volume = {15},
+  number = {5},
+  pages = {1143--1152},
+  year = {2006},
+  publisher = {IEEE},
+}

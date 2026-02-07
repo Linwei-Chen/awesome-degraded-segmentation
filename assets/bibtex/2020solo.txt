@@ -1,0 +1,7 @@
+@inproceedings{2020solo,
+  title = {Solo: Segmenting objects by locations},
+  author = {Wang, Xinlong and Kong, Tao and Shen, Chunhua and Jiang, Yuning and Li, Lei},
+  pages = {649--665},
+  year = {2020},
+  organization = {Springer},
+}

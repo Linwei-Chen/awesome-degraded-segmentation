@@ -1,0 +1,6 @@
+@inproceedings{dai2016MNC,
+  title = {Instance-aware semantic segmentation via multi-task network cascades},
+  author = {Dai, Jifeng and He, Kaiming and Sun, Jian},
+  pages = {3150--3158},
+  year = {2016},
+}

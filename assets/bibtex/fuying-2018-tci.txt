@@ -1,0 +1,9 @@
+@ARTICLE{fuying-2018-tci,
+  author = {Y. {Fu} and Y. {Zheng} and L. {Zhang} and H. {Huang}},
+  journal = {IEEE Transactions on Computational Imaging},
+  title = {Spectral Reflectance Recovery From a Single RGB Image},
+  year = {2018},
+  volume = {4},
+  number = {3},
+  pages = {382-394},
+}

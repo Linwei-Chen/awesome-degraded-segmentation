@@ -1,0 +1,10 @@
+@article{land1977retinex,
+  title = {The retinex theory of color vision},
+  author = {Land, Edwin H},
+  journal = {Scientific american},
+  volume = {237},
+  number = {6},
+  pages = {108--129},
+  year = {1977},
+  publisher = {JSTOR},
+}

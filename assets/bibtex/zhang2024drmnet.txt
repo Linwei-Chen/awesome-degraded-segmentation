@@ -1,0 +1,10 @@
+@article{zhang2024drmnet,
+  title = {Drmnet: more efficient bilateral networks for real-time semantic segmentation of road scenes},
+  author = {Zhang, Wenming and Zhang, Shaotong and Li, Yaqian and Li, Haibin and Song, Tao},
+  journal = {Journal of Real-Time Image Processing},
+  volume = {21},
+  number = {6},
+  pages = {1--13},
+  year = {2024},
+  publisher = {Springer},
+}

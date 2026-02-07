@@ -1,0 +1,10 @@
+@article{chen2020dn,
+  title = {DN-GAN: Denoising generative adversarial networks for speckle noise reduction in optical coherence tomography images},
+  author = {Chen, Zailiang and Zeng, Ziyang and Shen, Hailan and Zheng, Xianxian and Dai, Peishan and Ouyang, Pingbo},
+  journal = {Biomedical Signal Processing and Control},
+  volume = {55},
+  pages = {101632},
+  year = {2020},
+  publisher = {Elsevier},
+  doi = {10.1016/j.bspc.2019.101632 },
+}

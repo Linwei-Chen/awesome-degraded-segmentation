@@ -1,0 +1,7 @@
+@inproceedings{2022ssbnet,
+  title = {SSBNet: Improving Visual Recognition Efficiency by Adaptive Sampling},
+  author = {Kwan, Ho Man and Song, Shenghui},
+  pages = {229--244},
+  year = {2022},
+  organization = {Springer},
+}

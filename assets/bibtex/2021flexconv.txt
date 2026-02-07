@@ -1,0 +1,6 @@
+@inproceedings{2021flexconv,
+  title = {Flexconv: Continuous kernel convolutions with differentiable kernel sizes},
+  author = {Romero, David W and Bruintjes, Robert-Jan and Tomczak, Jakub M and Bekkers, Erik J and Hoogendoorn, Mark and van Gemert, Jan C},
+  pages = {1--14},
+  year = {2021},
+}

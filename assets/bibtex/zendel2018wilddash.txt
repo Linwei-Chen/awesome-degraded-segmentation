@@ -1,0 +1,6 @@
+@inproceedings{zendel2018wilddash,
+  title = {Wilddash-creating hazard-aware benchmarks},
+  author = {Zendel, Oliver and Honauer, Katrin and Murschitz, Markus and Steininger, Daniel and Dominguez, Gustavo Fernandez},
+  pages = {402--416},
+  year = {2018},
+}

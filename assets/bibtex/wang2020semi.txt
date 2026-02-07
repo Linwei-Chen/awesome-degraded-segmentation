@@ -1,0 +1,6 @@
+@inproceedings{wang2020semi,
+  title = {Semi-supervised Active Learning for Instance Segmentation via Scoring Predictions},
+  author = {Wang, Jun and Wen, Shaoguo and Chen, Kaixing and Yu, Jianghua and Zhou, Xin and Gao, Peng and Li, Changsheng and Xie, Guotong},
+  pages = {1--13},
+  year = {2020},
+}

@@ -1,0 +1,6 @@
+@inproceedings{2021aliasingcoincides,
+  title = {Aliasing coincides with CNNs vulnerability towards adversarial attacks},
+  author = {Grabinski, Julia and Keuper, Janis and Keuper, Margret},
+  booktitle = {The AAAI-22 Workshop on Adversarial Machine Learning and Beyond},
+  year = {2021},
+}

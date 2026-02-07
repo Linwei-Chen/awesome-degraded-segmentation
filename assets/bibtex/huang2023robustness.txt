@@ -1,0 +1,6 @@
+@article{huang2023robustness,
+  title = {On the robustness of segment anything},
+  author = {Huang, Yihao and Cao, Yue and Li, Tianlin and Juefei-Xu, Felix and Lin, Di and Tsang, Ivor W and Liu, Yang and Guo, Qing},
+  journal = {arXiv preprint arXiv:2305.16220},
+  year = {2023},
+}

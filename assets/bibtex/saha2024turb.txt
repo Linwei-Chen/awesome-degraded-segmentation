@@ -1,0 +1,7 @@
+@inproceedings{saha2024turb,
+  title = {Turb-Seg-Res: A Segment-then-Restore Pipeline for Dynamic Videos with Atmospheric Turbulence},
+  author = {Saha, Ripon Kumar and Qin, Dehao and Li, Nianyi and Ye, Jinwei and Jayasuriya, Suren},
+  pages = {25286--25296},
+  year = {2024},
+  doi = {10.1109/cvpr52733.2024.02389},
+}

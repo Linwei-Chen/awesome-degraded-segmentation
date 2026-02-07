@@ -1,0 +1,8 @@
+@inproceedings{2021improving,
+  title = {Improving Aerial Instance Segmentation in the Dark with Self-Supervised Low Light Enhancement (Student Abstract)},
+  author = {Garg, Prateek and Mandal, Murari and Narang, Pratik},
+  volume = {35},
+  number = {18},
+  pages = {15781--15782},
+  year = {2021},
+}

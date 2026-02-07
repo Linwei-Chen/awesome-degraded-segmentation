@@ -1,0 +1,10 @@
+@inproceedings{everingham2010pascal,
+  title = {The pascal visual object classes (voc) challenge},
+  author = {Everingham, Mark and Van Gool, Luc and Williams, Christopher KI and Winn, John and Zisserman, Andrew},
+  journal = {International journal of computer vision},
+  volume = {88},
+  number = {2},
+  pages = {303--338},
+  year = {2010},
+  publisher = {Springer},
+}

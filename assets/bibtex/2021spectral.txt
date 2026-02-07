@@ -1,0 +1,8 @@
+@inproceedings{2021spectral,
+  title = {Spectral distribution aware image generation},
+  author = {Jung, Steffen and Keuper, Margret},
+  volume = {35},
+  number = {2},
+  pages = {1734--1742},
+  year = {2021},
+}

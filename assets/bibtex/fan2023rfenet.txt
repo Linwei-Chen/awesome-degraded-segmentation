@@ -1,0 +1,7 @@
+@article{fan2023rfenet,
+  title = {Rfenet: Towards reciprocal feature evolution for glass segmentation},
+  author = {Fan, Ke and Wang, Changan and Wang, Yabiao and Wang, Chengjie and Yi, Ran and Ma, Lizhuang},
+  journal = {arXiv preprint arXiv:2307.06099},
+  year = {2023},
+  doi = {10.24963/ijcai.2023/80 },
+}

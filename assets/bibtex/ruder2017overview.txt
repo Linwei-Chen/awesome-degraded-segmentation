@@ -1,0 +1,6 @@
+@article{ruder2017overview,
+  title = {An overview of multi-task learning in deep neural networks},
+  author = {Ruder, Sebastian},
+  journal = {arXiv preprint arXiv:1706.05098},
+  year = {2017},
+}

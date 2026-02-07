@@ -1,0 +1,6 @@
+@inproceedings{2016yolo,
+  title = {You only look once: Unified, real-time object detection},
+  author = {Redmon, Joseph and Divvala, Santosh and Girshick, Ross and Farhadi, Ali},
+  pages = {779--788},
+  year = {2016},
+}

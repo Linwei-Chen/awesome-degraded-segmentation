@@ -1,0 +1,11 @@
+@article{qiu2020improved,
+  title = {Improved denoising autoencoder for maritime image denoising and semantic segmentation of USV},
+  author = {Qiu, Yuhang and Yang, Yongcheng and Lin, Zhijian and Chen, Pingping and Luo, Yang and Huang, Wenqi},
+  journal = {China Communications},
+  volume = {17},
+  number = {3},
+  pages = {46--57},
+  year = {2020},
+  publisher = {IEEE},
+  doi = {10.23919/jcc.2020.03.005 },
+}

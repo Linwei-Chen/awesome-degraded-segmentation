@@ -1,0 +1,6 @@
+@article{1991continuous,
+  title = {Continuous and discrete signal and system analysis},
+  author = {McGillem, Clare D and Cooper, George R},
+  journal = {Oxford University Press},
+  year = {1991},
+}

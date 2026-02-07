@@ -1,0 +1,10 @@
+@article{zhang2021towards,
+  title = {Towards learning low-light indoor semantic segmentation with illumination-invariant features},
+  author = {Zhang, Ning and Nex, Francesco and Kerle, Norman and Vosselman, George},
+  journal = {The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences},
+  volume = {43},
+  pages = {427--432},
+  year = {2021},
+  publisher = {Copernicus GmbH},
+  doi = {10.5194/isprs-archives-xliii-b2-2021-427-2021 },
+}

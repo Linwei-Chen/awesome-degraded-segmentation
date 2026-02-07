@@ -1,0 +1,7 @@
+@inproceedings{huang2024alignsam,
+  title = {Alignsam: Aligning segment anything model to open context via reinforcement learning},
+  author = {Huang, Duojun and Xiong, Xinyu and Ma, Jie and Li, Jichang and Jie, Zequn and Ma, Lin and Li, Guanbin},
+  pages = {3205--3215},
+  year = {2024},
+  doi = {10.1109/cvpr52733.2024.00309 },
+}

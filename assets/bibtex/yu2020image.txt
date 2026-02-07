@@ -1,0 +1,8 @@
+@inproceedings{yu2020image,
+  title = {Image segmentation for dust detection using semi-supervised machine learning},
+  author = {Yu, Manzhu and Bessac, Julie and Xu, Ling and Gangopadhyay, Aryya and Shi, Yingxi and Wang, Jianwu},
+  booktitle = {IEEE International Conference on Big Data},
+  pages = {1745--1754},
+  year = {2020},
+  organization = {IEEE},
+}

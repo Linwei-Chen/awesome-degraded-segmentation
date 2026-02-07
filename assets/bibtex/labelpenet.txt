@@ -1,0 +1,6 @@
+@inproceedings{labelpenet,
+  title = {Label-PEnet: Sequential Label Propagation and Enhancement Networks for Weakly Supervised Instance Segmentation},
+  author = {Ge, Weifeng and Guo, Sheng and Huang, Weilin and Scott, Matthew R},
+  pages = {3345--3354},
+  year = {2019},
+}

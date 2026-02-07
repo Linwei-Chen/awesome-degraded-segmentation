@@ -1,0 +1,6 @@
+@inproceedings{schiappa2024robustness,
+  title = {Robustness Analysis on Foundational Segmentation Models},
+  author = {Schiappa, Madeline Chantry and Azad, Shehreen and Vs, Sachidanand and Ge, Yunhao and Miksik, Ondrej and Rawat, Yogesh S and Vineet, Vibhav},
+  pages = {1786--1796},
+  year = {2024},
+}

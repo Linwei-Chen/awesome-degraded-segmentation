@@ -1,0 +1,9 @@
+@inproceedings{kuhn2022reverse,
+  title = {Reverse error modeling for improved semantic segmentation},
+  author = {Kuhn, Christopher B and Hofbauer, Markus and Petrovic, Goran and Steinbach, Eckehard},
+  booktitle = {IEEE International Conference on Image Processing},
+  pages = {106--110},
+  year = {2022},
+  organization = {IEEE},
+  doi = {10.1109/icip46576.2022.9897331 },
+}

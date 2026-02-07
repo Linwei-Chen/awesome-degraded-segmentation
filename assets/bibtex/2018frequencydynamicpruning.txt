@@ -1,0 +1,6 @@
+@article{2018frequencydynamicpruning,
+  title = {Frequency-domain dynamic pruning for convolutional neural networks},
+  author = {Liu, Zhenhua and Xu, Jizheng and Peng, Xiulian and Xiong, Ruiqin},
+  volume = {31},
+  year = {2018},
+}

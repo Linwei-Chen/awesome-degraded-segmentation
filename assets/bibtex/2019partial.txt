@@ -1,0 +1,6 @@
+@inproceedings{2019partial,
+  title = {Partial order pruning: for best speed/accuracy trade-off in neural architecture search},
+  author = {Li, Xin and Zhou, Yiming and Pan, Zheng and Feng, Jiashi},
+  pages = {9145--9153},
+  year = {2019},
+}

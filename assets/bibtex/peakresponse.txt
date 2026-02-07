@@ -1,0 +1,6 @@
+@inproceedings{peakresponse,
+  title = {Weakly supervised instance segmentation using class peak response},
+  author = {Zhou, Yanzhao and Zhu, Yi and Ye, Qixiang and Qiu, Qiang and Jiao, Jianbin},
+  pages = {3791--3800},
+  year = {2018},
+}

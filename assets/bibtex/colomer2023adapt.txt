@@ -1,0 +1,7 @@
+@inproceedings{colomer2023adapt,
+  title = {To adapt or not to adapt? real-time adaptation for semantic segmentation},
+  author = {Colomer, Marc Botet and Dovesi, Pier Luigi and Panagiotakopoulos, Theodoros and Carvalho, Joao Frederico and H{\""a}renstam-Nielsen, Linus and Azizpour, Hossein and Kjellstr{\""o}m, Hedvig and Cremers, Daniel and Poggi, Matteo},
+  pages = {16548--16559},
+  year = {2023},
+  doi = {10.1109/iccv51070.2023.01517 },
+}

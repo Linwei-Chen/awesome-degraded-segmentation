@@ -1,0 +1,6 @@
+@article{saravanan2022robust,
+  title = {A Robust Morphological Approach for Semantic Segmentation of Very High Resolution Images},
+  author = {Saravanan, Siddharth and Challa, Aditya and Danda, Sravan},
+  journal = {arXiv preprint arXiv:2208.01254},
+  year = {2022},
+}

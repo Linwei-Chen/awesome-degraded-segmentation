@@ -1,0 +1,6 @@
+@article{yuan2023few,
+  title = {Few clicks suffice: Active test-time adaptation for semantic segmentation},
+  author = {Yuan, Longhui and Li, Shuang and He, Zhuo and Xie, Binhui},
+  journal = {arXiv preprint arXiv:2312.01835},
+  year = {2023},
+}

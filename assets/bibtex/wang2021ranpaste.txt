@@ -1,0 +1,10 @@
+@article{wang2021ranpaste,
+  title = {RanPaste: Paste consistency and pseudo label for semisupervised remote sensing image semantic segmentation},
+  author = {Wang, Jia-Xin and Chen, Si-Bao and Ding, Chris HQ and Tang, Jin and Luo, Bin},
+  journal = {IEEE Transactions on Geoscience and Remote Sensing},
+  volume = {60},
+  pages = {1--16},
+  year = {2021},
+  publisher = {IEEE},
+  doi = {10.1109/tgrs.2021.3102026 },
+}

@@ -1,0 +1,7 @@
+@inproceedings{2021segformer,
+  title = {SegFormer: Simple and efficient design for semantic segmentation with transformers},
+  author = {Xie, Enze and Wang, Wenhai and Yu, Zhiding and Anandkumar, Anima and Alvarez, Jose M and Luo, Ping},
+  volume = {34},
+  pages = {12077--12090},
+  year = {2021},
+}

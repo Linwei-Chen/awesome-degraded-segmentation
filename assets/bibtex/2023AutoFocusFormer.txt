@@ -1,0 +1,6 @@
+@inproceedings{2023AutoFocusFormer,
+  title = {AutoFocusFormer: Image Segmentation off the Grid},
+  author = {Ziwen, Chen and Patnaik, Kaushik and Zhai, Shuangfei and Wan, Alvin and Ren, Zhile and Schwing, Alexander G and Colburn, Alex and Fuxin, Li},
+  pages = {18227--18236},
+  year = {2023},
+}

@@ -1,0 +1,6 @@
+@inproceedings{zhao2017pyramid,
+  title = {Pyramid scene parsing network},
+  author = {Zhao, Hengshuang and Shi, Jianping and Qi, Xiaojuan and Wang, Xiaogang and Jia, Jiaya},
+  pages = {2881--2890},
+  year = {2017},
+}

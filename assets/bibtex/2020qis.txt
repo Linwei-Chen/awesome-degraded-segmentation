@@ -1,0 +1,7 @@
+@inproceedings{2020qis,
+  title = {Image classification in the dark using quanta image sensors},
+  author = {Gnanasambandam, Abhiram and Chan, Stanley H},
+  pages = {484--501},
+  year = {2020},
+  organization = {Springer},
+}

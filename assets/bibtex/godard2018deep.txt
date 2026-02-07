@@ -1,0 +1,7 @@
+@inproceedings{godard2018deep,
+  title = {Deep burst denoising},
+  author = {Godard, Cl{\'e}ment and Matzen, Kevin and Uyttendaele, Matt},
+  booktitle = {European Conference on Computer Vision},
+  pages = {538--554},
+  year = {2018},
+}

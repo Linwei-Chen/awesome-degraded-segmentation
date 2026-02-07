@@ -1,0 +1,11 @@
+@article{liu2021fiss,
+  title = {FISS GAN: A generative adversarial network for foggy image semantic segmentation},
+  author = {Liu, Kunhua and Ye, Zihao and Guo, Hongyan and Cao, Dongpu and Chen, Long and Wang, Fei-Yue},
+  journal = {IEEE/CAA Journal of Automatica Sinica},
+  volume = {8},
+  number = {8},
+  pages = {1428--1439},
+  year = {2021},
+  publisher = {IEEE},
+  doi = {10.1109/jas.2021.1004057 },
+}

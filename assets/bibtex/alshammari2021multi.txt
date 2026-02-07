@@ -1,0 +1,8 @@
+@inproceedings{alshammari2021multi,
+  title = {Multi-modal learning for real-time automotive semantic foggy scene understanding via domain adaptation},
+  author = {Alshammari, Naif and Akcay, Samet and Breckon, Toby P},
+  booktitle = {2021 IEEE Intelligent Vehicles Symposium},
+  pages = {1428--1435},
+  year = {2021},
+  organization = {IEEE},
+}

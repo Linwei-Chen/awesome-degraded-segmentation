@@ -1,0 +1,8 @@
+@inproceedings{wang2023sdat-icip,
+  title = {SDAT-Former: Foggy Scene Semantic Segmentation Via A Strong Domain Adaptation Teacher},
+  author = {Wang, Ziquan and Zhang, Yongsheng and Yu, Ying and Jiang, Zhipeng},
+  booktitle = {2023 IEEE International Conference on Image Processing},
+  pages = {1760--1764},
+  year = {2023},
+  organization = {IEEE},
+}

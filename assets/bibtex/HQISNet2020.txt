@@ -1,0 +1,10 @@
+@article{HQISNet2020,
+  title = {HQ-ISNet: High-Quality Instance Segmentation for Remote Sensing Imagery},
+  author = {Su, Hao and Wei, Shunjun and Liu, Shan and Liang, Jiadian and Wang, Chen and Shi, Jun and Zhang, Xiaoling},
+  journal = {Remote Sens.},
+  volume = {12},
+  number = {6},
+  pages = {989},
+  year = {2020},
+  publisher = {Multidisciplinary Digital Publishing Institute},
+}

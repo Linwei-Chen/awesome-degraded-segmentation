@@ -1,0 +1,6 @@
+@article{yang2021bi,
+  title = {Bi-mix: Bidirectional mixing for domain adaptive nighttime semantic segmentation},
+  author = {Yang, Guanglei and Zhong, Zhun and Tang, Hao and Ding, Mingli and Sebe, Nicu and Ricci, Elisa},
+  journal = {arXiv preprint arXiv:2111.10339},
+  year = {2021},
+}

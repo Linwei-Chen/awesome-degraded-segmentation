@@ -1,0 +1,10 @@
+@article{arnold2019survey,
+  title = {A survey on 3d object detection methods for autonomous driving applications},
+  author = {Arnold, Eduardo and Al-Jarrah, Omar Y and Dianati, Mehrdad and Fallah, Saber and Oxtoby, David and Mouzakitis, Alex},
+  journal = {IEEE Transactions on Intelligent Transportation Systems},
+  volume = {20},
+  number = {10},
+  pages = {3782--3795},
+  year = {2019},
+  publisher = {IEEE},
+}

@@ -1,0 +1,6 @@
+@inproceedings{2019defense,
+  title = {In defense of pre-trained imagenet architectures for real-time semantic segmentation of road-driving images},
+  author = {Orsic, Marin and Kreso, Ivan and Bevandic, Petra and Segvic, Sinisa},
+  pages = {12607--12616},
+  year = {2019},
+}

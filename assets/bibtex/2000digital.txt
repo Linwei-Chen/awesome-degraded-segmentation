@@ -1,0 +1,6 @@
+@book{2000digital,
+  title = {Digital image processing algorithms and applications},
+  author = {Pitas, Ioannis},
+  year = {2000},
+  publisher = {John Wiley \& Sons},
+}

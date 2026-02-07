@@ -1,0 +1,8 @@
+@inproceedings{xiong2024semantic,
+  title = {Semantic Segmentation Algorithm of Nighttime Road Surface Water Based on Improved Low-Light Image Enhancement},
+  author = {Xiong, Lei and Feng, XiangSheng and Zhang, LingLin and Sun, Quan and Ren, HuCheng},
+  booktitle = {2024 5th International Conference on Intelligent Computing and Human-Computer Interaction},
+  pages = {104--108},
+  year = {2024},
+  organization = {IEEE},
+}

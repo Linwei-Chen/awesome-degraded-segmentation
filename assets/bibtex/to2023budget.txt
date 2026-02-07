@@ -1,0 +1,9 @@
+@inproceedings{to2023budget,
+  title = {Budget-Aware Road Semantic Segmentation in Unseen Foggy Scenes},
+  author = {To, Tan-Hiep and Do, Thanh-Nghi and Ngo, Duc-Nghia and Tran, Minh-Triet and Le, Trung-Nghia},
+  booktitle = {International Conference on Computing and Communication Technologies},
+  pages = {171--176},
+  year = {2023},
+  organization = {IEEE},
+  doi = {10.1109/rivf60135.2023.10471866 },
+}

@@ -1,0 +1,10 @@
+@article{zou2024eventhdr,
+  author = {Zou, Yunhao and Fu, Ying and Takatani, Tsuyoshi and Zheng, Yinqiang},
+  journal = {IEEE Transactions on Pattern Analysis and Machine Intelligence},
+  title = {EventHDR: From Event to High-Speed HDR Videos and Beyond},
+  year = {2024},
+  volume = {47},
+  number = {1},
+  pages = {32-50},
+  doi = {10.1109/tpami.2024.3469571 },
+}

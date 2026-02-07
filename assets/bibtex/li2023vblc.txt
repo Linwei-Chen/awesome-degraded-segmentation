@@ -1,0 +1,10 @@
+@inproceedings{li2023vblc,
+  title = {VBLC: Visibility boosting and logit-constraint learning for domain adaptive semantic segmentation under adverse conditions},
+  author = {Li, Mingjia and Xie, Binhui and Li, Shuang and Liu, Chi Harold and Cheng, Xinjing},
+  booktitle = { the AAAI Conference on Artificial Intelligence},
+  volume = {37},
+  number = {7},
+  pages = {8605--8613},
+  year = {2023},
+  doi = {10.1609/aaai.v37i7.26036 },
+}

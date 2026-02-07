@@ -1,0 +1,10 @@
+@article{wu2022semi,
+  title = {Semi-supervised segmentation of echocardiography videos via noise-resilient spatiotemporal semantic calibration and fusion},
+  author = {Wu, Huisi and Liu, Jiasheng and Xiao, Fangyan and Wen, Zhenkun and Cheng, Lan and Qin, Jing},
+  journal = {Medical Image Analysis},
+  volume = {78},
+  pages = {102397},
+  year = {2022},
+  publisher = {Elsevier},
+  doi = {10.1016/j.media.2022.102397 },
+}

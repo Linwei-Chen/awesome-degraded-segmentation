@@ -1,0 +1,6 @@
+@inproceedings{papandreou2015weakly,
+  title = {Weakly-and semi-supervised learning of a deep convolutional network for semantic image segmentation},
+  author = {Papandreou, George and Chen, Liang-Chieh and Murphy, Kevin P and Yuille, Alan L},
+  pages = {1742--1750},
+  year = {2015},
+}

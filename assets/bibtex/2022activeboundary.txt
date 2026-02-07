@@ -1,0 +1,8 @@
+@inproceedings{2022activeboundary,
+  title = {Active boundary loss for semantic segmentation},
+  author = {Wang, Chi and Zhang, Yunke and Cui, Miaomiao and Ren, Peiran and Yang, Yin and Xie, Xuansong and Hua, Xian-Sheng and Bao, Hujun and Xu, Weiwei},
+  volume = {36},
+  number = {2},
+  pages = {2397--2405},
+  year = {2022},
+}

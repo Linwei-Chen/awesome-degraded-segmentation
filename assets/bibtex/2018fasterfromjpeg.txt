@@ -1,0 +1,6 @@
+@article{2018fasterfromjpeg,
+  title = {Faster neural networks straight from jpeg},
+  author = {Gueguen, Lionel and Sergeev, Alex and Kadlec, Ben and Liu, Rosanne and Yosinski, Jason},
+  volume = {31},
+  year = {2018},
+}

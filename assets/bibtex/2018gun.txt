@@ -1,0 +1,6 @@
+@inproceedings{2018gun,
+  title = {Guided upsampling network for real-time semantic segmentation},
+  author = {Mazzini, Davide},
+  pages = {1--12},
+  year = {2018},
+}

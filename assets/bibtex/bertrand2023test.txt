@@ -1,0 +1,9 @@
+@article{bertrand2023test,
+  title = {Test-time training for matching-based video object segmentation},
+  author = {Bertrand, Juliette and Kordopatis Zilos, Giorgos and Kalantidis, Yannis and Tolias, Giorgos},
+  journal = {Advances in Neural Information Processing Systems},
+  volume = {36},
+  pages = {20918--20941},
+  year = {2023},
+  doi = {},
+}

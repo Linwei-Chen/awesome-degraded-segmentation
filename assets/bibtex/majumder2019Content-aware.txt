@@ -1,0 +1,6 @@
+@inproceedings{majumder2019Content-aware,
+  title = {Content-aware multi-level guidance for interactive instance segmentation},
+  author = {Majumder, Soumajit and Yao, Angela},
+  pages = {11602--11611},
+  year = {2019},
+}

@@ -1,0 +1,6 @@
+@inproceedings{2021focalfrequency,
+  title = {Focal frequency loss for image reconstruction and synthesis},
+  author = {Jiang, Liming and Dai, Bo and Wu, Wayne and Loy, Chen Change},
+  pages = {13919--13929},
+  year = {2021},
+}

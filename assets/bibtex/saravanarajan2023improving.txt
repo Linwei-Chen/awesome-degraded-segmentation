@@ -1,0 +1,10 @@
+@article{saravanarajan2023improving,
+  title = {Improving semantic segmentation under hazy weather for autonomous vehicles using explainable artificial intelligence and adaptive dehazing approach},
+  author = {Saravanarajan, Vani Suthamathi and Chen, Rung-Ching and Hsieh, Cheng-Hsiung and Chen, Long-Sheng},
+  journal = {IEEE Access},
+  volume = {11},
+  pages = {38194--38207},
+  year = {2023},
+  publisher = {IEEE},
+  doi = {10.1109/access.2023.3251728 },
+}

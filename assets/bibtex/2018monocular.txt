@@ -1,0 +1,9 @@
+@article{2018monocular,
+  title = {Monocular depth estimation with hierarchical fusion of dilated cnns and soft-weighted-sum inference},
+  author = {Li, Bo and Dai, Yuchao and He, Mingyi},
+  journal = {Pattern Recognition},
+  volume = {83},
+  pages = {328--339},
+  year = {2018},
+  publisher = {Elsevier},
+}

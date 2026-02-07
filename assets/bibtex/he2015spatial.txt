@@ -1,0 +1,9 @@
+@article{he2015spatial,
+  title = {Spatial pyramid pooling in deep convolutional networks for visual recognition},
+  author = {He, Kaiming and Zhang, Xiangyu and Ren, Shaoqing and Sun, Jian},
+  volume = {37},
+  number = {9},
+  pages = {1904--1916},
+  year = {2015},
+  publisher = {IEEE},
+}

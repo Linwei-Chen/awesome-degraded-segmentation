@@ -1,0 +1,6 @@
+@inproceedings{2021boundaryiou,
+  title = {Boundary IoU: Improving object-centric image segmentation evaluation},
+  author = {Cheng, Bowen and Girshick, Ross and Doll{\'a}r, Piotr and Berg, Alexander C and Kirillov, Alexander},
+  pages = {15334--15342},
+  year = {2021},
+}

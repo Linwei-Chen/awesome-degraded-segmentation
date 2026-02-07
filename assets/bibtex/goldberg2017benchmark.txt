@@ -1,0 +1,6 @@
+@inproceedings{goldberg2017benchmark,
+  title = {A benchmark for building footprint classification using orthorectified rgb imagery and digital surface models from commercial satellites},
+  author = {Goldberg, Hirsh and Brown, Myron and Wang, Sean},
+  pages = {1--7},
+  year = {2017},
+}

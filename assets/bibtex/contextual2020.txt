@@ -1,0 +1,9 @@
+@article{contextual2020,
+  title = {Contextual deconvolution network for semantic segmentation},
+  author = {Fu, Jun and Liu, Jing and Li, Yong and Bao, Yongjun and Yan, Weipeng and Fang, Zhiwei and Lu, Hanqing},
+  journal = {Pattern Recognition},
+  volume = {101},
+  pages = {107152},
+  year = {2020},
+  publisher = {Elsevier},
+}

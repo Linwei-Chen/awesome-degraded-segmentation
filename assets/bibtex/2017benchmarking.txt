@@ -1,0 +1,6 @@
+@inproceedings{2017benchmarking,
+  title = {Benchmarking denoising algorithms with real photographs},
+  author = {Plotz, Tobias and Roth, Stefan},
+  pages = {1586--1595},
+  year = {2017},
+}

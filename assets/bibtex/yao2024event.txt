@@ -1,0 +1,6 @@
+@article{yao2024event,
+  title = {Event-guided low-light video semantic segmentation},
+  author = {Yao, Zhen and Chuah, Mooi Choo},
+  journal = {arXiv preprint arXiv:2411.00639},
+  year = {2024},
+}

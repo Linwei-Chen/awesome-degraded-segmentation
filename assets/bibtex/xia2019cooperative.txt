@@ -1,0 +1,7 @@
+@article{xia2019cooperative,
+  title = {Cooperative semantic segmentation and image restoration in adverse environmental conditions},
+  author = {Xia, Weihao and Cheng, Zhanglin and Yang, Yujiu and Xue, Jing-Hao},
+  journal = {arXiv preprint arXiv:1911.00679},
+  year = {2019},
+  doi = {},
+}

@@ -1,0 +1,10 @@
+@article{sun2024nighttime,
+  title = {Nighttime image semantic segmentation with retinex theory},
+  author = {Sun, Zhichao and Zhu, Huachao and Xiao, Xin and Gu, Yuliang and Xu, Yongchao},
+  journal = {Image and Vision Computing},
+  volume = {148},
+  pages = {105149},
+  year = {2024},
+  publisher = {Elsevier},
+  doi = {10.1016/j.imavis.2024.105149 },
+}

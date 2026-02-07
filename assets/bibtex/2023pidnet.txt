@@ -1,0 +1,6 @@
+@inproceedings{2023pidnet,
+  title = {PIDNet: A Real-Time Semantic Segmentation Network Inspired by PID Controllers},
+  author = {Xu, Jiacong and Xiong, Zixiang and Bhattacharyya, Shankar P},
+  pages = {19529--19539},
+  year = {2023},
+}

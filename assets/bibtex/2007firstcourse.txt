@@ -1,0 +1,6 @@
+@book{2007firstcourse,
+  title = {A first course in Fourier analysis},
+  author = {Kammler, David W},
+  year = {2007},
+  publisher = {Cambridge University Press},
+}

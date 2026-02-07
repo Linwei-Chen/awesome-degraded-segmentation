@@ -1,0 +1,8 @@
+@inproceedings{2018automatic,
+  title = {Automatic instrument segmentation in robot-assisted surgery using deep learning},
+  author = {Shvets, Alexey A and Rakhlin, Alexander and Kalinin, Alexandr A and Iglovikov, Vladimir I},
+  booktitle = {IEEE international conference on machine learning and applications},
+  pages = {624--628},
+  year = {2018},
+  organization = {IEEE},
+}

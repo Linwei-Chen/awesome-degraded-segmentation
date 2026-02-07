@@ -1,0 +1,6 @@
+@article{liu2021very,
+  title = {Very lightweight photo retouching network with conditional sequential modulation},
+  author = {Liu, Yihao and He, Jingwen and Chen, Xiangyu and Zhang, Zhengwen and Zhao, Hengyuan and Dong, Chao and Qiao, Yu},
+  journal = {arXiv preprint arXiv:2104.06279},
+  year = {2021},
+}

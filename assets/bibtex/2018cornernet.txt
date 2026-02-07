@@ -1,0 +1,6 @@
+@inproceedings{2018cornernet,
+  title = {Cornernet: Detecting objects as paired keypoints},
+  author = {Law, Hei and Deng, Jia},
+  pages = {734--750},
+  year = {2018},
+}

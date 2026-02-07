@@ -1,0 +1,6 @@
+@inproceedings{2018bisenet,
+  title = {Bisenet: Bilateral segmentation network for real-time semantic segmentation},
+  author = {Yu, Changqian and Wang, Jingbo and Peng, Chao and Gao, Changxin and Yu, Gang and Sang, Nong},
+  pages = {325--341},
+  year = {2018},
+}

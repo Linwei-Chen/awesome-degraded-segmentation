@@ -1,0 +1,10 @@
+@article{audebert2017segment,
+  title = {Segment-before-detect: Vehicle detection and classification through semantic segmentation of aerial images},
+  author = {Audebert, Nicolas and Le Saux, Bertrand and Lef{\`e}vre, S{\'e}bastien},
+  journal = {Remote Sens.},
+  volume = {9},
+  number = {4},
+  pages = {368},
+  year = {2017},
+  publisher = {Multidisciplinary Digital Publishing Institute},
+}

@@ -1,0 +1,6 @@
+@inproceedings{whatspoint2016,
+  title = {What’s the point: Semantic segmentation with point supervision},
+  author = {Bearman, Amy and Russakovsky, Olga and Ferrari, Vittorio and Fei-Fei, Li},
+  pages = {549--565},
+  year = {2016},
+}

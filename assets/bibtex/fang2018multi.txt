@@ -1,0 +1,7 @@
+@inproceedings{fang2018multi,
+  title = {Multi-task domain adaptation for deep learning of instance grasping from simulation},
+  author = {Fang, Kuan and Bai, Yunfei and Hinterstoisser, Stefan and Savarese, Silvio and Kalakrishnan, Mrinal},
+  booktitle = { IEEE International Conference on Robotics and Automation},
+  pages = {3516--3523},
+  year = {2018},
+}

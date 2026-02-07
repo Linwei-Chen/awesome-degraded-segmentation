@@ -1,0 +1,7 @@
+@inproceedings{liu2023nighttime,
+  title = {Nighttime Semantic Segmentation with Instance-level Data Augmentation: a Case Study of the Dark Zurich Benchmark},
+  author = {Liu, Alex and Xiao, Zhifeng},
+  booktitle = { the 2023 7th International Conference on Machine Learning and Soft Computing},
+  pages = {175--180},
+  year = {2023},
+}

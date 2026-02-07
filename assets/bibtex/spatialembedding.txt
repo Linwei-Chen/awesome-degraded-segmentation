@@ -1,0 +1,6 @@
+@inproceedings{spatialembedding,
+  title = {Instance segmentation by jointly optimizing spatial embeddings and clustering bandwidth},
+  author = {Neven, Davy and Brabandere, Bert De and Proesmans, Marc and Gool, Luc Van},
+  pages = {8837--8845},
+  year = {2019},
+}

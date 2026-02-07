@@ -1,0 +1,10 @@
+@article{yahiaoui2020let,
+  title = {Let the sunshine in: Sun glare detection on automotive surround-view cameras},
+  journal = {Electronic Imaging},
+  volume = {2020},
+  number = {16},
+  pages = {80--1},
+  year = {2020},
+  publisher = {Society for Imaging Science and Technology},
+  doi = {10.2352/issn.2470-1173.2020.16.avm-080 },
+}

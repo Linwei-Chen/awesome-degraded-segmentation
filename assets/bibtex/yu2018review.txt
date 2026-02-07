@@ -1,0 +1,9 @@
+@article{yu2018review,
+  title = {Methods and datasets on semantic segmentation: A review},
+  author = {Yu, Hongshan and Yang, Zhengeng and Tan, Lei and Wang, Yaonan and Sun, Wei and Sun, Mingui and Tang, Yandong},
+  journal = {Neurocomputing},
+  volume = {304},
+  pages = {82--103},
+  year = {2018},
+  publisher = {Elsevier},
+}

@@ -1,0 +1,10 @@
+@article{wang2021efnet,
+  title = {Efnet: Enhancement-fusion network for semantic segmentation},
+  author = {Wang, Zhijie and Song, Ran and Duan, Peng and Li, Xiaolei},
+  journal = {Pattern Recognition},
+  volume = {118},
+  pages = {108023},
+  year = {2021},
+  publisher = {Elsevier},
+  doi = {10.1016/j.patcog.2021.108023 },
+}

@@ -1,0 +1,7 @@
+@article{2020solov2,
+  title = {Solov2: Dynamic and fast instance segmentation},
+  author = {Wang, Xinlong and Zhang, Rufeng and Kong, Tao and Li, Lei and Shen, Chunhua},
+  volume = {33},
+  pages = {17721--17732},
+  year = {2020},
+}

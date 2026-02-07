@@ -1,0 +1,10 @@
+@article{xiong2021mcnet,
+  title = {MCNet: Multi-level correction network for thermal image semantic segmentation of nighttime driving scene},
+  author = {Xiong, Haitao and Cai, Wenjie and Liu, Qiong},
+  journal = {Infrared Physics \& Technology},
+  volume = {113},
+  pages = {103628},
+  year = {2021},
+  publisher = {Elsevier},
+  doi = {10.1016/j.infrared.2020.103628 },
+}

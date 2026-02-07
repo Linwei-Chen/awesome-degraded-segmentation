@@ -1,0 +1,6 @@
+@inproceedings{kopsiaftis2015vehicle,
+  title = {Vehicle detection and traffic density monitoring from very high resolution satellite video data},
+  author = {Kopsiaftis, George and Karantzalos, Konstantinos},
+  pages = {1881--1884},
+  year = {2015},
+}

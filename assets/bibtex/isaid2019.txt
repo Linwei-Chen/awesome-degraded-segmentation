@@ -1,0 +1,6 @@
+@inproceedings{isaid2019,
+  title = {iSAID: A Large-scale Dataset for Instance Segmentation in Aerial Images},
+  author = {Waqas Zamir, Syed and Arora, Aditya and Gupta, Akshita and Khan, Salman and Sun, Guolei and Shahbaz Khan, Fahad and Zhu, Fan and Shao, Ling and Xia, Gui-Song and Bai, Xiang},
+  pages = {28--37},
+  year = {2019},
+}

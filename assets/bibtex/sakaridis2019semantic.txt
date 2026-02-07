@@ -1,0 +1,7 @@
+@article{sakaridis2019semantic,
+  title = {Semantic Nighttime Image Segmentation with Synthetic Stylized Data, Gradual Adaptation and Uncertainty-Aware Evaluation.},
+  author = {Sakaridis, Christos and Dai, Dengxin and Gool, Luc Van},
+  journal = {CoRR},
+  volume = {abs/1906.04609},
+  year = {2019},
+}

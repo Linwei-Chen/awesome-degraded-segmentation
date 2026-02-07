@@ -1,0 +1,6 @@
+@inproceedings{2019boundaryaware,
+  title = {Boundary-aware feature propagation for scene segmentation},
+  author = {Ding, Henghui and Jiang, Xudong and Liu, Ai Qun and Thalmann, Nadia Magnenat and Wang, Gang},
+  pages = {6819--6829},
+  year = {2019},
+}

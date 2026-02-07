@@ -1,0 +1,7 @@
+@article{2021blending,
+  title = {Blending anti-aliasing into vision transformer},
+  author = {Qian, Shengju and Shao, Hao and Zhu, Yi and Li, Mu and Jia, Jiaya},
+  volume = {34},
+  pages = {5416--5429},
+  year = {2021},
+}

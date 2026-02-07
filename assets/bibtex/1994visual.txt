@@ -1,0 +1,10 @@
+@article{1994visual,
+  title = {The visual filter mediating letter identification},
+  author = {Solomon, Joshua A and Pelli, Denis G},
+  journal = {Nature},
+  volume = {369},
+  number = {6479},
+  pages = {395--397},
+  year = {1994},
+  publisher = {Nature Publishing Group UK London},
+}

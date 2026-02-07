@@ -1,0 +1,10 @@
+@article{2020deepmultimoda,
+  title = {Deep multi-modal object detection and semantic segmentation for autonomous driving: Datasets, methods, and challenges},
+  author = {Feng, Di and Haase-Sch{\"u}tz, Christian and Rosenbaum, Lars and Hertlein, Heinz and Glaeser, Claudius and Timm, Fabian and Wiesbeck, Werner and Dietmayer, Klaus},
+  journal = {IEEE Transactions on Intelligent Transportation Systems},
+  volume = {22},
+  number = {3},
+  pages = {1341--1360},
+  year = {2020},
+  publisher = {IEEE},
+}

@@ -1,0 +1,6 @@
+@inproceedings{gcn,
+  title = {Large Kernel Matters--Improve Semantic Segmentation by Global Convolutional Network},
+  author = {Peng, Chao and Zhang, Xiangyu and Yu, Gang and Luo, Guiming and Sun, Jian},
+  pages = {4353--4361},
+  year = {2017},
+}

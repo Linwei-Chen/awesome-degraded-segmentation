@@ -1,0 +1,6 @@
+@article{2017adamw,
+  title = {Decoupled weight decay regularization},
+  author = {Loshchilov, Ilya and Hutter, Frank},
+  journal = {arXiv preprint arXiv:1711.05101},
+  year = {2017},
+}

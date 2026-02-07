@@ -1,0 +1,7 @@
+@inproceedings{kothandaraman2021ss,
+  title = {SS-SFDA: Self-supervised source-free domain adaptation for road segmentation in hazardous environments},
+  author = {Kothandaraman, Divya and Chandra, Rohan and Manocha, Dinesh},
+  pages = {3049--3059},
+  year = {2021},
+  doi = {10.1109/iccvw54120.2021.00339 },
+}

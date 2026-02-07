@@ -1,0 +1,10 @@
+@article{li2023layernet,
+  title = {LayerNet: a one-step layered network for semantic segmentation at night},
+  author = {Li, Hao and Liu, Changjiang and Yang, Yang},
+  journal = {IEEE Computer Graphics and Applications},
+  volume = {43},
+  number = {6},
+  pages = {9--21},
+  year = {2023},
+  publisher = {IEEE},
+}

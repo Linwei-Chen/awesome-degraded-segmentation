@@ -1,0 +1,6 @@
+@inproceedings{2021involution,
+  title = {Involution: Inverting the inherence of convolution for visual recognition},
+  author = {Li, Duo and Hu, Jie and Wang, Changhu and Li, Xiangtai and She, Qi and Zhu, Lei and Zhang, Tong and Chen, Qifeng},
+  pages = {12321--12330},
+  year = {2021},
+}

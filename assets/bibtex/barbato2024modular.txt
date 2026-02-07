@@ -1,0 +1,7 @@
+@inproceedings{barbato2024modular,
+  title = {A modular system for enhanced robustness of multimedia understanding networks via deep parametric estimation},
+  author = {Barbato, Francesco and Michieli, Umberto and Yucel, Mehmet Kerim and Zanuttigh, Pietro and Ozay, Mete},
+  booktitle = { ACM Multimedia Systems Conference},
+  pages = {190--201},
+  year = {2024},
+}

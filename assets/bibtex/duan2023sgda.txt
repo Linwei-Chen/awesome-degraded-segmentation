@@ -1,0 +1,9 @@
+@inproceedings{duan2023sgda,
+  title = {SGDA: A Saliency-Guided Domain Adaptation Network for Nighttime Semantic Segmentation},
+  author = {Duan, Yijia and Tu, Jingzheng and Chen, Cailian},
+  booktitle = {2023 IEEE 6th International Conference on Industrial Cyber-Physical Systems},
+  pages = {1--6},
+  year = {2023},
+  organization = {IEEE},
+  doi = {10.1109/icps58381.2023.10128083 },
+}

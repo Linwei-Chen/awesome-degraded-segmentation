@@ -1,0 +1,8 @@
+@inproceedings{pfeuffer2020robust,
+  title = {Robust semantic segmentation in adverse weather conditions by means of fast video-sequence segmentation},
+  author = {Pfeuffer, Andreas and Dietmayer, Klaus},
+  booktitle = {2020 IEEE 23rd International Conference on Intelligent Transportation Systems},
+  pages = {1--6},
+  year = {2020},
+  organization = {IEEE},
+}

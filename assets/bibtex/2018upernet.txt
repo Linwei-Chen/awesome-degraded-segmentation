@@ -1,0 +1,6 @@
+@inproceedings{2018upernet,
+  title = {Unified perceptual parsing for scene understanding},
+  author = {Xiao, Tete and Liu, Yingcheng and Zhou, Bolei and Jiang, Yuning and Sun, Jian},
+  pages = {418--434},
+  year = {2018},
+}

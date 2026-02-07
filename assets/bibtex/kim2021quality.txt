@@ -1,0 +1,7 @@
+@inproceedings{kim2021quality,
+  title = {Quality-agnostic image recognition via invertible decoder},
+  author = {Kim, Insoo and Han, Seungju and Baek, Ji-won and Park, Seong-Jin and Han, Jae-Joon and Shin, Jinwoo},
+  pages = {12257--12266},
+  year = {2021},
+  doi = {10.1109/cvpr46437.2021.01208 },
+}

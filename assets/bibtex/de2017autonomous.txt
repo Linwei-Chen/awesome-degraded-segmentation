@@ -1,0 +1,6 @@
+@inproceedings{de2017autonomous,
+  title = {Semantic instance segmentation for autonomous driving},
+  author = {De Brabandere, Bert and Neven, Davy and Van Gool, Luc},
+  pages = {7--9},
+  year = {2017},
+}

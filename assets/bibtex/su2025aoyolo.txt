@@ -1,0 +1,11 @@
+@article{su2025aoyolo,
+  title = {AOYOLO Algorithm Oriented Vehicle and Pedestrian Detection in Foggy Weather},
+  author = {Su, Jian and Mao, Shiang and Zhuang, Wei},
+  journal = {Chinese Journal of Electronics},
+  volume = {34},
+  number = {2},
+  pages = {661--672},
+  year = {2025},
+  publisher = {CIE},
+  doi = {10.23919/cje.2023.00.280 },
+}

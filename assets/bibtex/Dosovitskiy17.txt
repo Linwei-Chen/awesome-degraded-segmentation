@@ -1,0 +1,7 @@
+@inproceedings{Dosovitskiy17,
+  title = {{CARLA}: {An} Open Urban Driving Simulator},
+  author = {Dosovitskiy, Alexey and Ros, German and Codevilla, Felipe and Lopez, Antonio and Koltun, Vladlen},
+  booktitle = { the 1st Annual Conference on Robot Learning},
+  pages = {1--16},
+  year = {2017},
+}

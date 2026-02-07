@@ -1,0 +1,9 @@
+@article{yu2018bdd100k,
+  title = {Bdd100k: A diverse driving video database with scalable annotation tooling},
+  author = {Yu, Fisher and Xian, Wenqi and Chen, Yingying and Liu, Fangchen and Liao, Mike and Madhavan, Vashisht and Darrell, Trevor and others},
+  journal = {arXiv preprint arXiv:1805.04687},
+  volume = {2},
+  number = {5},
+  pages = {6},
+  year = {2018},
+}

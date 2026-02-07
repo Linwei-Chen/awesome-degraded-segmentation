@@ -1,0 +1,10 @@
+@article{velastegui2024image,
+  title = {Image semantic segmentation of indoor scenes: A survey},
+  author = {Velastegui, Ronny and Tatarchenko, Maxim and Karaoglu, Sezer and Gevers, Theo},
+  journal = {Computer Vision and Image Understanding},
+  volume = {248},
+  pages = {104102},
+  year = {2024},
+  publisher = {Elsevier},
+  doi = {10.1016/j.cviu.2024.104102 },
+}

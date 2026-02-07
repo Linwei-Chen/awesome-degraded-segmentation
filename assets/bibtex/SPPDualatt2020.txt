@@ -1,0 +1,8 @@
+@article{SPPDualatt2020,
+  title = {Semantic segmentation using stride spatial pyramid pooling and dual attention decoder},
+  author = {Peng, Chengli and Ma, Jiayi},
+  journal = {Pattern Recognition},
+  pages = {107498},
+  year = {2020},
+  publisher = {Elsevier},
+}

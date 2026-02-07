@@ -1,0 +1,5 @@
+@inproceedings{2021frequency-aware,
+  title = {Learning frequency-aware dynamic network for efficient super-resolution},
+  author = {Xie, Wenbin and Song, Dehua and Xu, Chang and Xu, Chunjing and Zhang, Hui and Wang, Yunhe},
+  year = {2021},
+}

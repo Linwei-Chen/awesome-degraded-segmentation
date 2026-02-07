@@ -1,0 +1,7 @@
+@inproceedings{reich2024perspective,
+  title = {A Perspective on Deep Vision Performance with Standard Image and Video Codecs},
+  author = {Reich, Christoph and Hahn, Oliver and Cremers, Daniel and Roth, Stefan and Debnath, Biplob},
+  pages = {5712--5721},
+  year = {2024},
+  doi = {10.1109/cvprw63382.2024.00580 },
+}

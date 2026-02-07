@@ -1,0 +1,6 @@
+@article{wherearethemask,
+  title = {Where are the Masks: Instance Segmentation with Image-level Supervision},
+  author = {Laradji, Issam H and Vazquez, David and Schmidt, Mark},
+  journal = {arXiv preprint arXiv:1907.01430},
+  year = {2019},
+}

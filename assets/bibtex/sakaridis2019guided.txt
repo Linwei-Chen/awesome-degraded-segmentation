@@ -1,0 +1,7 @@
+@inproceedings{sakaridis2019guided,
+  title = {Guided curriculum model adaptation and uncertainty-aware evaluation for semantic nighttime image segmentation},
+  author = {Sakaridis, Christos and Dai, Dengxin and Gool, Luc Van},
+  pages = {7374--7383},
+  year = {2019},
+  doi = {10.1109/iccv.2019.00747 },
+}

@@ -1,0 +1,6 @@
+@inproceedings{2014fasttrainingfft,
+  title = {Fast training of convolutional networks through FFTS},
+  author = {Mathieu, Michael and Henaff, Mikael and LeCun, Yann},
+  pages = {1--9},
+  year = {2014},
+}

@@ -1,0 +1,8 @@
+@inproceedings{yin2022adversarial,
+  title = {On adversarial robustness of semantic segmentation models for automated driving},
+  author = {Yin, Huilin and Wang, Ruining and Liu, Boyu and Yan, Jun},
+  booktitle = {2022 IEEE Intelligent Vehicles Symposium},
+  pages = {867--873},
+  year = {2022},
+  organization = {IEEE},
+}

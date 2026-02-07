@@ -1,0 +1,10 @@
+@article{2003statistics,
+  title = {Statistics of natural image categories},
+  author = {Torralba, Antonio and Oliva, Aude},
+  journal = {Network: computation in neural systems},
+  volume = {14},
+  number = {3},
+  pages = {391},
+  year = {2003},
+  publisher = {IOP Publishing},
+}

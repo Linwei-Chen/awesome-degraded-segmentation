@@ -1,0 +1,8 @@
+@inproceedings{elmahdy2024rhrsegnet,
+  title = {RHRSegNet: Relighting High-Resolution Night-Time Semantic Segmentation},
+  author = {Elmahdy, Sarah and Hebishy, Rodaina and Hamdi, Ali},
+  booktitle = {2024 Intelligent Methods, Systems, and Applications},
+  pages = {456--461},
+  year = {2024},
+  organization = {IEEE},
+}

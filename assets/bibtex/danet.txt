@@ -1,0 +1,6 @@
+@inproceedings{danet,
+  title = {Dual attention network for scene segmentation},
+  author = {Fu, Jun and Liu, Jing and Tian, Haijie and Li, Yong and Bao, Yongjun and Fang, Zhiwei and Lu, Hanqing},
+  pages = {3146--3154},
+  year = {2019},
+}

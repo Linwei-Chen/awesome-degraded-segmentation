@@ -1,0 +1,9 @@
+@article{vehicle2018,
+  title = {Vehicle instance segmentation from aerial image and video using a multitask learning residual fully convolutional network},
+  author = {Mou, Lichao and Zhu, Xiao Xiang},
+  volume = {56},
+  number = {11},
+  pages = {6699--6711},
+  year = {2018},
+  publisher = {IEEE},
+}

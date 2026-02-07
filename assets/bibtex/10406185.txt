@@ -1,0 +1,9 @@
+@ARTICLE{10406185,
+  author = {Lai, Zeqiang and Fu, Ying and Zhang, Jun},
+  journal = {IEEE Transactions on Neural Networks and Learning Systems},
+  title = {Hyperspectral Image Super Resolution With Real Unaligned RGB Guidance},
+  year = {2024},
+  volume = {},
+  number = {},
+  pages = {1-13},
+}

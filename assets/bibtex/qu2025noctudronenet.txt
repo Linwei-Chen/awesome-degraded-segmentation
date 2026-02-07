@@ -1,0 +1,10 @@
+@article{qu2025noctudronenet,
+  title = {NoctuDroneNet: Real-Time Semantic Segmentation of Nighttime UAV Imagery in Complex Environments},
+  author = {Qu, Ruokun and Tan, Jintao and Liu, Yelu and Li, Chenglong and Jiang, Hui},
+  journal = {Drones},
+  volume = {9},
+  number = {2},
+  pages = {97},
+  year = {2025},
+  publisher = {MDPI},
+}

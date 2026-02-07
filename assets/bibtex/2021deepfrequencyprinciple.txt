@@ -1,0 +1,9 @@
+@inproceedings{2021deepfrequencyprinciple,
+  title = {Deep frequency principle towards understanding why deeper learning is faster},
+  author = {Xu, Zhiqin John and Zhou, Hanxu},
+  booktitle = { the AAAI Conference on Artificial Intelligence},
+  volume = {35},
+  number = {12},
+  pages = {10541--10550},
+  year = {2021},
+}

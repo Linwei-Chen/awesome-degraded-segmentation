@@ -1,0 +1,6 @@
+@inproceedings{brooks2019unprocessing,
+  title = {Unprocessing images for learned raw denoising},
+  author = {Brooks, Tim and Mildenhall, Ben and Xue, Tianfan and Chen, Jiawen and Sharlet, Dillon and Barron, Jonathan T},
+  pages = {11036--11045},
+  year = {2019},
+}

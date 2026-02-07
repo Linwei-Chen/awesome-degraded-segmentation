@@ -1,0 +1,6 @@
+@inproceedings{long2015fully,
+  title = {Fully convolutional networks for semantic segmentation},
+  author = {Long, Jonathan and Shelhamer, Evan and Darrell, Trevor},
+  pages = {3431--3440},
+  year = {2015},
+}

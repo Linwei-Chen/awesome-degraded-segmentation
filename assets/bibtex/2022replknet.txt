@@ -1,0 +1,6 @@
+@inproceedings{2022replknet,
+  title = {Scaling up your kernels to 31x31: Revisiting large kernel design in cnns},
+  author = {Ding, Xiaohan and Zhang, Xiangyu and Han, Jungong and Ding, Guiguang},
+  pages = {11963--11975},
+  year = {2022},
+}

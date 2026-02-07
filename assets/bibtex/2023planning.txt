@@ -1,0 +1,6 @@
+@inproceedings{2023planning,
+  title = {Planning-oriented autonomous driving},
+  author = {Hu, Yihan and Yang, Jiazhi and Chen, Li and Li, Keyu and Sima, Chonghao and Zhu, Xizhou and Chai, Siqi and Du, Senyao and Lin, Tianwei and Wang, Wenhai and others},
+  pages = {17853--17862},
+  year = {2023},
+}

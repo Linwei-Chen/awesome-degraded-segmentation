@@ -1,0 +1,6 @@
+@inproceedings{cai2018cascade,
+  title = {Cascade R-CNN: Delving into high quality object detection},
+  author = {Cai, Zhaowei and Vasconcelos, Nuno},
+  pages = {6154--6162},
+  year = {2018},
+}

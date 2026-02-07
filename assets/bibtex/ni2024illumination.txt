@@ -1,0 +1,8 @@
+@article{ni2024illumination,
+  title = {Illumination Robust Semantic Segmentation Based on Cross-dimensional Multispectral Edge Fusion in Dynamic Traffic Scenes},
+  author = {Ni, Peizhou and Hu, Weiming and Hu, Jinchao and Chen, Xiong and Liu, Yan},
+  journal = {IEEE Access},
+  year = {2024},
+  publisher = {IEEE},
+  doi = {10.1109/access.2024.3498896 },
+}

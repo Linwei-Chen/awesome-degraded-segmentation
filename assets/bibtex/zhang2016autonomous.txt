@@ -1,0 +1,5 @@
+@inproceedings{zhang2016autonomous,
+  title = {Instance-level segmentation for autonomous driving with deep densely connected mrfs},
+  author = {Zhang, Ziyu and Fidler, Sanja and Urtasun, Raquel},
+  year = {2016},
+}

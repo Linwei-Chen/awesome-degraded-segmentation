@@ -1,0 +1,6 @@
+@inproceedings{2021fovea,
+  title = {Fovea: Foveated image magnification for autonomous navigation},
+  author = {Thavamani, Chittesh and Li, Mengtian and Cebron, Nicolas and Ramanan, Deva},
+  pages = {15539--15548},
+  year = {2021},
+}

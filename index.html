@@ -1,0 +1,272 @@
+<!DOCTYPE html>
+<html lang="en" class="scroll-smooth">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Survey on Degraded Image Segmentation</title>
+    <script src="https://cdn.tailwindcss.com"></script>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+    <style>
+        @import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap');
+
+        * { font-family: 'Inter', sans-serif; }
+
+        .gradient-bg {
+            background: linear-gradient(135deg, #0f0f23 0%, #1a1a3e 50%, #0d0d1f 100%);
+        }
+
+        .card-gradient {
+            background: linear-gradient(145deg, rgba(30,30,60,0.8) 0%, rgba(20,20,40,0.9) 100%);
+            backdrop-filter: blur(10px);
+        }
+
+        .glow {
+            box-shadow: 0 0 40px rgba(99, 102, 241, 0.3);
+        }
+
+        .glow-text {
+            text-shadow: 0 0 30px rgba(99, 102, 241, 0.5);
+        }
+
+        .tag-code {
+            background: linear-gradient(135deg, #10b981 0%, #059669 100%);
+        }
+
+        .hero-pattern {
+            background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%236366f1' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+        }
+
+        .animate-float {
+            animation: float 6s ease-in-out infinite;
+        }
+
+        @keyframes float {
+            0%, 100% { transform: translateY(0px); }
+            50% { transform: translateY(-20px); }
+        }
+
+        .copy-btn:active { transform: scale(0.95); }
+
+        .filter-btn.active {
+            background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%);
+            color: white;
+        }
+    </style>
+</head>
+<body class="gradient-bg min-h-screen text-gray-100">
+    <!-- Hero Section -->
+    <header class="hero-pattern relative overflow-hidden">
+        <div class="absolute inset-0 bg-gradient-to-b from-transparent to-[#0f0f23]"></div>
+        <nav class="relative z-10 container mx-auto px-6 py-4">
+            <div class="flex justify-between items-center">
+                <div class="text-2xl font-bold bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 to-purple-400">
+                    <i class="fas fa-microscope mr-2"></i>DegradedSeg
+                </div>
+                <div class="flex gap-4">
+                    <a href="https://github.com/Linwei-Chen/awesome-degraded-segmentation" class="hover:text-indigo-400 transition">
+                        <i class="fab fa-github text-2xl"></i>
+                    </a>
+                    <a href="#papers" class="px-4 py-2 bg-indigo-600 hover:bg-indigo-700 rounded-lg transition">
+                        Browse Papers
+                    </a>
+                </div>
+            </div>
+        </nav>
+
+        <div class="relative z-10 container mx-auto px-6 py-20 text-center">
+            <div class="animate-float mb-8">
+                <span class="px-4 py-2 bg-indigo-600/30 rounded-full text-indigo-300 text-sm font-medium">
+                    <i class="fas fa-book-open mr-2"></i>Chinese Journal of Electronics 2025
+                </span>
+            </div>
+            <h1 class="text-5xl md:text-7xl font-extrabold mb-6 glow-text">
+                A Survey on<br>
+                <span class="bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 via-purple-400 to-pink-400">
+                    Degraded Image Segmentation
+                </span>
+            </h1>
+            <p class="text-xl text-gray-400 max-w-3xl mx-auto mb-8">
+                Comprehensive overview of robust segmentation under adverse weather, challenging light, digital artifacts, blur, and noise conditions.
+            </p>
+            <div class="flex flex-wrap justify-center gap-4 mb-12">
+                <div class="px-6 py-3 card-gradient rounded-xl">
+                    <div class="text-3xl font-bold text-indigo-400">108+</div>
+                    <div class="text-gray-500 text-sm">Papers</div>
+                </div>
+                <div class="px-6 py-3 card-gradient rounded-xl">
+                    <div class="text-3xl font-bold text-green-400">42</div>
+                    <div class="text-gray-500 text-sm">With Code</div>
+                </div>
+                <div class="px-6 py-3 card-gradient rounded-xl">
+                    <div class="text-3xl font-bold text-purple-400">5</div>
+                    <div class="text-gray-500 text-sm">Categories</div>
+                </div>
+            </div>
+            <img src="assets/images/taxonomy_overview.png" alt="Taxonomy" class="max-w-4xl mx-auto rounded-2xl shadow-2xl glow">
+        </div>
+    </header>
+
+    <!-- Degradation Examples -->
+    <section class="container mx-auto px-6 py-16">
+        <h2 class="text-3xl font-bold text-center mb-8">
+            <i class="fas fa-images mr-3 text-indigo-400"></i>Degradation Examples
+        </h2>
+        <img src="assets/images/degraded_image.png" alt="Degradation Examples" class="w-full max-w-6xl mx-auto rounded-2xl shadow-xl">
+    </section>
+
+    <!-- Filter Section -->
+    <section id="papers" class="container mx-auto px-6 py-8">
+        <div class="flex flex-wrap justify-center gap-3 mb-8">
+            <button onclick="filterPapers('all')" class="filter-btn active px-4 py-2 rounded-lg bg-gray-800 hover:bg-gray-700 transition">All Papers</button>
+            <button onclick="filterPapers('code')" class="filter-btn px-4 py-2 rounded-lg bg-gray-800 hover:bg-gray-700 transition">
+                <i class="fas fa-code mr-2"></i>With Code
+            </button>
+            <button onclick="filterPapers('2024')" class="filter-btn px-4 py-2 rounded-lg bg-gray-800 hover:bg-gray-700 transition">2024+</button>
+            <button onclick="filterPapers('2023')" class="filter-btn px-4 py-2 rounded-lg bg-gray-800 hover:bg-gray-700 transition">2023</button>
+        </div>
+    </section>
+
+    <!-- Papers Grid -->
+    <section class="container mx-auto px-6 pb-20">
+        <div id="papers-grid" class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6">
+            <!-- Cards will be inserted here by JavaScript -->
+        </div>
+    </section>
+
+    <!-- Footer -->
+    <footer class="border-t border-gray-800 py-12">
+        <div class="container mx-auto px-6 text-center">
+            <h3 class="text-xl font-bold mb-4">Citation</h3>
+            <div class="card-gradient p-4 rounded-xl max-w-2xl mx-auto text-left text-sm text-gray-400 font-mono">
+                @article{chen2025degraded,<br>
+                &nbsp;&nbsp;title={A Survey on Degraded Image Segmentation},<br>
+                &nbsp;&nbsp;author={Chen, Linwei and Fu, Ying and Shangguan, Jingyu and Xu, Jinglin and Peng, Yuxin},<br>
+                &nbsp;&nbsp;journal={Chinese Journal of Electronics},<br>
+                &nbsp;&nbsp;year={2025}<br>
+                }
+            </div>
+            <p class="mt-8 text-gray-500">
+                Made with <i class="fas fa-heart text-red-500"></i> by
+                <a href="mailto:fuying@bit.edu.cn" class="text-indigo-400 hover:underline">BIT Vision Lab</a>
+            </p>
+        </div>
+    </footer>
+
+    <!-- Toast for copy notification -->
+    <div id="toast" class="fixed bottom-4 right-4 px-6 py-3 bg-green-600 text-white rounded-lg shadow-lg transform translate-y-20 opacity-0 transition-all duration-300">
+        <i class="fas fa-check mr-2"></i>BibTeX copied to clipboard!
+    </div>
+
+    <script>
+        // Paper data - loaded from README parsing
+        const papers = [
+            { method: "CISS", title: "Condition-Invariant Semantic Segmentation", year: "2025", venue: "TPAMI", hasCode: true, codeUrl: "https://github.com/Linwei-Chen/CISS", bibKey: "sakaridis2025condition", section: "Domain Adaptation" },
+            { method: "DAF", title: "When Semantic Segmentation Meets Frequency Aliasing", year: "2024", venue: "CVPR", hasCode: true, codeUrl: "https://github.com/ChenLinwei-BJTU/DAF", bibKey: "chen2024semantic", section: "Feature Alignment" },
+            { method: "CMDA", title: "Cross-Modality Domain Adaptation for Nighttime Semantic Segmentation", year: "2023", venue: "ICCV", hasCode: true, codeUrl: "https://github.com/XiaRho/CMDA", bibKey: "xia2023cmda", section: "Multi-Modal" },
+            { method: "ICDA", title: "Illumination-Coupled Domain Adaptation Framework", year: "2023", venue: "TITS", hasCode: true, codeUrl: "https://github.com/Sci-Epiphany/ICDA", bibKey: "dong2023icda", section: "Domain Adaptation" },
+            { method: "CMA", title: "Contrastive Model Adaptation for Cross-Condition Robustness", year: "2023", venue: "ICCV", hasCode: true, codeUrl: "https://github.com/brdav/cma", bibKey: "bruggemann2023contrastive", section: "Feature Alignment" },
+            { method: "HeatNet", title: "Bridging the Day-Night Domain Gap in Semantic Segmentation", year: "2020", venue: "IV", hasCode: true, codeUrl: "https://github.com/SwinTransformer/Swin-Transformer-Semantic-Segmentation", bibKey: "vertens2020heatnet", section: "Multi-Modal" },
+            { method: "CCDistill", title: "Cross-Domain Correlation Distillation for Unsupervised DA", year: "2022", venue: "CVPR", hasCode: true, codeUrl: "https://github.com/Siddharth-Shrivastava7/CCDistill", bibKey: "gao2022cross", section: "Knowledge Distillation" },
+            { method: "FIFO", title: "Learning Fog-Invariant Features for Foggy Scene Segmentation", year: "2022", venue: "CVPR", hasCode: true, codeUrl: "https://github.com/sohyun-l/fifo", bibKey: "lee2022fifo", section: "Feature Alignment" },
+            { method: "DAFormer", title: "Improving Network Architectures and Training for Domain Adaptive SS", year: "2022", venue: "CVPR", hasCode: true, codeUrl: "https://github.com/lhoyer/DAFormer", bibKey: "hoyer2022daformer", section: "Domain Adaptation" },
+            { method: "HRDA", title: "Context-Aware High-Resolution Domain-Adaptive SS", year: "2022", venue: "ECCV", hasCode: true, codeUrl: "https://github.com/lhoyer/HRDA", bibKey: "hoyer2022hrda", section: "Domain Adaptation" },
+            { method: "MIC", title: "Masked Image Consistency for Context-Enhanced DA", year: "2023", venue: "CVPR", hasCode: true, codeUrl: "https://github.com/lhoyer/MIC", bibKey: "hoyer2023mic", section: "Domain Adaptation" },
+            { method: "SePiCo", title: "Semantic-Guided Pixel Contrast for Domain Adaptive SS", year: "2023", venue: "TPAMI", hasCode: true, codeUrl: "https://github.com/BIT-DA/SePiCo", bibKey: "xie2023sepico", section: "Domain Adaptation" },
+            { method: "ProDA", title: "Prototypical Pseudo Label Denoising for UDA SS", year: "2021", venue: "CVPR", hasCode: true, codeUrl: "https://github.com/microsoft/ProDA", bibKey: "zhang2021prototypical", section: "Self-Training" },
+            { method: "DACS", title: "Domain Adaptation via Cross-domain Mixed Sampling", year: "2021", venue: "WACV", hasCode: true, codeUrl: "https://github.com/vikolss/DACS", bibKey: "tranheden2021dacs", section: "Domain Adaptation" },
+            { method: "SegFormer", title: "Simple and Efficient Design for Semantic Segmentation", year: "2021", venue: "NeurIPS", hasCode: true, codeUrl: "https://github.com/NVlabs/SegFormer", bibKey: "xie2021segformer", section: "Architecture" },
+            { method: "Mask2Former", title: "Masked-attention Mask Transformer for Universal Segmentation", year: "2022", venue: "CVPR", hasCode: true, codeUrl: "https://github.com/facebookresearch/Mask2Former", bibKey: "cheng2022masked", section: "Architecture" },
+            { method: "SAM", title: "Segment Anything", year: "2023", venue: "ICCV", hasCode: true, codeUrl: "https://github.com/facebookresearch/segment-anything", bibKey: "kirillov2023segment", section: "Foundation Model" },
+            { method: "RobustSAM", title: "Segment Anything in Adverse Conditions", year: "2024", venue: "arXiv", hasCode: true, codeUrl: "https://github.com/robustsam/robustsam", bibKey: "chen2024robustsam", section: "Foundation Model" },
+            { method: "NightLab", title: "A Dual-Level Architecture with Hardness Detection for SS at Night", year: "2022", venue: "CVPR", hasCode: true, codeUrl: "https://github.com/xdeng7/NightLab", bibKey: "deng2022nightlab", section: "Light Degradation" },
+            { method: "FogAdapt", title: "Self-Supervised Domain Adaptation for Foggy SS", year: "2022", venue: "WACV", hasCode: true, codeUrl: "https://github.com/farzeen-hub/FogAdapt", bibKey: "iqbal2022fogadapt", section: "Weather" },
+            { method: "RefineNet", title: "Multi-Path Refinement Networks for High-Resolution SS", year: "2017", venue: "CVPR", hasCode: true, codeUrl: "https://github.com/guosheng/refinenet", bibKey: "lin2017refinenet", section: "Architecture" },
+            { method: "PSPNet", title: "Pyramid Scene Parsing Network", year: "2017", venue: "CVPR", hasCode: true, codeUrl: "https://github.com/hszhao/PSPNet", bibKey: "zhao2017pyramid", section: "Architecture" },
+            { method: "DeepLabV3+", title: "Encoder-Decoder with Atrous Separable Convolution", year: "2018", venue: "ECCV", hasCode: true, codeUrl: "https://github.com/tensorflow/models/tree/master/research/deeplab", bibKey: "chen2018encoder", section: "Architecture" },
+            { method: "BiSeNet", title: "Bilateral Segmentation Network for Real-time SS", year: "2018", venue: "ECCV", hasCode: true, codeUrl: "https://github.com/CoinCheung/BiSeNet", bibKey: "yu2018bisenet", section: "Architecture" },
+            { method: "OCRNet", title: "Object-Contextual Representations for SS", year: "2020", venue: "ECCV", hasCode: true, codeUrl: "https://github.com/HRNet/HRNet-Semantic-Segmentation", bibKey: "yuan2020object", section: "Architecture" },
+            { method: "ADVENT", title: "Adversarial Entropy Minimization for Domain Adaptation", year: "2019", venue: "CVPR", hasCode: true, codeUrl: "https://github.com/valeoai/ADVENT", bibKey: "vu2019advent", section: "Adversarial" },
+            { method: "FDA", title: "Fourier Domain Adaptation for Semantic Segmentation", year: "2020", venue: "CVPR", hasCode: true, codeUrl: "https://github.com/YanchaoYang/FDA", bibKey: "yang2020fda", section: "Domain Adaptation" },
+            { method: "CBST", title: "Class-Balanced Self-Training for Domain Adaptation", year: "2018", venue: "ECCV", hasCode: true, codeUrl: "https://github.com/yzou2/CBST", bibKey: "zou2018unsupervised", section: "Self-Training" },
+            { method: "BDL", title: "Bidirectional Learning for Domain Adaptation", year: "2019", venue: "CVPR", hasCode: true, codeUrl: "https://github.com/liyunsheng13/BDL", bibKey: "li2019bidirectional", section: "Domain Adaptation" },
+            { method: "CLAN", title: "Category-Level Adversarial Network for Semantic Segmentation", year: "2019", venue: "CVPR", hasCode: true, codeUrl: "https://github.com/RoyalVane/CLAN", bibKey: "luo2019taking", section: "Adversarial" },
+            { method: "FADA", title: "Fine-Grained Adversarial Learning for Domain Adaptation", year: "2020", venue: "CVPR", hasCode: true, codeUrl: "https://github.com/JDAI-CV/FADA", bibKey: "wang2020classes", section: "Adversarial" },
+            { method: "IntraDA", title: "Intra-domain Self-training for Adaptation", year: "2020", venue: "CVPR", hasCode: true, codeUrl: "https://github.com/feipan664/IntraDA", bibKey: "pan2020unsupervised", section: "Self-Training" },
+            { method: "CorDA", title: "Context-Dependent Cross-Domain Adaptation", year: "2021", venue: "ICCV", hasCode: true, codeUrl: "https://github.com/qinenergy/corda", bibKey: "wang2021domain", section: "Domain Adaptation" },
+            { method: "PixMatch", title: "Pixel-Level Contrastive Learning for DA", year: "2021", venue: "CVPR", hasCode: true, codeUrl: "https://github.com/lukemelas/pixmatch", bibKey: "melas2021pixmatch", section: "Domain Adaptation" },
+            { method: "DISE", title: "Domain-Invariant Structure Extraction for DA", year: "2019", venue: "CVPR", hasCode: true, codeUrl: "https://github.com/a514514772/DISE", bibKey: "chang2019all", section: "Feature Decomposition" },
+            { method: "LDR", title: "Learning to Adapt Structured Output Space for SS", year: "2018", venue: "CVPR", hasCode: true, codeUrl: "https://github.com/wasidennis/AdaptSegNet", bibKey: "tsai2018learning", section: "Domain Adaptation" },
+            { method: "MaxSquare", title: "Domain Adaptation for Semantic Segmentation via Max-Square Loss", year: "2019", venue: "ICCV", hasCode: true, codeUrl: "https://github.com/ZJULearning/MaxSquareLoss", bibKey: "chen2019domain", section: "Domain Adaptation" },
+            { method: "WeatherNet", title: "Self-Supervised Weather Degradation Estimation", year: "2022", venue: "CVPR", hasCode: true, codeUrl: "https://github.com/yhyang-myron/WeatherNet", bibKey: "yang2022self", section: "Weather" },
+            { method: "MGCDA", title: "Map-Guided Curriculum Domain Adaptation", year: "2020", venue: "CVPR", hasCode: true, codeUrl: "https://github.com/sakaridis/MGCDA", bibKey: "sakaridis2020map", section: "Domain Adaptation" },
+            { method: "GCMA", title: "Guided Curriculum Model Adaptation", year: "2019", venue: "ICCV", hasCode: true, codeUrl: "https://github.com/sakaridis/GCMA", bibKey: "sakaridis2019guided", section: "Domain Adaptation" },
+            { method: "DNISeg", title: "Degraded Image Segmentation Using Intra-inter Domain Similarity", year: "2023", venue: "TITS", hasCode: true, codeUrl: "https://github.com/Sci-Epiphany/DNISeg", bibKey: "dong2023degraded", section: "Feature Alignment" },
+            { method: "DiGA", title: "Disentangle and Generalize Domain Gaps for Generalizable SS", year: "2024", venue: "CVPR", hasCode: true, codeUrl: "https://github.com/biomedical-image/diga", bibKey: "bi2024learning", section: "Feature Decomposition" },
+        ];
+
+        function renderPapers(filteredPapers) {
+            const grid = document.getElementById('papers-grid');
+            grid.innerHTML = filteredPapers.map(p => `
+                <div class="card-gradient rounded-2xl p-6 hover:scale-[1.02] transition-transform duration-300 border border-gray-800 hover:border-indigo-500/50" data-year="${p.year}" data-hascode="${p.hasCode}">
+                    <div class="flex justify-between items-start mb-4">
+                        <span class="px-3 py-1 bg-indigo-600/30 text-indigo-300 rounded-full text-xs font-medium">${p.section}</span>
+                        ${p.hasCode ? '<span class="tag-code px-3 py-1 rounded-full text-xs font-medium text-white"><i class="fas fa-code mr-1"></i>Code</span>' : ''}
+                    </div>
+                    <h3 class="text-lg font-bold mb-2 text-white">${p.method}</h3>
+                    <p class="text-gray-400 text-sm mb-4 line-clamp-2">${p.title}</p>
+                    <div class="flex items-center gap-2 text-xs text-gray-500 mb-4">
+                        <span class="px-2 py-1 bg-gray-800 rounded">${p.venue}</span>
+                        <span class="px-2 py-1 bg-gray-800 rounded">${p.year}</span>
+                    </div>
+                    <div class="flex gap-2">
+                        ${p.hasCode ? `<a href="${p.codeUrl}" target="_blank" class="flex-1 px-3 py-2 bg-gray-800 hover:bg-gray-700 rounded-lg text-center text-sm transition"><i class="fab fa-github mr-2"></i>Code</a>` : ''}
+                        <button onclick="copyBibtex('${p.bibKey}')" class="copy-btn flex-1 px-3 py-2 bg-indigo-600 hover:bg-indigo-700 rounded-lg text-center text-sm transition">
+                            <i class="fas fa-copy mr-2"></i>BibTeX
+                        </button>
+                    </div>
+                </div>
+            `).join('');
+        }
+
+        function filterPapers(type) {
+            document.querySelectorAll('.filter-btn').forEach(btn => btn.classList.remove('active'));
+            event.target.classList.add('active');
+
+            let filtered = papers;
+            if (type === 'code') filtered = papers.filter(p => p.hasCode);
+            else if (type === '2024') filtered = papers.filter(p => parseInt(p.year) >= 2024);
+            else if (type === '2023') filtered = papers.filter(p => p.year === '2023');
+
+            // Sort: papers with code first
+            filtered.sort((a, b) => {
+                if (a.hasCode !== b.hasCode) return b.hasCode - a.hasCode;
+                return parseInt(b.year) - parseInt(a.year);
+            });
+
+            renderPapers(filtered);
+        }
+
+        async function copyBibtex(bibKey) {
+            try {
+                const response = await fetch(`assets/bibtex/${bibKey}.txt`);
+                const text = await response.text();
+                await navigator.clipboard.writeText(text);
+
+                const toast = document.getElementById('toast');
+                toast.classList.remove('translate-y-20', 'opacity-0');
+                setTimeout(() => toast.classList.add('translate-y-20', 'opacity-0'), 2000);
+            } catch (err) {
+                console.error('Failed to copy:', err);
+                alert('BibTeX file not found. Please check the repository.');
+            }
+        }
+
+        // Initial render - sort by code availability
+        papers.sort((a, b) => {
+            if (a.hasCode !== b.hasCode) return b.hasCode - a.hasCode;
+            return parseInt(b.year) - parseInt(a.year);
+        });
+        renderPapers(papers);
+    </script>
+</body>
+</html>

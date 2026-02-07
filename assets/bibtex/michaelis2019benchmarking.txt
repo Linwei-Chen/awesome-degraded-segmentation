@@ -1,0 +1,7 @@
+@inproceedings{michaelis2019benchmarking,
+  title = {Benchmarking robustness in object detection: Autonomous driving when winter is coming},
+  author = {Michaelis, Claudio and Mitzkus, Benjamin and Geirhos, Robert and Rusak, Evgenia and Bringmann, Oliver and Bethge, Matthias and Brendel, Wieland},
+  year = {2019},
+  pages = {1--16},
+  doi = {doi.org/10.54254/2755-2721/2025.20958 },
+}

@@ -1,0 +1,9 @@
+@article{2020hard,
+  title = {Hard pixel mining for depth privileged semantic segmentation},
+  author = {Gu, Zhangxuan and Niu, Li and Zhao, Haohua and Zhang, Liqing},
+  journal = {IEEE Transactions on Multimedia},
+  volume = {23},
+  pages = {3738--3751},
+  year = {2020},
+  publisher = {IEEE},
+}

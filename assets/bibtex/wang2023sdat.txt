@@ -1,0 +1,11 @@
+@article{wang2023sdat,
+  title = {SDAT-Former++: A Foggy Scene Semantic Segmentation Method with Stronger Domain Adaption Teacher for Remote Sensing Images},
+  author = {Wang, Ziquan and Zhang, Yongsheng and Zhang, Zhenchao and Jiang, Zhipeng and Yu, Ying and Li, Li and Zhang, Lei},
+  journal = {Remote Sensing},
+  volume = {15},
+  number = {24},
+  pages = {5704},
+  year = {2023},
+  publisher = {MDPI},
+  doi = {10.3390/rs15245704 },
+}

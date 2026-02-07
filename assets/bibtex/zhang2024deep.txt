@@ -1,0 +1,11 @@
+@article{zhang2024deep,
+  title = {Deep Guided Attention Network for Joint Denoising and Demosaicing in Real Image},
+  author = {Zhang, Tao and Fu, Ying and Zhang, Jun and Yan, Chenggang},
+  journal = {Chinese Journal of Electronics},
+  volume = {33},
+  number = {1},
+  pages = {303--312},
+  year = {2024},
+  publisher = {CIE},
+  doi = {10.23919/cje.2022.00.414 },
+}

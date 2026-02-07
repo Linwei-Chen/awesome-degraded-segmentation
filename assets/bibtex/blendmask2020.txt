@@ -1,0 +1,6 @@
+@inproceedings{blendmask2020,
+  title = {BlendMask: Top-down meets bottom-up for instance segmentation},
+  author = {Chen, Hao and Sun, Kunyang and Tian, Zhi and Shen, Chunhua and Huang, Yongming and Yan, Youliang},
+  pages = {8573--8581},
+  year = {2020},
+}

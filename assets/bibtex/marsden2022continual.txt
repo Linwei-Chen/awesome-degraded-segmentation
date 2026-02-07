@@ -1,0 +1,9 @@
+@inproceedings{marsden2022continual,
+  title = {Continual unsupervised domain adaptation for semantic segmentation using a class-specific transfer},
+  author = {Marsden, Robert A and Wiewel, Felix and D{\""o}bler, Mario and Yang, Yang and Yang, Bin},
+  booktitle = {2022 International Joint Conference on Neural Networks},
+  pages = {1--8},
+  year = {2022},
+  organization = {IEEE},
+  doi = {10.1109/ijcnn55064.2022.9892200 },
+}

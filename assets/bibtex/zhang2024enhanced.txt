@@ -1,0 +1,6 @@
+@article{zhang2024enhanced,
+  title = {Enhanced Semantic Segmentation Pipeline for WeatherProof Dataset Challenge},
+  author = {Zhang, Nan and Zhang, Xidan and Wei, Jianing and Wang, Fangjun and Tan, Zhiming},
+  journal = {arXiv preprint arXiv:2406.03799},
+  year = {2024},
+}

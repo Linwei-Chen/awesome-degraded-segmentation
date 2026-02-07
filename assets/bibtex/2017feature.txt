@@ -1,0 +1,6 @@
+@inproceedings{2017feature,
+  title = {Feature pyramid networks for object detection},
+  author = {Lin, Tsung-Yi and Doll{\'a}r, Piotr and Girshick, Ross and He, Kaiming and Hariharan, Bharath and Belongie, Serge},
+  pages = {2117--2125},
+  year = {2017},
+}

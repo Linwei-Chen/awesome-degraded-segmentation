@@ -1,0 +1,9 @@
+@article{cho2020semantic,
+  title = {Semantic segmentation with low light images by modified CycleGAN-based image enhancement},
+  author = {Cho, Se Woon and Baek, Na Rae and Koo, Ja Hyung and Arsalan, Muhammad and Park, Kang Ryoung},
+  journal = {IEEE Access},
+  volume = {8},
+  pages = {93561--93585},
+  year = {2020},
+  publisher = {IEEE},
+}

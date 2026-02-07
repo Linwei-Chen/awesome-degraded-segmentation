@@ -1,0 +1,10 @@
+@article{li2022weather,
+  title = {Weather-degraded image semantic segmentation with multi-task knowledge distillation},
+  author = {Li, Zhi and Wu, Xing and Wang, Jianjia and Guo, Yike},
+  journal = {Image and Vision Computing},
+  volume = {127},
+  pages = {104554},
+  year = {2022},
+  publisher = {Elsevier},
+  doi = {10.1016/j.imavis.2022.104554 },
+}

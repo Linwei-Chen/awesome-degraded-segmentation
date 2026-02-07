@@ -1,0 +1,8 @@
+@article{chen2024complementary,
+  title = {Complementary Masked-Guided Meta-Learning for Domain Adaptive Nighttime Segmentation},
+  author = {Chen, Ruiying and Bo, Yuming and Wu, Panlong and Wang, Simiao and Liu, Yunan},
+  journal = {IEEE Signal Processing Letters},
+  year = {2024},
+  publisher = {IEEE},
+  doi = {doi.org/10.1109/lsp.2024.3465352 },
+}

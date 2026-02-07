@@ -1,0 +1,9 @@
+@article{grabcut2004,
+  title = {“GrabCut” interactive foreground extraction using iterated graph cuts},
+  author = {Rother, Carsten and Kolmogorov, Vladimir and Blake, Andrew},
+  volume = {23},
+  number = {3},
+  pages = {309--314},
+  year = {2004},
+  publisher = {ACM New York, NY, USA},
+}
