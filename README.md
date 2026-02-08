@@ -1,16 +1,16 @@
-# 🔬 A Survey on Degraded Image Segmentation
+# A Survey on Degraded Image Segmentation
 
 <div align="center">
 
-![Taxonomy](assets/images/taxonomy_overview.png)
+<img src="assets/images/taxonomy_overview.png" alt="Taxonomy" width="800">
 
 **A comprehensive survey on robust image segmentation under various degradation conditions**
 
+[![Paper](https://img.shields.io/badge/Paper-CJE%202025-green.svg)](https://cje.ejournal.org.cn/)
 [![GitHub Stars](https://img.shields.io/github/stars/Linwei-Chen/awesome-degraded-segmentation?style=social)](https://github.com/Linwei-Chen/awesome-degraded-segmentation)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
-[![Paper](https://img.shields.io/badge/Paper-CJE%202025-green.svg)](https://cje.ejournal.org.cn/)
 
-[📖 Paper](#abstract) | [🗂️ Paper List](#paper-list) | [🌐 Project Page](https://linwei-chen.github.io/awesome-degraded-segmentation/)
+[Paper](#abstract) | [Paper List](#paper-list) | [Project Page](https://linwei-chen.github.io/awesome-degraded-segmentation/)
 
 </div>
 
@@ -18,19 +18,26 @@
 
 ## Abstract
 
-Image segmentation is a fundamental task in computer vision with wide-ranging applications. While deep learning models have achieved remarkable success under ideal conditions, their performance often degrades catastrophically when faced with real-world image corruptions. These corruptions span several key categories, including adverse weather (*e.g.*, fog, rain, snow), challenging light (*e.g.*, nighttime, low-light), digital artifacts from processing (*e.g.*, compression, color jitter), various forms of blur (*e.g.*, motion, defocus), and pervasive noise (*e.g.*, sensor noise, speckle). This degradation poses a critical challenge, particularly in safety-sensitive domains like autonomous driving, medical imaging, and remote sensing. This survey provides a comprehensive and structured overview of the field of degraded image segmentation, offering a clearer understanding of overarching approaches compared to prior surveys that often focus solely on degradation types.  We establish a detailed taxonomy of common image degradations impacting segmentation tasks. We review a wide array of datasets and benchmarks designed for evaluating robustness. Furthermore, we systematically analyze state-of-the-art methodologies, categorized by their core technical strategies: domain adaptation and generalization, joint restoration-segmentation techniques, and multi-modal fusion. Finally, we identify critical open challenges and discuss promising future research directions, aiming to synthesize current knowledge and stimulate targeted advancements towards more generalizable, adaptable, and reliable segmentation systems. Detailed paper summaries are available at [https://github.com/Linwei-Chen/awesome-degraded-segmentation](https://github.com/Linwei-Chen/awesome-degraded-segmentation).
+Image segmentation is a fundamental task in computer vision with wide-ranging applications. While deep learning models have achieved remarkable success under ideal conditions, their performance often degrades catastrophically when faced with real-world image corruptions. These corruptions span several key categories, including adverse weather (*e.g.*, fog, rain, snow), challenging light (*e.g.*, nighttime, low-light), digital artifacts from processing (*e.g.*, compression, color jitter), various forms of blur (*e.g.*, motion, defocus), and pervasive noise (*e.g.*, sensor noise, speckle).
 
-## 📊 Degradation Examples
+This survey provides a comprehensive and structured overview of the field of degraded image segmentation. We establish a detailed taxonomy of common image degradations impacting segmentation tasks. We review a wide array of datasets and benchmarks designed for evaluating robustness. Furthermore, we systematically analyze state-of-the-art methodologies, categorized by their core technical strategies: **Domain Adaptation and Generalization**, **Joint Restoration-Segmentation techniques**, and **Multi-modal Fusion**.
 
-![Degradation Examples](assets/images/degraded_image.png)
+---
+
+## Degradation Examples
+
+<div align="center">
+<img src="assets/images/degraded_image.png" alt="Degradation Examples" width="900">
+</div>
 
 *Examples of various image degradation types: weather, light, digital, blur, and noise.*
 
 ---
 
-## 🌟 Highlights
+## Highlights
 
-- **42 papers with open-source code** are highlighted and prioritized
+- **135+ papers** systematically organized following the survey's methodology taxonomy
+- **27+ papers with open-source code** are marked with code links
 - Comprehensive coverage of **5 degradation categories**: Weather, Light, Digital, Blur, Noise
 - **3 main methodological strategies**: Domain Adaptation/Generalization, Joint Restoration-Segmentation, Multi-modal Fusion
 
@@ -38,226 +45,240 @@ Image segmentation is a fundamental task in computer vision with wide-ranging ap
 
 ## Paper List
 
-> 📌 **Note**: Papers with available code implementations are marked with ⭐ and listed first in each category.
-
-
-## 1. Domain Adaptation & Generalization (DA/DG)
-
-### 1.2 Feature Alignment
-
-|  | Method | Title | Paper | Code | Venue | Year | BibTeX |
-|:--:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| ⭐ | CISS | **Condition-Invariant Semantic Segmentation** | [Paper](Condition-Invariant_Semantic_Segmentation.pdf) | [Code](https://github.com/SysCV/CISS) | PAMI | 2025 | [BibTeX](assets/bibtex/sakaridis2025condition.txt) |
-| ⭐ | ICDA | **ICDA: Illumination-Coupled Domain Adaptation Framework for Unsupervised Nighttime Semantic Segmentation** | [Paper](ICDA%20Illumination-Coupled%20Domain%20Adaptation%20Framework%20for%20Unsupervised%20Nighttime%20Semantic%20Segmentation.pdf) | [Code](https://github.com/chenghaoDong666/ICDA) | IJCAI | 2023 | [BibTeX](assets/bibtex/dong2023icda.txt) |
-| ⭐ | - | **Degraded Image Semantic Segmentation Using Intra-image and Inter-image Contrastive Learning** | [Paper](Degraded_Image_Semantic_Segmentation_Using_Intra-image_and_Inter-image_Contrastive_Learning.pdf) | [Code](https://github.com/cocolord/degraded_image_seg) | CAC | 2023 | [BibTeX](assets/bibtex/dong2023degraded.txt) |
-| ⭐ | CCDistill | **Cross-Domain Correlation Distillation for Unsupervised Domain Adaptation in Nighttime Semantic Segmentation** | [Paper](Gao_Cross-Domain_Correlation_Distillation_for_Unsupervised_Domain_Adaptation_in_Nighttime_Semantic_CVPR_2022_paper.pdf) | [Code](https://github.com/ghuan99/CCDistill) | CVPR | 2022 | [BibTeX](assets/bibtex/gao2022cross.txt) |
-|  | - | **Learning Texture Invariant Representation for Domain Adaptation of Semantic Segmentation** | [Paper](Kim_Learning_Texture_Invariant_Representation_for_Domain_Adaptation_of_Semantic_Segmentation_CVPR_2020_paper.pdf) | - | CVPR | 20020 | [BibTeX](assets/bibtex/kim2020learning.txt) |
-|  | CIADA | **Computational Imaging for Machine Perception: Transferring Semantic Segmentation Beyond Aberrations** | [Paper](Computational_Imaging_for_Machine_Perception_Transferring_Semantic_Segmentation_Beyond_Aberrations.pdf) | - | TCI | 2024 | [BibTeX](assets/bibtex/jiang2024computational.txt) |
-|  | - | **Learning intra-domain style-invariant representation for unsupervised domain adaptation of semantic segmentation** | [Paper](Learning%20intra-domain%20style-invariant%20representation%20for%20unsupervised%20domain%20adaptation%20of%20semantic%20segmentation.pdf) | - | PR | 2022 | [BibTeX](assets/bibtex/li2022learning.txt) |
-|  | - | **Cluster Alignment With Target Knowledge Mining for Unsupervised Domain Adaptation Semantic Segmentation** | [Paper](Cluster_Alignment_With_Target_Knowledge_Mining_for_Unsupervised_Domain_Adaptation_Semantic_Segmentation.pdf) | - | TIP | 2022 | [BibTeX](assets/bibtex/wang2022cluster.txt) |
-|  | - | **Semantic Nighttime Image Segmentation Via Illumination and Position Aware Domain Adaptation** | [Paper](Semantic_Nighttime_Image_Segmentation_Via_Illumination_and_Position_Aware_Domain_Adaptation.pdf) | - | ICIP | 2021 | [BibTeX](assets/bibtex/peng2021semantic.txt) |
-|  | RSSN | **Nighttime Road Scene Parsing by Unsupervised Domain Adaptation** | [Paper](Nighttime_Road_Scene_Parsing_by_Unsupervised_Domain_Adaptation.pdf) | - | TITS | 2020 | [BibTeX](assets/bibtex/song2020nighttime.txt) |
-
-
-## 2. Joint Restoration & Segmentation
-
-### 2.2 Deraining + Segmentation
-
-|  | Method | Title | Paper | Code | Venue | Year | BibTeX |
-|:--:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| ⭐ | DRNet | **DRNet: Learning a dynamic recursion network for chaotic rain streak removal** | [Paper](DRNet%20Learning%20a%20dynamic%20recursion%20network%20for%20chaotic%20rain%20streak%20removal.pdf) | [Code](https://github.com/Jzy2017/DRNet) | PR | 2025 | [BibTeX](assets/bibtex/jiang2025drnet.txt) |
-| ⭐ | RCDNet | **RCDNet: An interpretable rain convolutional dictionary network for single image deraining** | [Paper](RCDNet_An_Interpretable_Rain_Convolutional_Dictionary_Network_for_Single_Image_Deraining.pdf) | [Code](https://github.com/hongwang01/DRCDNet) | TNNLS | 2023 | [BibTeX](assets/bibtex/wang2023rcdnet.txt) |
-| ⭐ | EPRRNet/PRRNets | **Beyond Monocular Deraining: Parallel Stereo Deraining Network Via Semantic Prior** | [Paper](Beyond%20Monocular%20Deraining%20Parallel%20Stereo%20Deraining%20Network%20Via%20Semantic%20Prior.pdf) | [Code](https://github.com/HDCVLab/Stereo-Image-Deraining) | IJCV | 2022 | [BibTeX](assets/bibtex/zhang2022beyond.txt) |
-| ⭐ | - | **I Can See Clearly Now : Image Restoration via De-Raining** | [Paper](I_Can_See_Clearly_Now_Image_Restoration_via_De-Raining.pdf) | [Code](https://ciumonk.github.io/RobotCar-rainy/) | ICRA | 2019 | [BibTeX](assets/bibtex/porav2019can.txt) |
-|  | - | **Learning A Rain-Invariant Network For Instance Segmentation In The Rain** | [Paper](Learning_A_Rain-Invariant_Network_For_Instance_Segmentation_In_The_Rain.pdf) | - | ICIP | 2024 | [BibTeX](assets/bibtex/chen2024learning.txt) |
-|  | - | **Real Rainy Scene Analysis: A Dual-Module Benchmark for Image Deraining and Segmentation** | [Paper](Real_Rainy_Scene_Analysis_A_Dual-Module_Benchmark_for_Image_Deraining_and_Segmentation.pdf) | - | ICMEW | 2023 | [BibTeX](assets/bibtex/zhao2023real.txt) |
-|  | - | **Improved Sea-Ice Identification Using Semantic Segmentation With Raindrop Removal** | [Paper](Improved_Sea-Ice_Identification_Using_Semantic_Segmentation_With_Raindrop_Removal.pdf) | - | IEEE | 2022 | [BibTeX](assets/bibtex/alsharay2022improved.txt) |
-
-
-## 3. Multi-Modal Fusion
-
-### 3.2 RGB + LiDAR/Depth Fusion
-
-|  | Method | Title | Paper | Code | Venue | Year | BibTeX |
-|:--:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| ⭐ | LLE-Seg | **Low-Light Enhancement and Global-Local Feature Interaction for RGB-T Semantic Segmentation** | [Paper](Low-Light_Enhancement_and_Global-Local_Feature_Interaction_for_RGB-T_Semantic_Segmentation.pdf) | [Code](https://github.com/Yuyu-1015/ LLE-Seg) | TIM | 2025 | [BibTeX](assets/bibtex/guo2025low.txt) |
-|  | - | **Adaptive Entropy Multi-modal Fusion for Nighttime Lane Segmentation** | [Paper](Adaptive_Entropy_Multi-modal_Fusion_for_Nighttime_Lane_Segmentation.pdf) | - | TIV | 2024 | [BibTeX](assets/bibtex/zhang2024adaptive.txt) |
-|  | - | **Semantic Segmentation Research of Motion Blurred Images by Event Camera** | [Paper](Semantic_Segmentation_Research_of_Motion_Blurred_Images_by_Event_Camera.pdf) | - | CVCI | 2023 | [BibTeX](assets/bibtex/liu2023semantic.txt) |
-|  | GNN | **Multi-Robot Collaborative Perception With Graph Neural Networks** | [Paper](Multi-Robot_Collaborative_Perception_With_Graph_Neural_Networks.pdf) | - | IEEE | 2022 | [BibTeX](assets/bibtex/zhou2022multi.txt) |
-|  | UNO | **UNO: Uncertainty-aware Noisy-Or Multimodal Fusion for Unanticipated Input Degradation** | [Paper](UNO_Uncertainty-aware_Noisy-Or_Multimodal_Fusion_for_Unanticipated_Input_Degradation.pdf) | - | ICRA | 2020 | [BibTeX](assets/bibtex/tian2020uno.txt) |
-
-### 3.3 RGB + Event Camera Fusion
-
-|  | Method | Title | Paper | Code | Venue | Year | BibTeX |
-|:--:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| ⭐ | LF-DEST | **Incorporating degradation estimation in light field spatial super-resolution** | [Paper](/) | [Code](https://github.com/zeyuxiao1997/LF-DEST) | Computer Vision and Image Understanding | 2025 | [BibTeX](assets/bibtex/xiao2025incorporating_br_.txt) |
-| ⭐ | LLE-VOS/LLE-DAVIS | **Event-assisted Low-Light Video Object Segmentation** | [Paper](Li_Event-assisted_Low-Light_Video_Object_Segmentation_CVPR_2024_paper.pdf) | [Code](https://github.com/HebeiFast/EventLowLightVOS) | CVPR | 2024 | [BibTeX](assets/bibtex/li2024event.txt) |
-| ⭐ | CMDA | **CMDA: Cross-Modality Domain Adaptation for Nighttime Semantic Segmentation** | [Paper](Xia_CMDA_Cross-Modality_Domain_Adaptation_for_Nighttime_Semantic_Segmentation_ICCV_2023_paper.pdf) | [Code](https://github.com/XiaRho/CMDA) | ICCV | 2023 | [BibTeX](assets/bibtex/xia2023cmda.txt) |
-
-
-## 1. Domain Adaptation & Generalization (DA/DG)
-
-### 1.3 Feature Decomposition
-
-|  | Method | Title | Paper | Code | Venue | Year | BibTeX |
-|:--:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| ⭐ | DAF | **WHEN SEMANTIC SEGMENTATION MEETS FREQUENCY ALIASING** | [Paper](WHEN%20SEMANTIC%20SEGMENTATION%20MEETS%20FREQUENCY%20ALIASING.pdf) | [Code](https://github.com/Linwei-Chen/Seg-Aliasing) | ICLR | 2024 | [BibTeX](assets/bibtex/chen2024semantic.txt) |
-|  | DDFL | **DDFL: Dual-Domain Feature Learning for nighttime semantic segmentation** | [Paper](DDFL%20Dual-Domain%20Feature%20Learning%20for%20nighttime%20semantic%20segmentation.pdf) | - | Displays | 2024 | [BibTeX](assets/bibtex/lin2024ddfl.txt) |
-|  | - | **Both Style and Fog Matter: Cumulative Domain Adaptation for Semantic Foggy Scene Understanding** | [Paper](Ma_Both_Style_and_Fog_Matter_Cumulative_Domain_Adaptation_for_Semantic_CVPR_2022_paper.pdf) | - | CVPR | 2022 | [BibTeX](assets/bibtex/ma2022both.txt) |
-
-### 1.4 Self-Training & Pseudo-Labeling
-
-|  | Method | Title | Paper | Code | Venue | Year | BibTeX |
-|:--:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| ⭐ | - | **Source-Free Online Domain Adaptive Semantic Segmentation of Satellite Images Under Image Degradation** | [Paper](Source-Free_Online_Domain_Adaptive_Semantic_Segmentation_of_Satellite_Images_Under_Image_Degradation.pdf) | [Code](https://sat-tta.github.io/) | ICASSP | 2024 | [BibTeX](assets/bibtex/niloy2024source.txt) |
-| ⭐ | VBLC | **VBLC: Visibility boosting and logit-constraint learning for domain adaptive semantic segmentation under adverse conditions** | [Paper](VBLC%20Visibility%20boosting%20and%20logit-constraint%20learning%20for%20domain%20adaptive%20semantic%20segmentation%20under%20adverse%20conditions.pdf) | [Code](https://github.com/BIT-DA/VBLC) | AAAI | 2023 | [BibTeX](assets/bibtex/li2023vblc.txt) |
-| ⭐ | LoopDA | **LoopDA: Constructing Self-loops to Adapt Nighttime Semantic Segmentation** | [Paper](Shen_LoopDA_Constructing_Self-Loops_To_Adapt_Nighttime_Semantic_Segmentation_WACV_2023_paper.pdf) | [Code](https://github.com/fy-vision/LoopDA) | WACV | 2023 | [BibTeX](assets/bibtex/shen2023loopda.txt) |
-| ⭐ | DTBS | **Dtbs: Dual-teacher bi-directional self-training for domain adaptation in nighttime semantic segmentation** | [Paper](Dtbs%20Dual-teacher%20bi-directional%20self-training%20for%20domain%20adaptation%20in%20nighttime%20semantic%20segmentation.pdf) | [Code](https://github.com/hf618/DTBS) | ECAI | 2023 | [BibTeX](assets/bibtex/huang2023dtbs.txt) |
-| ⭐ | - | **Unsupervised foggy scene understanding via self spatial-temporal label diffusion** | [Paper](Unsupervised_Foggy_Scene_Understanding_via_Self_Spatial-Temporal_Label_Diffusion.pdf) | [Code](http://people.ee.ethz.ch/∼ csakarid/SFSU_synthetic/) | TIP | 2022 | [BibTeX](assets/bibtex/liao2022unsupervised.txt) |
-| ⭐ | - | **Self Pseudo Entropy Knowledge Distillation for Semi-Supervised Semantic Segmentation** | [Paper](Self_Pseudo_Entropy_Knowledge_Distillation_for_Semi-Supervised_Semantic_Segmentation.pdf) | [Code](https://github.com/xiaoqiang-lu/SPEED) | CVPR | 2022 | [BibTeX](assets/bibtex/bar2022performance.txt) |
-| ⭐ | SNE-Seg | **SS-SFDA: Self-Supervised Source-Free Domain Adaptation for Road Segmentation in Hazardous Environments** | [Paper](Kothandaraman_SS-SFDA_Self-Supervised_Source-Free_Domain_Adaptation_for_Road_Segmentation_in_Hazardous_ICCVW_2021_paper.pdf) | [Code](https://gamma.umd.edu/weatherSAfE/) | ICCV | 2021 | [BibTeX](assets/bibtex/kothandaraman2021ss.txt) |
-| ⭐ | Heatnet | **Heatnet: Bridging the day-night domain gap in semantic segmentation with thermal images** | [Paper](HeatNet_Bridging_the_Day-Night_Domain_Gap_in_Semantic_Segmentation_with_Thermal_Images.pdf) | [Code](http://thermal.cs.uni-freiburg.de/) | IROS | 2020 | [BibTeX](assets/bibtex/vertens2020heatnet.txt) |
-|  | SDAT-Former++ | **SDAT-Former++ A Foggy Scene Semantic Segmentation Method with Stronger Domain Adaption Teacher for Remote Sensing Images** | [Paper](SDAT-Former++%20A%20Foggy%20Scene%20Semantic%20Segmentation%20Method%20with%20Stronger%20Domain%20Adaption%20Teacher%20for%20Remote%20Sensing%20Images.pdf) | - | MDPI | 2023 | [BibTeX](assets/bibtex/wang2023sdat.txt) |
-|  | PLS-DAFormer | **A Two-Stage Self-Training Framework for Nighttime Semantic Segmentation** | [Paper](A_Two-Stage_Self-Training_Framework_for_Nighttime_Semantic_Segmentation.pdf) | - | YAC | 2023 | [BibTeX](assets/bibtex/yang2023two.txt) |
-|  | SGDA | **SGDA: A Saliency-Guided Domain Adaptation Network for Nighttime Semantic Segmentation** | [Paper](SGDA_A_Saliency-Guided_Domain_Adaptation_Network_for_Nighttime_Semantic_Segmentation.pdf) | - | ICPS | 2023 | [BibTeX](assets/bibtex/duan2023sgda.txt) |
-|  | DCL | **Dual-level Consistency Learning for Unsupervised Domain Adaptive Night-time Semantic Segmentation** | [Paper](Dual-level_Consistency_Learning_for_Unsupervised_Domain_Adaptive_Night-time_Semantic_Segmentation.pdf) | - | ICME | 2023 | [BibTeX](assets/bibtex/ding2023dual.txt) |
-|  | MADA | **MADA: Multi-Level Alignment in Domain Adaptation Network for Nighttime Semantic Segmentation** | [Paper](MADA_Multi-Level_Alignment_in_Domain_Adaptation_Network_for_Nighttime_Semantic_Segmentation.pdf) | - | ICIVC | 2023 | [BibTeX](assets/bibtex/xu2023mada.txt) |
-|  | HDL | **A hybrid domain learning framework for unsupervised semantic segmentation** | [Paper](A%20hybrid%20domain%20learning%20framework%20for%20unsupervised%20semantic%20segmentation.pdf) | - | Neurocomputing | 2023 | [BibTeX](assets/bibtex/zhang2023hybrid.txt) |
-|  | AUGCO | **AUGCO: Augmentation Consistency-guided Self-training for Source-free Domain Adaptive Semantic Segmentation** | [Paper](AUGCO%20Augmentation%20Consistency-guided%20Self-training%20for%20Source-free%20Domain%20Adaptive%20Semantic%20Segmentation.pdf) | - | NeurIPS | 2022 | [BibTeX](assets/bibtex/prabhu2022augmentation.txt) |
-|  | MTKD | **Weather-degraded image semantic segmentation with multi-task knowledge distillation** | [Paper](Weather-degraded%20image%20semantic%20segmentation%20with%20multi-task%20knowledge%20distillation.pdf) | - | IV | 2022 | [BibTeX](assets/bibtex/li2022weather.txt) |
-|  | RanPaste | **RanPaste: Paste Consistency and Pseudo Label for Semisupervised Remote Sensing Image Semantic Segmentation** | [Paper](RanPaste_Paste_Consistency_and_Pseudo_Label_for_Semisupervised_Remote_Sensing_Image_Semantic_Segmentation.pdf) | - | GRS | 2021 | [BibTeX](assets/bibtex/wang2021ranpaste.txt) |
-
-### 1.6 Test-Time Adaptation & Continual Learning
-
-|  | Method | Title | Paper | Code | Venue | Year | BibTeX |
-|:--:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| ⭐ | - | **Source-Free Online Domain Adaptive Semantic Segmentation of Satellite Images Under Image Degradation** | [Paper](Source-Free_Online_Domain_Adaptive_Semantic_Segmentation_of_Satellite_Images_Under_Image_Degradation.pdf) | [Code](https://sat-tta.github.io/) | ICASSP | 2024 | [BibTeX](assets/bibtex/niloy2024source.txt) |
-| ⭐ | - | **Privacy-Preserving Synthetic Continual Semantic Segmentation for Robotic Surgery** | [Paper](Privacy-Preserving_Synthetic_Continual_Semantic_Segmentation_for_Robotic_Surgery.pdf) | [Code](https://github.com/XuMengyaAmy/Synthetic_CAT_SD) | IEEE | 2024 | [BibTeX](assets/bibtex/xu2024privacy.txt) |
-| ⭐ | TTA | **Test-Time Adaptation for Nighttime Color-Thermal Semantic Segmentation** | [Paper](Test-Time_Adaptation_for_Nighttime_Color-Thermal_Semantic_Segmentation.pdf) | [Code](https://vlis2022.github.io/nighttta) | TAI | 2023 | [BibTeX](assets/bibtex/liu2023test.txt) |
-| ⭐ | multi-scale TTA | **Top-K Confidence Map Aggregation for Robust Semantic Segmentation Against Unexpected Degradation** | [Paper](Top-K_Confidence_Map_Aggregation_for_Robust_Semantic_Segmentation_Against_Unexpected_Degradation.pdf) | [Code](http://www.ok.sc.e.titech.ac.jp/res/CNNIR/IRDI/) | ICCE | 2023 | [BibTeX](assets/bibtex/moriyasu2023top.txt) |
-| ⭐ | HAMLET | **To Adapt or Not to Adapt? Real-Time Adaptation for Semantic Segmentation** | [Paper](Colomer_To_Adapt_or_Not_to_Adapt_Real-Time_Adaptation_for_Semantic_ICCV_2023_paper.pdf) | [Code](https://marcbotet.github.io/hamlet-web/) | ICCV | 2023 | [BibTeX](assets/bibtex/colomer2023adapt.txt) |
-|  | PAN | **Enhanced Model Robustness to Input Corruptions by Per-corruption Adaptation of Normalization Statistics** | [Paper](Enhanced_Model_Robustness_to_Input_Corruptions_by_Per-corruption_Adaptation_of_Normalization_Statistics.pdf) | - | IROS | 2024 | [BibTeX](assets/bibtex/camuffo2024enhanced.txt) |
-|  | - | **Test-time Training for Matching-based Video Object Segmentation** | [Paper](NeurIPS-2023-test-time-training-for-matching-based-video-object-segmentation-Paper-Conference.pdf) | - | ANIPS | 2023 | [BibTeX](assets/bibtex/bertrand2023test.txt) |
-|  | - | **Principles of forgetting in domain-incremental semantic segmentation in adverse weather conditions** | [Paper](Kalb_Principles_of_Forgetting_in_Domain-Incremental_Semantic_Segmentation_in_Adverse_Weather_CVPR_2023_paper.pdf) | - | CV | 2023 | [BibTeX](assets/bibtex/kalb2023principles.txt) |
-|  | EndoCSS | **Rethinking exemplars for continual semantic segmentation in endoscopy scenes: Entropy-based mini-batch pseudo-replay** | [Paper](Rethinking%20exemplars%20for%20continual%20semantic%20segmentation%20in%20endoscopy%20scenes%20Entropy-based%20mini-batch%20pseudo-replay.pdf) | - | CBM | 2023 | [BibTeX](assets/bibtex/wang2023rethinking.txt) |
-|  | CACE | **Continual Unsupervised Domain Adaptation for Semantic Segmentation using a Class-Specific Transfer** | [Paper](Continual_Unsupervised_Domain_Adaptation_for_Semantic_Segmentation_using_a_Class-Specific_Transfer.pdf) | - | IJCNN | 2022 | [BibTeX](assets/bibtex/marsden2022continual.txt) |
-|  | M-ADA | **Learning to Learn Single Domain Generalization** | [Paper](Qiao_Learning_to_Learn_Single_Domain_Generalization_CVPR_2020_paper.pdf) | - | CVPR | 2020 | [BibTeX](assets/bibtex/qiao2020learning.txt) |
-
-
-## 2. Joint Restoration & Segmentation
-
-### 2.3 Denoising + Segmentation
-
-|  | Method | Title | Paper | Code | Venue | Year | BibTeX |
-|:--:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| ⭐ | AATCT-IDS | **AATCT-IDS: A benchmark Abdominal Adipose Tissue CT Image Dataset for image denoising, semantic segmentation, and radiomics evaluation** | [Paper](AATCT-IDS%20A%20benchmark%20Abdominal%20Adipose%20Tissue%20CT%20Image%20Dataset%20for%20image%20denoising,%20semantic%20segmentation,%20and%20radiomics%20evaluation.pdf) | [Code](https://figshare.com/articles/dataset/AATTCT-IDS/23807256) | CBM | 2024 | [BibTeX](assets/bibtex/ma2024aatct.txt) |
-| ⭐ | IA-Seg | **Improving Nighttime Driving-Scene Segmentation via Dual Image-Adaptive Learnable Filters** | [Paper](Improving_Nighttime_Driving-Scene_Segmentation_via_Dual_Image-Adaptive_Learnable_Filters.pdf) | [Code](https://github.com/wenyyu/IA-Seg) | TCSVT | 2023 | [BibTeX](assets/bibtex/liu2023improving.txt) |
-|  | ICER-Net | **Multi task deep learning phase unwrapping method based on semantic segmentation** | [Paper](Wang_2024_J._Opt._26_115709.pdf) | - | IOP | 2024 | [BibTeX](assets/bibtex/wang2024multi.txt) |
-|  | SARDeSeg | **Segmentation-Guided Semantic-Aware Self-Supervised Denoising for SAR Image** | [Paper](Segmentation-Guided_Semantic-Aware_Self-Supervised_Denoising_for_SAR_Image.pdf) | - | GRS | 2023 | [BibTeX](assets/bibtex/yuan2023segmentation.txt) |
-|  | DCAIP | **Speckle Reduction via Deep Content-Aware Image Prior for Precise Breast Tumor Segmentation in an Ultrasound Image** | [Paper](Speckle_Reduction_via_Deep_Content-Aware_Image_Prior_for_Precise_Breast_Tumor_Segmentation_in_an_Ultrasound_Image.pdf) | - | UFFC | 2022 | [BibTeX](assets/bibtex/lee2022speckle.txt) |
-|  | DDeP | **Denoising Pretraining for Semantic Segmentation** | [Paper](Brempong_Denoising_Pretraining_for_Semantic_Segmentation_CVPRW_2022_paper.pdf) | - | CVPR | 2022 | [BibTeX](assets/bibtex/brempong2022denoising.txt) |
-|  | EFNet | **EFNet: Enhancement-Fusion Network for Semantic Segmentation** | [Paper](EFNet%20Enhancement-Fusion%20Network%20for%20Semantic%20Segmentation.pdf) | - | PR | 2021 | [BibTeX](assets/bibtex/wang2021efnet.txt) |
-|  | DN-GAN | **DN-GAN: Denoising generative adversarial networks for speckle noise reduction in optical coherence tomography images** | [Paper](DN-GAN%20Denoising%20generative%20adversarial%20networks%20for%20speckle%20noise%20reduction%20in%20optical%20coherence%20tomography%20images.pdf) | - | BSPC | 2020 | [BibTeX](assets/bibtex/chen2020dn.txt) |
-|  | - | **Improved denoising autoencoder for maritime image denoising and semantic segmentation of USV** | [Paper](Improved_denoising_autoencoder_for_maritime_image_denoising_and_semantic_segmentation_of_USV.pdf) | - | IEEE | 2020 | [BibTeX](assets/bibtex/qiu2020improved.txt) |
-|  | DAPAS | **DAPAS : Denoising Autoencoder to Prevent Adversarial attack in Semantic Segmentation** | [Paper](DAPAS__Denoising_Autoencoder_to_Prevent_Adversarial_attack_in_Semantic_Segmentation.pdf) | - | IJCNN | 2020 | [BibTeX](assets/bibtex/cho2020dapas.txt) |
-|  | - | **Effective image restoration for semantic segmentation** | [Paper](Effective%20image%20restoration%20for%20semantic%20segmentation.pdf) | - | Neurocomputing | 2020 | [BibTeX](assets/bibtex/niu2020effective.txt) |
-|  | - | **Cooperative Semantic Segmentation and Image Restoration in Adverse Environmental Conditions** | [Paper](Cooperative%20Semantic%20Segmentation%20and%20Image%20Restoration%20in%20Adverse%20Environmental%20Conditions.pdf) | - | arXiv | 2019 | [BibTeX](assets/bibtex/xia2019cooperative.txt) |
+> Papers with available code are marked with a code link in the "Code" column.
 
 
 ## 1. Domain Adaptation & Generalization (DA/DG)
 
 ### 1.1 Adversarial Learning Approaches
 
-|  | Method | Title | Paper | Code | Venue | Year | BibTeX |
-|:--:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| ⭐ | ICDA | **ICDA: Illumination-Coupled Domain Adaptation Framework for Unsupervised Nighttime Semantic Segmentation** | [Paper](ICDA%20Illumination-Coupled%20Domain%20Adaptation%20Framework%20for%20Unsupervised%20Nighttime%20Semantic%20Segmentation.pdf) | [Code](https://github.com/chenghaoDong666/ICDA) | IJCAI | 2023 | [BibTeX](assets/bibtex/dong2023icda.txt) |
-| ⭐ | CMA | **Contrastive model adaptation for cross-condition robustness in semantic segmentation** | [Paper](Bruggemann_Contrastive_Model_Adaptation_for_Cross-Condition_Robustness_in_Semantic_Segmentation_ICCV_2023_paper.pdf) | [Code](https://github.com/brdav/cma) | ICCV | 2023 | [BibTeX](assets/bibtex/bruggemann2023contrastive.txt) |
-| ⭐ | Heatnet | **Heatnet: Bridging the day-night domain gap in semantic segmentation with thermal images** | [Paper](HeatNet_Bridging_the_Day-Night_Domain_Gap_in_Semantic_Segmentation_with_Thermal_Images.pdf) | [Code](http://thermal.cs.uni-freiburg.de/) | IROS | 2020 | [BibTeX](assets/bibtex/vertens2020heatnet.txt) |
-|  | DBTS | **Dual-branch teacher-student with noise-tolerant learning for domain adaptive nighttime segmentation** | [Paper](Dual-branch%20teacher-student%20with%20noise-tolerant%20learning%20for%20domain%20adaptive%20nighttime%20segmentation.pdf) | - | IVC | 2024 | [BibTeX](assets/bibtex/chen2024dual.txt) |
-|  | - | **Weakly supervised semantic segmentation for point cloud based on view-based adversarial training and self-attention fusion** | [Paper](Weakly%20supervised%20semantic%20segmentation%20for%20point%20cloud%20based%20on%20view-based%20adversarial%20training%20and%20self-attention%20fusion.pdf) | - | Computers & Graphics | 2023 | [BibTeX](assets/bibtex/miao2023weakly.txt) |
-|  | IEC-Net | **All-weather road drivable area segmentation method based on CycleGAN** | [Paper](All-weather%20road%20drivable%20area%20segmentation%20method%20based%20on%20CycleGAN.pdf) | - | VC | 2023 | [BibTeX](assets/bibtex/jiqing2023all.txt) |
-|  | FISS GAN | **FISS GAN: A generative adversarial network for foggy image semantic segmentation** | [Paper](FISS_GAN_A_Generative_Adversarial_Network_for_Foggy_Image_Semantic_Segmentation.pdf) | - | JAS | 2021 | [BibTeX](assets/bibtex/liu2021fiss.txt) |
-|  | W-GAN | **Semantic Segmentation With Unsupervised Domain Adaptation Under Varying Weather Conditions for Autonomous Vehicles** | [Paper](Semantic_Segmentation_With_Unsupervised_Domain_Adaptation_Under_Varying_Weather_Conditions_for_Autonomous_Vehicles.pdf) | - | RAL | 2020 | [BibTeX](assets/bibtex/erkent2020semantic.txt) |
-|  | RSSN | **Nighttime Road Scene Parsing by Unsupervised Domain Adaptation** | [Paper](Nighttime_Road_Scene_Parsing_by_Unsupervised_Domain_Adaptation.pdf) | - | TITS | 2020 | [BibTeX](assets/bibtex/song2020nighttime.txt) |
+| Title | Authors | Year | Venue | Code | BibTeX |
+|:------|:--------|:----:|:-----:|:----:|:------:|
+| ICDA: Illumination-Coupled Domain Adaptation Framework for Unsupervised Nighttim... | Dong et al. | 2023 | IJCAI | [Code](https://github.com/Sci-Epiphany/ICDA) | [BibTeX](assets/bibtex/dong2023icda.txt) |
+| Heatnet: Bridging the day-night domain gap in semantic segmentation with thermal... | Vertens et al. | 2020 | 2020 IEEE/RSJ Intern... | [Code](https://github.com/Rvandewalle/HeatNet) | [BibTeX](assets/bibtex/vertens2020heatnet.txt) |
+| Advent: Adversarial entropy minimization for domain adaptation in semantic segme... | Vu et al. | 2019 | CVPR | [Code](https://github.com/valeoai/ADVENT) | [BibTeX](assets/bibtex/vu2019advent.txt) |
+| Dual-branch teacher-student with noise-tolerant learning for domain adaptive nig... | Chen et al. | 2024 | Image and Vision Com... | - | [BibTeX](assets/bibtex/chen2024dual.txt) |
+| Weakly supervised semantic segmentation for point cloud based on view-based adve... | Miao et al. | 2023 | Computers \& Graphic... | - | [BibTeX](assets/bibtex/miao2023weakly.txt) |
+| All-weather road drivable area segmentation method based on CycleGAN | Jiqing et al. | 2023 | The Visual Computer | - | [BibTeX](assets/bibtex/jiqing2023all.txt) |
+| FISS GAN: A generative adversarial network for foggy image semantic segmentation | Liu et al. | 2021 | IEEE/CAA Journal of ... | - | [BibTeX](assets/bibtex/liu2021fiss.txt) |
+| A one-stage domain adaptation network with image alignment for unsupervised nigh... | Wu et al. | 2021 | PAMI | - | [BibTeX](assets/bibtex/wu2021one.txt) |
+| Semantic segmentation with unsupervised domain adaptation under varying weather ... | Erkent et al. | 2020 | IEEE Robotics and Au... | - | [BibTeX](assets/bibtex/erkent2020semantic.txt) |
+| Nighttime road scene parsing by unsupervised domain adaptation | Song et al. | 2020 | IEEE transactions on... | - | [BibTeX](assets/bibtex/song2020nighttime.txt) |
+
+### 1.2 Feature Alignment
+
+| Title | Authors | Year | Venue | Code | BibTeX |
+|:------|:--------|:----:|:-----:|:----:|:------:|
+| Condition-invariant semantic segmentation | Sakaridis et al. | 2025 | PAMI | [Code](https://github.com/Linwei-Chen/CISS) | [BibTeX](assets/bibtex/sakaridis2025condition.txt) |
+| Contrastive model adaptation for cross-condition robustness in semantic segmenta... | Br{\""u et al. | 2023 | ICCV | [Code](https://github.com/brdav/cma) | [BibTeX](assets/bibtex/bruggemann2023contrastive.txt) |
+| Degraded Image Semantic Segmentation Using Intra-image and Inter-image Contrasti... | Dong et al. | 2023 | China Automation Con... | [Code](https://github.com/Sci-Epiphany/DNISeg) | [BibTeX](assets/bibtex/dong2023degraded.txt) |
+| Refign: Align and refine for adaptation of semantic segmentation to adverse cond... | Br{\""u et al. | 2023 | WACV | [Code](https://github.com/brdav/refign) | [BibTeX](assets/bibtex/bruggemann2023refign.txt) |
+| Fifo: Learning fog-invariant features for foggy scene segmentation. | Lee et al. | 2022 | CVPR | [Code](https://github.com/sohyun-l/fifo) | [BibTeX](assets/bibtex/lee2022fifo.txt) |
+| Cross-domain correlation distillation for unsupervised domain adaptation in nigh... | Gao et al. | 2022 | CVPR | [Code](https://github.com/Siddharth-Shrivastava7/CCDistill) | [BibTeX](assets/bibtex/gao2022cross.txt) |
+| Computational Imaging for Machine Perception: Transferring Semantic Segmentation... | Jiang et al. | 2024 | IEEE Transactions on... | - | [BibTeX](assets/bibtex/jiang2024computational.txt) |
+| Cluster alignment with target knowledge mining for unsupervised domain adaptatio... | Wang et al. | 2022 | IEEE Transactions on... | - | [BibTeX](assets/bibtex/wang2022cluster.txt) |
+| Learning intra-domain style-invariant representation for unsupervised domain ada... | Li et al. | 2022 | Pattern Recognition | - | [BibTeX](assets/bibtex/li2022learning.txt) |
+| Semantic nighttime image segmentation via illumination and position aware domain... | Peng et al. | 2021 | 2021 IEEE Internatio... | - | [BibTeX](assets/bibtex/peng2021semantic.txt) |
+| Learning texture invariant representation for domain adaptation of semantic segm... | Kim et al. | 2020 | CVPR | - | [BibTeX](assets/bibtex/kim2020learning.txt) |
+| Degraded image semantic segmentation with dense-gram networks | Guo et al. | 2019 | IEEE Transactions on... | - | [BibTeX](assets/bibtex/guo2019degraded.txt) |
+| Ssf-dan: Separated semantic feature based domain adaptation network for semantic... | Du et al. | 2019 | ICCV | - | [BibTeX](assets/bibtex/du2019ssf.txt) |
+
+### 1.3 Feature Decomposition
+
+| Title | Authors | Year | Venue | Code | BibTeX |
+|:------|:--------|:----:|:-----:|:----:|:------:|
+| Learning generalized segmentation for foggy-scenes by bi-directional wavelet gui... | Bi et al. | 2024 | the AAAI Conference ... | [Code](https://github.com/biomedical-image/BWG) | [BibTeX](assets/bibtex/bi2024learning.txt) |
+| Generalized Foggy-Scene Semantic Segmentation by Frequency Decoupling | Bi et al. | 2024 | CVPR | [Code](https://github.com/biomedical-image/FreD) | [BibTeX](assets/bibtex/bi2024generalized.txt) |
+| When semantic segmentation meets frequency aliasing | Chen et al. | 2024 | ICLR | [Code](https://github.com/ChenLinwei-BJTU/DAF) | [BibTeX](assets/bibtex/chen2024semantic.txt) |
+| All about structure: Adapting structural information across domains for boosting... | Chang et al. | 2019 | CVPR | [Code](https://github.com/a514514772/DISE) | [BibTeX](assets/bibtex/chang2019all.txt) |
+| DDFL: Dual-Domain Feature Learning for nighttime semantic segmentation | Lin et al. | 2024 | Displays | - | [BibTeX](assets/bibtex/lin2024ddfl.txt) |
+| Disentangle then Parse: Night-time Semantic Segmentation with Illumination Disen... | Wei et al. | 2023 | ICCV | - | [BibTeX](assets/bibtex/wei2023disentangle.txt) |
+| Interactive learning of intrinsic and extrinsic properties for all-day semantic ... | Bi et al. | 2023 | IEEE Transactions on... | - | [BibTeX](assets/bibtex/bi2023interactive.txt) |
+| Both style and fog matter: Cumulative domain adaptation for semantic foggy scene... | Ma et al. | 2022 | CVPR | - | [BibTeX](assets/bibtex/ma2022both.txt) |
+
+### 1.4 Self-Training & Pseudo-Labeling
+
+| Title | Authors | Year | Venue | Code | BibTeX |
+|:------|:--------|:----:|:-----:|:----:|:------:|
+| SDAT-Former++: A Foggy Scene Semantic Segmentation Method with Stronger Domain A... | Wang et al. | 2023 | Remote Sensing | [Code](https://github.com/wangshuo666/SDAT-Former) | [BibTeX](assets/bibtex/wang2023sdat.txt) |
+| VBLC: Visibility boosting and logit-constraint learning for domain adaptive sema... | Li et al. | 2023 | the AAAI Conference ... | [Code](https://github.com/BIT-DA/VBLC) | [BibTeX](assets/bibtex/li2023vblc.txt) |
+| FogAdapt: Self-supervised domain adaptation for semantic segmentation of foggy i... | Iqbal et al. | 2022 | Neurocomputing | [Code](https://github.com/farzeen-hub/FogAdapt) | [BibTeX](assets/bibtex/iqbal2022fogadapt.txt) |
+| CDAda: A curriculum domain adaptation for nighttime semantic segmentation | Xu et al. | 2021 | ICCV | [Code](https://github.com/XuZhang-bit/CDAda) | [BibTeX](assets/bibtex/xu2021cdada.txt) |
+| Bidirectional learning for domain adaptation of semantic segmentation | Li et al. | 2019 | CVPR | [Code](https://github.com/liyunsheng13/BDL) | [BibTeX](assets/bibtex/li2019bidirectional.txt) |
+| Source-Free Online Domain Adaptive Semantic Segmentation of Satellite Images Und... | Niloy et al. | 2024 | ICASSP 2024-2024 IEE... | - | [BibTeX](assets/bibtex/niloy2024source.txt) |
+| Stable Neighbor Denoising for Source-free Domain Adaptive Segmentation | Zhao et al. | 2024 | CVPR | - | [BibTeX](assets/bibtex/zhao2024stable.txt) |
+| Self pseudo entropy knowledge distillation for semi-supervised semantic segmenta... | Lu et al. | 2024 | IEEE Transactions on... | - | [BibTeX](assets/bibtex/lu2024self.txt) |
+| LoopDA: Constructing self-loops to adapt nighttime semantic segmentation | Shen et al. | 2023 | WACV | - | [BibTeX](assets/bibtex/shen2023loopda.txt) |
+| A Two-Stage Self-Training Framework for Nighttime Semantic Segmentation | Yang et al. | 2023 | 2023 38th Youth Acad... | - | [BibTeX](assets/bibtex/yang2023two.txt) |
+| SGDA: A Saliency-Guided Domain Adaptation Network for Nighttime Semantic Segment... | Duan et al. | 2023 | 2023 IEEE 6th Intern... | - | [BibTeX](assets/bibtex/duan2023sgda.txt) |
+| Dtbs: Dual-teacher bi-directional self-training for domain adaptation in nightti... | Huang et al. | 2023 | European Conference ... | - | [BibTeX](assets/bibtex/huang2023dtbs.txt) |
+| Dual-level Consistency Learning for Unsupervised Domain Adaptive Night-time Sema... | Ding et al. | 2023 | 2023 IEEE Internatio... | - | [BibTeX](assets/bibtex/ding2023dual.txt) |
+| MADA: Multi-Level Alignment in Domain Adaptation Network for Nighttime Semantic ... | Xu et al. | 2023 | 2023 8th Internation... | - | [BibTeX](assets/bibtex/xu2023mada.txt) |
+| A hybrid domain learning framework for unsupervised semantic segmentation | Zhang et al. | 2023 | Neurocomputing | - | [BibTeX](assets/bibtex/zhang2023hybrid.txt) |
+| Online domain adaptation for semantic segmentation in ever-changing conditions | Panagiotakopoulos et al. | 2022 | European Conference ... | - | [BibTeX](assets/bibtex/panagiotakopoulos2022online.txt) |
+| Unsupervised foggy scene understanding via self spatial-temporal label diffusion | Liao et al. | 2022 | IEEE Transactions on... | - | [BibTeX](assets/bibtex/liao2022unsupervised.txt) |
+| Augmentation consistency-guided self-training for source-free domain adaptive se... | Prabhu et al. | 2022 | NeurIPS 2022 Worksho... | - | [BibTeX](assets/bibtex/prabhu2022augmentation.txt) |
+| SS-SFDA: Self-supervised source-free domain adaptation for road segmentation in ... | Kothandaraman et al. | 2021 | ICCV | - | [BibTeX](assets/bibtex/kothandaraman2021ss.txt) |
+| RanPaste: Paste consistency and pseudo label for semisupervised remote sensing i... | Wang et al. | 2021 | IEEE Transactions on... | - | [BibTeX](assets/bibtex/wang2021ranpaste.txt) |
 
 ### 1.5 Knowledge Distillation
 
-|  | Method | Title | Paper | Code | Venue | Year | BibTeX |
-|:--:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| ⭐ | - | **Lightweight deep learning methods for panoramic dental X-ray image segmentation** | [Paper](Lightweight%20deep%20learning%20methods%20for%20panoramic%20dental%20X-ray%20image%20segmentation.pdf) | [Code](https://github.com/IvisionLab/dental-image.) | NCA | 2023 | [BibTeX](assets/bibtex/lin2023lightweight.txt) |
-| ⭐ | - | **Unsupervised foggy scene understanding via self spatial-temporal label diffusion** | [Paper](Unsupervised_Foggy_Scene_Understanding_via_Self_Spatial-Temporal_Label_Diffusion.pdf) | [Code](http://people.ee.ethz.ch/∼ csakarid/SFSU_synthetic/) | TIP | 2022 | [BibTeX](assets/bibtex/liao2022unsupervised.txt) |
-| ⭐ | Heatnet | **Heatnet: Bridging the day-night domain gap in semantic segmentation with thermal images** | [Paper](HeatNet_Bridging_the_Day-Night_Domain_Gap_in_Semantic_Segmentation_with_Thermal_Images.pdf) | [Code](http://thermal.cs.uni-freiburg.de/) | IROS | 2020 | [BibTeX](assets/bibtex/vertens2020heatnet.txt) |
-|  | MTKD | **Weather-degraded image semantic segmentation with multi-task knowledge distillation** | [Paper](Weather-degraded%20image%20semantic%20segmentation%20with%20multi-task%20knowledge%20distillation.pdf) | - | IV | 2022 | [BibTeX](assets/bibtex/li2022weather.txt) |
-|  | multi-teacher KD | **Robust Semantic Segmentation With Multi-Teacher Knowledge Distillation** | [Paper](Robust_Semantic_Segmentation_With_Multi-Teacher_Knowledge_Distillation.pdf) | - | IEEE | 2021 | [BibTeX](assets/bibtex/amirkhani2021robust.txt) |
-|  | - | **Efficient Uncertainty Estimation in Semantic Segmentation via Distillation** | [Paper](Holder_Efficient_Uncertainty_Estimation_in_Semantic_Segmentation_via_Distillation_ICCVW_2021_paper.pdf) | - | ICCV | 2021 | [BibTeX](assets/bibtex/holder2021efficient.txt) |
+| Title | Authors | Year | Venue | Code | BibTeX |
+|:------|:--------|:----:|:-----:|:----:|:------:|
+| Lightweight deep learning methods for panoramic dental X-ray image segmentation | Lin et al. | 2023 | Neural Computing and... | - | [BibTeX](assets/bibtex/lin2023lightweight.txt) |
+| Weather-degraded image semantic segmentation with multi-task knowledge distillat... | Li et al. | 2022 | Image and Vision Com... | - | [BibTeX](assets/bibtex/li2022weather.txt) |
+| Self-feature distillation with uncertainty modeling for degraded image recogniti... | Yang et al. | 2022 | European Conference ... | - | [BibTeX](assets/bibtex/yang2022self.txt) |
+| Robust semantic segmentation with multi-teacher knowledge distillation | Amirkhani et al. | 2021 | IEEE Access | - | [BibTeX](assets/bibtex/amirkhani2021robust.txt) |
+| Efficient uncertainty estimation in semantic segmentation via distillation | Holder et al. | 2021 | ICCV | - | [BibTeX](assets/bibtex/holder2021efficient.txt) |
+
+### 1.6 Test-Time Adaptation & Continual Learning
+
+| Title | Authors | Year | Venue | Code | BibTeX |
+|:------|:--------|:----:|:-----:|:----:|:------:|
+| Continual test-time domain adaptation | Wang et al. | 2022 | CVPR | [Code](https://github.com/qinenergy/cotta) | [BibTeX](assets/bibtex/wang2022continual.txt) |
+| Enhanced Model Robustness to Input Corruptions by Per-corruption Adaptation of N... | Camuffo et al. | 2024 | 2024 IEEE/RSJ Intern... | - | [BibTeX](assets/bibtex/camuffo2024enhanced.txt) |
+| Privacy-Preserving Synthetic Continual Semantic Segmentation for Robotic Surgery | Xu et al. | 2024 | IEEE Transactions on... | - | [BibTeX](assets/bibtex/xu2024privacy.txt) |
+| Test-time adaptation for nighttime color-thermal semantic segmentation | Liu et al. | 2023 | IEEE Transactions on... | - | [BibTeX](assets/bibtex/liu2023test.txt) |
+| Test-time training for matching-based video object segmentation | Bertrand et al. | 2023 | Advances in Neural I... | - | [BibTeX](assets/bibtex/bertrand2023test.txt) |
+| Top-K Confidence Map Aggregation for Robust Semantic Segmentation Against Unexpe... | Moriyasu et al. | 2023 | 2023 IEEE Internatio... | - | [BibTeX](assets/bibtex/moriyasu2023top.txt) |
+| Principles of forgetting in domain-incremental semantic segmentation in adverse ... | Kalb et al. | 2023 | CVPR | - | [BibTeX](assets/bibtex/kalb2023principles.txt) |
+| Rethinking exemplars for continual semantic segmentation in endoscopy scenes: En... | Wang et al. | 2023 | Computers in Biology... | - | [BibTeX](assets/bibtex/wang2023rethinking.txt) |
+| To adapt or not to adapt? real-time adaptation for semantic segmentation | Colomer et al. | 2023 | ICCV | - | [BibTeX](assets/bibtex/colomer2023adapt.txt) |
+| Continual unsupervised domain adaptation for semantic segmentation using a class... | Marsden et al. | 2022 | 2022 International J... | - | [BibTeX](assets/bibtex/marsden2022continual.txt) |
+
+### 1.7 Other DA/DG Strategies
+
+| Title | Authors | Year | Venue | Code | BibTeX |
+|:------|:--------|:----:|:-----:|:----:|:------:|
+| Map-guided curriculum domain adaptation and uncertainty-aware evaluation for sem... | Sakaridis et al. | 2020 | PAMI | [Code](https://github.com/sakaridis/MGCDA) | [BibTeX](assets/bibtex/sakaridis2020map.txt) |
+| Guided curriculum model adaptation and uncertainty-aware evaluation for semantic... | Sakaridis et al. | 2019 | ICCV | [Code](https://github.com/sakaridis/GCMA) | [BibTeX](assets/bibtex/sakaridis2019guided.txt) |
+| Complementary Masked-Guided Meta-Learning for Domain Adaptive Nighttime Segmenta... | Chen et al. | 2024 | IEEE Signal Processi... | - | [BibTeX](assets/bibtex/chen2024complementary.txt) |
+| CAT: Exploiting Inter-Class Dynamics for Domain Adaptive Object Detection | Kennerley et al. | 2024 | CVPR | - | [BibTeX](assets/bibtex/kennerley2024cat.txt) |
+| A Re-Parameterized Vision Transformer (ReVT) for Domain-Generalized Semantic Seg... | Term{\""o et al. | 2023 | ICCV | - | [BibTeX](assets/bibtex/termohlen2023re.txt) |
+| Learning to learn single domain generalization | Qiao et al. | 2020 | CVPR | - | [BibTeX](assets/bibtex/qiao2020learning.txt) |
+| Curriculum model adaptation with synthetic and real data for semantic foggy scen... | Dai et al. | 2020 | International Journa... | - | [BibTeX](assets/bibtex/dai2020curriculum.txt) |
+| Model adaptation with synthetic and real data for semantic dense foggy scene und... | Sakaridis et al. | 2018 | ECCV | - | [BibTeX](assets/bibtex/sakaridis2018model.txt) |
+
+
+## 2. Joint Restoration & Segmentation
+
+### 2.1 Dehazing/Defogging + Segmentation
+
+| Title | Authors | Year | Venue | Code | BibTeX |
+|:------|:--------|:----:|:-----:|:----:|:------:|
+| Improving semantic segmentation under hazy weather for autonomous vehicles using... | Saravanarajan et al. | 2023 | IEEE Access | - | [BibTeX](assets/bibtex/saravanarajan2023improving.txt) |
+| Budget-Aware Road Semantic Segmentation in Unseen Foggy Scenes | To et al. | 2023 | International Confer... | - | [BibTeX](assets/bibtex/to2023budget.txt) |
+| Rethinking image restoration for object detection | Sun et al. | 2022 | Advances in Neural I... | - | [BibTeX](assets/bibtex/sun2022rethinking.txt) |
+| Cooperative semantic segmentation and image restoration in adverse environmental... | Xia et al. | 2019 | arXiv preprint arXiv... | - | [BibTeX](assets/bibtex/xia2019cooperative.txt) |
+| A convolutional network for joint deraining and dehazing from a single image for... | Sun et al. | 2019 | 2019 IEEE/RSJ Intern... | - | [BibTeX](assets/bibtex/sun2019convolutional.txt) |
+
+### 2.2 Deraining + Segmentation
+
+| Title | Authors | Year | Venue | Code | BibTeX |
+|:------|:--------|:----:|:-----:|:----:|:------:|
+| Style Optimization Networks for real-time semantic segmentation of rainy and fog... | Huang et al. | 2025 | Signal Processing: I... | - | [BibTeX](assets/bibtex/huang2025style.txt) |
+| DRNet: Learning a dynamic recursion network for chaotic rain streak removal | Jiang et al. | 2025 | Pattern Recognition | - | [BibTeX](assets/bibtex/jiang2025drnet.txt) |
+| Learning A Rain-Invariant Network For Instance Segmentation In The Rain | Chen et al. | 2024 | 2024 IEEE Internatio... | - | [BibTeX](assets/bibtex/chen2024learning.txt) |
+| Rainy day image semantic segmentation based on two-stage progressive network | Zhang et al. | 2024 | The Visual Computer | - | [BibTeX](assets/bibtex/zhang2024rainy.txt) |
+| RCDNet: An interpretable rain convolutional dictionary network for single image ... | Wang et al. | 2023 | IEEE Transactions on... | - | [BibTeX](assets/bibtex/wang2023rcdnet.txt) |
+| Real rainy scene analysis: A dual-module benchmark for image deraining and segme... | Zhao et al. | 2023 | 2023 IEEE Internatio... | - | [BibTeX](assets/bibtex/zhao2023real.txt) |
+| SAPNet: Segmentation-aware progressive network for perceptual contrastive derain... | Zheng et al. | 2022 | WACV | - | [BibTeX](assets/bibtex/zheng2022sapnet.txt) |
+| Beyond monocular deraining: Parallel stereo deraining network via semantic prior | Zhang et al. | 2022 | International Journa... | - | [BibTeX](assets/bibtex/zhang2022beyond.txt) |
+| Towards robust rain removal against adversarial attacks: A comprehensive benchma... | Yu et al. | 2022 | CVPR | - | [BibTeX](assets/bibtex/yu2022towards.txt) |
+| Improved sea-ice identification using semantic segmentation with raindrop remova... | Alsharay et al. | 2022 | IEEE Access | - | [BibTeX](assets/bibtex/alsharay2022improved.txt) |
+| A De-raining semantic segmentation network for real-time foreground segmentation | Wang et al. | 2021 | Journal of Real-Time... | - | [BibTeX](assets/bibtex/wang2021raining.txt) |
+| I can see clearly now: Image restoration via de-raining | Porav et al. | 2019 | ICRA | - | [BibTeX](assets/bibtex/porav2019can.txt) |
+
+### 2.3 Denoising + Segmentation
+
+| Title | Authors | Year | Venue | Code | BibTeX |
+|:------|:--------|:----:|:-----:|:----:|:------:|
+| AATCT-IDS: A benchmark Abdominal Adipose Tissue CT Image Dataset for image denoi... | Ma et al. | 2024 | Computers in Biology... | - | [BibTeX](assets/bibtex/ma2024aatct.txt) |
+| Multi task deep learning phase unwrapping method based on semantic segmentation | Wang et al. | 2024 | Journal of Optics | - | [BibTeX](assets/bibtex/wang2024multi.txt) |
+| Plug-and-Play Joint Image Deblurring and Detection | Marrs et al. | 2023 | 2023 IEEE 25th Inter... | - | [BibTeX](assets/bibtex/marrs2023plug.txt) |
+| Segmentation-guided semantic-aware self-supervised denoising for SAR image | Yuan et al. | 2023 | IEEE Transactions on... | - | [BibTeX](assets/bibtex/yuan2023segmentation.txt) |
+| Instance Segmentation in the Dark | Chen et al. | 2023 | IJCV | - | [BibTeX](assets/bibtex/2023lis.txt) |
+| Denoising pretraining for semantic segmentation | Brempong et al. | 2022 | CVPR_Workshops | - | [BibTeX](assets/bibtex/brempong2022denoising.txt) |
+| Speckle reduction via deep content-aware image prior for precise breast tumor se... | Lee et al. | 2022 | IEEE Transactions on... | - | [BibTeX](assets/bibtex/lee2022speckle.txt) |
+| Efnet: Enhancement-fusion network for semantic segmentation | Wang et al. | 2021 | Pattern Recognition | - | [BibTeX](assets/bibtex/wang2021efnet.txt) |
+| Effective image restoration for semantic segmentation | Niu et al. | 2020 | Neurocomputing | - | [BibTeX](assets/bibtex/niu2020effective.txt) |
+| Dapas: Denoising autoencoder to prevent adversarial attack in semantic segmentat... | Cho et al. | 2020 | 2020 International J... | - | [BibTeX](assets/bibtex/cho2020dapas.txt) |
+| Improved denoising autoencoder for maritime image denoising and semantic segment... | Qiu et al. | 2020 | China Communications | - | [BibTeX](assets/bibtex/qiu2020improved.txt) |
+| DN-GAN: Denoising generative adversarial networks for speckle noise reduction in... | Chen et al. | 2020 | Biomedical Signal Pr... | - | [BibTeX](assets/bibtex/chen2020dn.txt) |
+
+### 2.4 Deblurring + Segmentation
+
+| Title | Authors | Year | Venue | Code | BibTeX |
+|:------|:--------|:----:|:-----:|:----:|:------:|
+| Turb-Seg-Res: A Segment-then-Restore Pipeline for Dynamic Videos with Atmospheri... | Saha et al. | 2024 | CVPR | - | [BibTeX](assets/bibtex/saha2024turb.txt) |
+| Automatic extraction of blur regions on a single image based on semantic segment... | Shen et al. | 2020 | IEEE Access | - | [BibTeX](assets/bibtex/shen2020automatic.txt) |
+| Joint stereo video deblurring, scene flow estimation and moving object segmentat... | Pan et al. | 2019 | IEEE Transactions on... | - | [BibTeX](assets/bibtex/pan2019joint.txt) |
+| From motion blur to motion flow: A deep learning solution for removing heterogen... | Gong et al. | 2017 | CVPR | - | [BibTeX](assets/bibtex/gong2017motion.txt) |
+
+### 2.5 Snow/Dust Removal + Segmentation
+
+| Title | Authors | Year | Venue | Code | BibTeX |
+|:------|:--------|:----:|:-----:|:----:|:------:|
+| Semantic Segmentation and Inpainting of Dust with the S-Dust Dataset | Buckel et al. | 2023 | International Federa... | - | [BibTeX](assets/bibtex/buckel2023semantic.txt) |
+| Deep dense multi-scale network for snow removal using semantic and depth priors | Zhang et al. | 2021 | IEEE Transactions on... | - | [BibTeX](assets/bibtex/zhang2021deep.txt) |
+
+### 2.6 Low-Light Enhancement + Segmentation
+
+| Title | Authors | Year | Venue | Code | BibTeX |
+|:------|:--------|:----:|:-----:|:----:|:------:|
+| Nighttime image semantic segmentation with retinex theory | Sun et al. | 2024 | Image and Vision Com... | - | [BibTeX](assets/bibtex/sun2024nighttime.txt) |
+| Lane detection based on real-time semantic segmentation for end-to-end autonomou... | Liu et al. | 2024 | Digital Signal Proce... | - | [BibTeX](assets/bibtex/liu2024lane.txt) |
+| Improving nighttime driving-scene segmentation via dual image-adaptive learnable... | Liu et al. | 2023 | IEEE Transactions on... | - | [BibTeX](assets/bibtex/liu2023improving.txt) |
+| Toward fast, flexible, and robust low-light image enhancement | Ma et al. | 2022 | CVPR | - | [BibTeX](assets/bibtex/ma2022toward.txt) |
+| Towards learning low-light indoor semantic segmentation with illumination-invari... | Zhang et al. | 2021 | The International Ar... | - | [BibTeX](assets/bibtex/zhang2021towards.txt) |
+
+### 2.7 JPEG Decoding + Segmentation
+
+| Title | Authors | Year | Venue | Code | BibTeX |
+|:------|:--------|:----:|:-----:|:----:|:------:|
+| DCT-CompSegNet: fast layout segmentation in DCT compressed JPEG document images ... | Rajesh et al. | 2024 | Multimedia Tools and... | - | [BibTeX](assets/bibtex/rajesh2024dct.txt) |
+| Semantic segmentation in learned compressed domain | Liu et al. | 2022 | Picture Coding Sympo... | - | [BibTeX](assets/bibtex/liu2022semantic.txt) |
+| Reverse error modeling for improved semantic segmentation | Kuhn et al. | 2022 | IEEE International C... | - | [BibTeX](assets/bibtex/kuhn2022reverse.txt) |
+| Deep learning based image segmentation directly in the jpeg compressed domain | Singh et al. | 2021 | 2021 IEEE 8th Uttar ... | - | [BibTeX](assets/bibtex/singh2021deep.txt) |
+| Semantic segmentation of JPEG blocks using a deep CNN for non-aligned JPEG forge... | Alipour et al. | 2020 | Multimedia Tools and... | - | [BibTeX](assets/bibtex/alipour2020semantic.txt) |
+| DSSLIC: Deep semantic segmentation-based layered image compression | Akbari et al. | 2019 | IEEE International C... | - | [BibTeX](assets/bibtex/akbari2019dsslic.txt) |
 
 
 ## 3. Multi-Modal Fusion
 
 ### 3.1 RGB + Thermal Fusion
 
-|  | Method | Title | Paper | Code | Venue | Year | BibTeX |
-|:--:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| ⭐ | CMNeXt, DeLiVER | **Delivering Arbitrary-Modal Semantic Segmentation** | [Paper](Zhang_Delivering_Arbitrary-Modal_Semantic_Segmentation_CVPR_2023_paper.pdf) | [Code](https://jamycheung.github.io/DELIVER.html) | CVPR | 2023 | [BibTeX](assets/bibtex/zhang2023delivering.txt) |
-| ⭐ | MCNet | **MCNet: Multi-level Correction Network for thermal image semantic segmentation of nighttime driving scene** | [Paper](MCNet%20Multi-level%20Correction%20Network%20for%20thermal%20image%20semantic%20segmentation%20of%20nighttime%20driving%20scene.pdf) | [Code](https://github.com/haitaobiyao/MCNet) | INFRARED PHYS TECHN‌‌ | 2021 | [BibTeX](assets/bibtex/xiong2021mcnet.txt) |
-|  | CMEFNet | **Illumination Robust Semantic Segmentation Based on Cross-Dimensional Multispectral Edge Fusion in Dynamic Traffic Scenes** | [Paper](Illumination_Robust_Semantic_Segmentation_Based_on_Cross-Dimensional_Multispectral_Edge_Fusion_in_Dynamic_Traffic_Scenes.pdf) | - | IEEE | 2024 | [BibTeX](assets/bibtex/ni2024illumination.txt) |
-|  | - | **Weakly supervised semantic segmentation for point cloud based on view-based adversarial training and self-attention fusion** | [Paper](Weakly%20supervised%20semantic%20segmentation%20for%20point%20cloud%20based%20on%20view-based%20adversarial%20training%20and%20self-attention%20fusion.pdf) | - | Computers & Graphics | 2023 | [BibTeX](assets/bibtex/miao2023weakly.txt) |
-|  | - | **Test-time Training for Matching-based Video Object Segmentation** | [Paper](NeurIPS-2023-test-time-training-for-matching-based-video-object-segmentation-Paper-Conference.pdf) | - | ANIPS | 2023 | [BibTeX](assets/bibtex/bertrand2023test.txt) |
-|  | FuseSeg | **FuseSeg: Semantic Segmentation of Urban Scenes Based on RGB and Thermal Data Fusion** | [Paper](FuseSeg_Semantic_Segmentation_of_Urban_Scenes_Based_on_RGB_and_Thermal_Data_Fusion.pdf) | - | TASE | 2020 | [BibTeX](assets/bibtex/sun2020fuseseg.txt) |
-|  | RTFNet | **RTFNet: RGB-Thermal Fusion Network for Semantic Segmentation of Urban Scenes** | [Paper](RTFNet_RGB-Thermal_Fusion_Network_for_Semantic_Segmentation_of_Urban_Scenes.pdf) | - | RAL | 2019 | [BibTeX](assets/bibtex/sun2019rtfnet.txt) |
+| Title | Authors | Year | Venue | Code | BibTeX |
+|:------|:--------|:----:|:-----:|:----:|:------:|
+| FuseSeg: Semantic segmentation of urban scenes based on RGB and thermal data fus... | Sun et al. | 2020 | IEEE Transactions on... | [Code](https://github.com/yuxiangsun/FuseSeg) | [BibTeX](assets/bibtex/sun2020fuseseg.txt) |
+| RTFNet: RGB-thermal fusion network for semantic segmentation of urban scenes | Sun et al. | 2019 | IEEE Robotics and Au... | [Code](https://github.com/yuxiangsun/RTFNet) | [BibTeX](assets/bibtex/sun2019rtfnet.txt) |
+| Illumination Robust Semantic Segmentation Based on Cross-dimensional Multispectr... | Ni et al. | 2024 | IEEE Access | - | [BibTeX](assets/bibtex/ni2024illumination.txt) |
+| CCAFFMNet: Dual-spectral semantic segmentation network with channel-coordinate a... | Yi et al. | 2022 | Neurocomputing | - | [BibTeX](assets/bibtex/yi2022ccaffmnet.txt) |
+| MCNet: Multi-level correction network for thermal image semantic segmentation of... | Xiong et al. | 2021 | Infrared Physics \& ... | - | [BibTeX](assets/bibtex/xiong2021mcnet.txt) |
+| Robust semantic segmentation in adverse weather conditions by means of sensor da... | Pfeuffer et al. | 2019 | International Confer... | - | [BibTeX](assets/bibtex/pfeuffer2019robust.txt) |
 
+### 3.2 RGB + LiDAR/Depth Fusion
 
-## 1. Domain Adaptation & Generalization (DA/DG)
+| Title | Authors | Year | Venue | Code | BibTeX |
+|:------|:--------|:----:|:-----:|:----:|:------:|
+| Delivering arbitrary-modal semantic segmentation | Zhang et al. | 2023 | CVPR | [Code](https://github.com/jamycheung/DELIVER) | [BibTeX](assets/bibtex/zhang2023delivering.txt) |
+| UNO: Uncertainty-aware noisy-or multimodal fusion for unanticipated input degrad... | Tian et al. | 2020 | ICRA | [Code](https://github.com/tudelft-iv/UNO-IC) | [BibTeX](assets/bibtex/tian2020uno.txt) |
+| Low-Light Enhancement and Global-Local Feature Interaction for RGB-T Semantic Se... | Guo et al. | 2025 | IEEE Transactions on... | - | [BibTeX](assets/bibtex/guo2025low.txt) |
+| Adaptive Entropy Multi-modal Fusion for Nighttime Lane Segmentation | Zhang et al. | 2024 | IEEE Transactions on... | - | [BibTeX](assets/bibtex/zhang2024adaptive.txt) |
+| Multi-robot collaborative perception with graph neural networks | Zhou et al. | 2022 | IEEE Robotics and Au... | - | [BibTeX](assets/bibtex/zhou2022multi.txt) |
+| Multi-modal sensor fusion-based semantic segmentation for snow driving scenarios | Vachmanus et al. | 2021 | IEEE sensors journal | - | [BibTeX](assets/bibtex/vachmanus2021multi.txt) |
 
-### 1.7 Other DA/DG Strategies
+### 3.3 RGB + Event Camera Fusion
 
-|  | Method | Title | Paper | Code | Venue | Year | BibTeX |
-|:--:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| ⭐ | - | **Self Pseudo Entropy Knowledge Distillation for Semi-Supervised Semantic Segmentation** | [Paper](Self_Pseudo_Entropy_Knowledge_Distillation_for_Semi-Supervised_Semantic_Segmentation.pdf) | [Code](https://github.com/xiaoqiang-lu/SPEED) | CVPR | 2022 | [BibTeX](assets/bibtex/bar2022performance.txt) |
-| ⭐ | SDBF | **Curriculum Model Adaptation with Synthetic and Real Data for Semantic Foggy Scene Understanding** | [Paper](Curriculum%20Model%20Adaptation%20with%20Synthetic%20and%20Real%20Data%20for%20Semantic%20Foggy%20Scene%20Understanding.pdf) | [Code](https://people.ee.ethz.ch/~csakarid/Model_adaptation_SFSU_dense/) | IJCV | 2020 | [BibTeX](assets/bibtex/dai2020curriculum.txt) |
-|  | MGML | **Complementary Masked-Guided Meta-Learning for Domain Adaptive Nighttime Segmentation** | [Paper](Complementary_Masked-Guided_Meta-Learning_for_Domain_Adaptive_Nighttime_Segmentation.pdf) | - | IEEE | 2024 | [BibTeX](assets/bibtex/chen2024complementary.txt) |
-|  | - | **Improving semantic segmentation under hazy weather for autonomous vehicles using explainable artificial intelligence and adaptive dehazing approach** | [Paper](Improving_Semantic_Segmentation_Under_Hazy_Weather_for_Autonomous_Vehicles_Using_Explainable_Artificial_Intelligence_and_Adaptive_Dehazing_Approach.pdf) | - | IEEE | 2023 | [BibTeX](assets/bibtex/saravanarajan2023improving.txt) |
-
-
-## 2. Joint Restoration & Segmentation
-
-### 2.1 Dehazing/Defogging+ Segmentation
-
-|  | Method | Title | Paper | Code | Venue | Year | BibTeX |
-|:--:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| ⭐ | - | **Towards Robust Rain Removal Against Adversarial Attacks: A Comprehensive Benchmark Analysis and Beyond** | [Paper](Yu_Towards_Robust_Rain_Removal_Against_Adversarial_Attacks_A_Comprehensive_Benchmark_CVPR_2022_paper.pdf) | [Code](https://github.com/yuyisd/Robust_Rain_Removal) | CVPR | 2022 | [BibTeX](assets/bibtex/yu2022towards.txt) |
-| ⭐ | SNE-Seg | **SS-SFDA: Self-Supervised Source-Free Domain Adaptation for Road Segmentation in Hazardous Environments** | [Paper](Kothandaraman_SS-SFDA_Self-Supervised_Source-Free_Domain_Adaptation_for_Road_Segmentation_in_Hazardous_ICCVW_2021_paper.pdf) | [Code](https://gamma.umd.edu/weatherSAfE/) | ICCV | 2021 | [BibTeX](assets/bibtex/kothandaraman2021ss.txt) |
-|  | - | **Budget-Aware Road Semantic Segmentation in Unseen Foggy Scenes** | [Paper](Budget-Aware_Road_Semantic_Segmentation_in_Unseen_Foggy_Scenes.pdf) | - | RIVF | 2023 | [BibTeX](assets/bibtex/to2023budget.txt) |
-|  | - | **Cooperative Semantic Segmentation and Image Restoration in Adverse Environmental Conditions** | [Paper](Cooperative%20Semantic%20Segmentation%20and%20Image%20Restoration%20in%20Adverse%20Environmental%20Conditions.pdf) | - | arXiv | 2019 | [BibTeX](assets/bibtex/xia2019cooperative.txt) |
-|  | - | **A Convolutional Network for Joint Deraining and Dehazing from A Single Image for Autonomous Driving in Rain** | [Paper](A_Convolutional_Network_for_Joint_Deraining_and_Dehazing_from_A_Single_Image_for_Autonomous_Driving_in_Rain.pdf) | - | IROS | 2019 | [BibTeX](assets/bibtex/sun2019convolutional.txt) |
-
-### 2.7 JPEG Decoding + Segmentation
-
-|  | Method | Title | Paper | Code | Venue | Year | BibTeX |
-|:--:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| ⭐ | DSSLIC | **DSSLIC: Deep Semantic Segmentation-based Layered Image Compression** | [Paper](DSSLIC_Deep_Semantic_Segmentation-based_Layered_Image_Compression.pdf) | [Code](https://github.com/makbari7/DSSLIC) | ICASSP | 2019 | [BibTeX](assets/bibtex/akbari2019dsslic.txt) |
-|  | DCT-CompSegNet | **DCT-CompSegNet: fast layout segmentation in DCT compressed JPEG document images using deep feature learning** | [Paper](DCT-CompSegNet%20fast%20layout%20segmentation%20in%20DCT%20compressed%20JPEG%20document%20images%20using%20deep%20feature%20learning.pdf) | - | MTA | 2024 | [BibTeX](assets/bibtex/rajesh2024dct.txt) |
-|  | - | **Semantic segmentation in learned compressed domain** | [Paper](Semantic_Segmentation_In_Learned_Compressed_Domain.pdf) | - | PCS | 2022 | [BibTeX](assets/bibtex/liu2022semantic.txt) |
-|  | ERA | **Reverse Error Modeling for Improved Semantic Segmentation** | [Paper](Reverse_Error_Modeling_for_Improved_Semantic_Segmentation.pdf) | - | ICIP | 2022 | [BibTeX](assets/bibtex/kuhn2022reverse.txt) |
-|  | CCAFFMNet | **CCAFFMNet: Dual-spectral semantic segmentation network with channel-coordinate attention feature fusion module** | [Paper](CCAFFMNet%20Dual-spectral%20semantic%20segmentation%20network%20with%20channel-coordinate%20attention%20feature%20fusion%20module.pdf) | - | Neurocomputing | 2022 | [BibTeX](assets/bibtex/yi2022ccaffmnet.txt) |
-|  | - | **Deep Learning Based Image Segmentation Directly in the JPEG Compressed Domain** | [Paper](Deep_Learning_Based_Image_Segmentation_Directly_in_the_JPEG_Compressed_Domain.pdf) | - | UPCON | 2021 | [BibTeX](assets/bibtex/singh2021deep.txt) |
-
-### 2.4 Deblurring + Segmentation
-
-|  | Method | Title | Paper | Code | Venue | Year | BibTeX |
-|:--:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-| ⭐ | - | **From Motion Blur to Motion Flow: a Deep Learning Solution for Removing Heterogeneous Motion Blur** | [Paper](Gong_From_Motion_Blur_CVPR_2017_paper.pdf) | [Code](https://donggong1.github.io/blur2mflow) | CVPR | 2017 | [BibTeX](assets/bibtex/gong2017motion.txt) |
-|  | - | **Effective image restoration for semantic segmentation** | [Paper](Effective%20image%20restoration%20for%20semantic%20segmentation.pdf) | - | Neurocomputing | 2020 | [BibTeX](assets/bibtex/niu2020effective.txt) |
-
-### 2.6 Low-Light Enhancement + Segmentation
-
-|  | Method | Title | Paper | Code | Venue | Year | BibTeX |
-|:--:|:----:|:----:|:----:|:----:|:----:|:----:|:----:|
-|  | - | **Semantic segmentation of JPEG blocks using a deep CNN for non-aligned JPEG forgery detection and localization** | [Paper](Semantic%20segmentation%20of%20JPEG%20blocks%20using%20a%20deep%20CNN%20for%20non-aligned%20JPEG%20forgery%20detection%20and%20localization.pdf) | - | MTA | 2020 | [BibTeX](assets/bibtex/alipour2020semantic.txt) |
+| Title | Authors | Year | Venue | Code | BibTeX |
+|:------|:--------|:----:|:-----:|:----:|:------:|
+| Event-assisted low-light video object segmentation | Li et al. | 2024 | CVPR | [Code](https://github.com/HebeiFast/EventLowLightVOS) | [BibTeX](assets/bibtex/li2024event.txt) |
+| Cmda: Cross-modality domain adaptation for nighttime semantic segmentation | Xia et al. | 2023 | ICCV | [Code](https://github.com/XiaRho/CMDA) | [BibTeX](assets/bibtex/xia2023cmda.txt) |
+| Semantic Segmentation Research of Motion Blurred Images by Event Camera | Liu et al. | 2023 | International Confer... | - | [BibTeX](assets/bibtex/liu2023semantic.txt) |
 
 ---
 
-## 📚 Citation
+## Citation
 
 If you find this survey helpful, please cite:
 
@@ -270,18 +291,17 @@ If you find this survey helpful, please cite:
 }
 ```
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions! Please feel free to submit a Pull Request to add new papers or fix any issues.
 
-## 📧 Contact
+## Contact
 
-- **Linwei Chen** - Beijing Institute of Technology - 
+- **Linwei Chen** - chenlinwei.ai@gmail.com
 - **Ying Fu** (Corresponding Author) - fuying@bit.edu.cn
 
 ---
 
 <div align="center">
-Made with ❤️ for the Computer Vision Community
+Made with care for the Computer Vision Community
 </div>
-
