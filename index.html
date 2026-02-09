@@ -16,6 +16,8 @@
         .hero-pattern { background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%236366f1' fill-opacity='0.05'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E"); }
         .filter-btn.active { background: linear-gradient(135deg, #6366f1 0%, #8b5cf6 100%); color: white; }
         .section-header { background: linear-gradient(90deg, rgba(99,102,241,0.2) 0%, transparent 100%); }
+        .paper-card:hover { transform: translateY(-2px); box-shadow: 0 10px 40px rgba(99, 102, 241, 0.2); }
+        .paper-card { transition: all 0.3s ease; }
     </style>
 </head>
 <body class="gradient-bg min-h-screen text-gray-100">
@@ -47,8 +49,8 @@
                 Comprehensive overview of robust segmentation under adverse weather, challenging light, digital artifacts, blur, and noise conditions.
             </p>
             <div class="flex flex-wrap justify-center gap-4 mb-10">
-                <div class="px-6 py-3 card-gradient rounded-xl"><div class="text-3xl font-bold text-indigo-400">135+</div><div class="text-gray-500 text-sm">Papers</div></div>
-                <div class="px-6 py-3 card-gradient rounded-xl"><div class="text-3xl font-bold text-green-400">27+</div><div class="text-gray-500 text-sm">With Code</div></div>
+                <div class="px-6 py-3 card-gradient rounded-xl"><div class="text-3xl font-bold text-indigo-400">135</div><div class="text-gray-500 text-sm">Papers</div></div>
+                <div class="px-6 py-3 card-gradient rounded-xl"><div class="text-3xl font-bold text-green-400">27</div><div class="text-gray-500 text-sm">With Code</div></div>
                 <div class="px-6 py-3 card-gradient rounded-xl"><div class="text-3xl font-bold text-purple-400">3</div><div class="text-gray-500 text-sm">Strategies</div></div>
             </div>
             <img src="assets/images/taxonomy_overview.png" alt="Taxonomy" class="max-w-4xl mx-auto rounded-2xl shadow-2xl glow w-full">
@@ -64,11 +66,11 @@
     <!-- Papers Section -->
     <section id="papers" class="container mx-auto px-6 py-8">
         <div class="flex flex-wrap justify-center gap-3 mb-8">
-            <button onclick="filterPapers('all')" class="filter-btn active px-4 py-2 rounded-lg bg-gray-800 hover:bg-gray-700 transition">All Papers</button>
-            <button onclick="filterPapers('code')" class="filter-btn px-4 py-2 rounded-lg bg-gray-800 hover:bg-gray-700 transition"><i class="fas fa-code mr-2"></i>With Code</button>
-            <button onclick="filterPapers('da')" class="filter-btn px-4 py-2 rounded-lg bg-gray-800 hover:bg-gray-700 transition">DA/DG</button>
-            <button onclick="filterPapers('jrs')" class="filter-btn px-4 py-2 rounded-lg bg-gray-800 hover:bg-gray-700 transition">Joint Restoration</button>
-            <button onclick="filterPapers('mm')" class="filter-btn px-4 py-2 rounded-lg bg-gray-800 hover:bg-gray-700 transition">Multi-Modal</button>
+            <button onclick="filterPapers('all')" class="filter-btn active px-4 py-2 rounded-lg bg-gray-800 hover:bg-gray-700 transition">All (135)</button>
+            <button onclick="filterPapers('code')" class="filter-btn px-4 py-2 rounded-lg bg-gray-800 hover:bg-gray-700 transition"><i class="fas fa-code mr-2"></i>With Code (27)</button>
+            <button onclick="filterPapers('da')" class="filter-btn px-4 py-2 rounded-lg bg-gray-800 hover:bg-gray-700 transition">DA/DG (74)</button>
+            <button onclick="filterPapers('jrs')" class="filter-btn px-4 py-2 rounded-lg bg-gray-800 hover:bg-gray-700 transition">Joint Restoration (46)</button>
+            <button onclick="filterPapers('mm')" class="filter-btn px-4 py-2 rounded-lg bg-gray-800 hover:bg-gray-700 transition">Multi-Modal (15)</button>
         </div>
         <div id="papers-container"></div>
     </section>
@@ -97,107 +99,183 @@
     </div>
 
     <script>
+    // Complete data for all 135 papers from Table 6
     const papersData = {
         "1. Domain Adaptation & Generalization (DA/DG)": {
-            "1.1 Adversarial Learning": [
-                {key: "vu2019advent", title: "ADVENT: Adversarial Entropy Minimization for Domain Adaptation", year: "2019", venue: "CVPR", code: "https://github.com/valeoai/ADVENT"},
-                {key: "liu2021fiss", title: "FISS GAN: Foggy Image Semantic Segmentation GAN", year: "2021", venue: "JAS"},
-                {key: "erkent2020semantic", title: "Semantic Segmentation with UDA Under Varying Weather", year: "2020", venue: "RAL"},
-                {key: "wu2021one", title: "DANIA: One-sided UDA for Nighttime Segmentation", year: "2021", venue: "ICCV"},
-                {key: "dong2023icda", title: "ICDA: Illumination-Coupled Domain Adaptation", year: "2023", venue: "TITS", code: "https://github.com/Sci-Epiphany/ICDA"},
-                {key: "vertens2020heatnet", title: "HeatNet: Bridging Day-Night Domain Gap", year: "2020", venue: "IV", code: "https://github.com/Rvandewalle/HeatNet"},
+            "1.1 Adversarial Learning Approaches": [
+                {key: "vu2019advent", title: "ADVENT: Adversarial Entropy Minimization for Domain Adaptation in Semantic Segmentation", year: "2019", venue: "CVPR", code: "https://github.com/valeoai/ADVENT"},
+                {key: "liu2021fiss", title: "FISS GAN: A Generative Adversarial Network for Foggy Image Semantic Segmentation", year: "2021", venue: "JAS"},
+                {key: "erkent2020semantic", title: "Semantic Segmentation with UDA Under Varying Weather Conditions for Autonomous Vehicles", year: "2020", venue: "RAL"},
+                {key: "wu2021one", title: "DANIA: One-sided UDA for Unsupervised Nighttime Semantic Segmentation", year: "2021", venue: "PAMI"},
+                {key: "dong2023icda", title: "ICDA: Illumination-Coupled Domain Adaptation Framework for Nighttime Semantic Segmentation", year: "2023", venue: "IJCAI", code: "https://github.com/Sci-Epiphany/ICDA"},
+                {key: "song2020nighttime", title: "Nighttime Road Scene Parsing by Unsupervised Domain Adaptation", year: "2020", venue: "TITS"},
+                {key: "chen2024dual", title: "Dual-branch Teacher-Student with Noise-tolerant Learning for Nighttime Segmentation", year: "2024", venue: "IVC"},
+                {key: "vertens2020heatnet", title: "HeatNet: Bridging the Day-Night Domain Gap in Semantic Segmentation with Thermal Images", year: "2020", venue: "IROS", code: "https://github.com/Rvandewalle/HeatNet"},
+                {key: "miao2023weakly", title: "Weakly Supervised Semantic Segmentation for Point Cloud Based on View-based Adversarial Training", year: "2023", venue: "C&G"},
+                {key: "jiqing2023all", title: "All-weather Road Drivable Area Segmentation Method Based on CycleGAN", year: "2023", venue: "TVC"},
             ],
             "1.2 Feature Alignment": [
-                {key: "lee2022fifo", title: "FIFO: Learning Fog-Invariant Features", year: "2022", venue: "CVPR", code: "https://github.com/sohyun-l/fifo"},
+                {key: "lee2022fifo", title: "FIFO: Learning Fog-Invariant Features for Foggy Scene Segmentation", year: "2022", venue: "CVPR", code: "https://github.com/sohyun-l/fifo"},
                 {key: "sakaridis2025condition", title: "CISS: Condition-Invariant Semantic Segmentation", year: "2025", venue: "TPAMI", code: "https://github.com/Linwei-Chen/CISS"},
-                {key: "bruggemann2023contrastive", title: "CMA: Contrastive Model Adaptation", year: "2023", venue: "ICCV", code: "https://github.com/brdav/cma"},
-                {key: "dong2023degraded", title: "DNISeg: Degraded Image Semantic Segmentation", year: "2023", venue: "TITS", code: "https://github.com/Sci-Epiphany/DNISeg"},
-                {key: "gao2022cross", title: "CCDistill: Cross-Domain Correlation Distillation", year: "2022", venue: "CVPR", code: "https://github.com/Siddharth-Shrivastava7/CCDistill"},
-                {key: "bruggemann2023refign", title: "Refign: Align and Refine for DA", year: "2023", venue: "WACV", code: "https://github.com/brdav/refign"},
+                {key: "bruggemann2023contrastive", title: "CMA: Contrastive Model Adaptation for Cross-Condition Robustness", year: "2023", venue: "ICCV", code: "https://github.com/brdav/cma"},
+                {key: "dong2023degraded", title: "DNISeg: Degraded Image Semantic Segmentation with Contrastive Learning", year: "2023", venue: "CAC", code: "https://github.com/Sci-Epiphany/DNISeg"},
+                {key: "gao2022cross", title: "CCDistill: Cross-Domain Correlation Distillation for Nighttime Semantic Segmentation", year: "2022", venue: "CVPR", code: "https://github.com/Siddharth-Shrivastava7/CCDistill"},
+                {key: "guo2019degraded", title: "DGN: Degraded Image Semantic Segmentation with Dense-Gram Networks", year: "2019", venue: "TIP"},
+                {key: "bruggemann2023refign", title: "Refign: Align and Refine for Adaptation of Semantic Segmentation to Adverse Conditions", year: "2023", venue: "WACV", code: "https://github.com/brdav/refign"},
+                {key: "du2019ssf", title: "SSF-DAN: Separated Semantic Feature Based Domain Adaptation Network", year: "2019", venue: "ICCV"},
+                {key: "wang2022cluster", title: "Cluster Alignment with Target Knowledge Mining for UDA Semantic Segmentation", year: "2022", venue: "TIP"},
+                {key: "peng2021semantic", title: "Semantic Nighttime Image Segmentation via Illumination and Position Aware DA", year: "2021", venue: "ICIP"},
+                {key: "jiang2024computational", title: "CIADA: Computational Imaging for Machine Perception Beyond Aberrations", year: "2024", venue: "TCI"},
+                {key: "li2022learning", title: "Learning Intra-domain Style-invariant Representation for UDA of Semantic Segmentation", year: "2022", venue: "PR"},
+                {key: "kim2020learning", title: "Learning Texture Invariant Representation for Domain Adaptation of Semantic Segmentation", year: "2020", venue: "CVPR"},
             ],
             "1.3 Feature Decomposition": [
-                {key: "bi2024learning", title: "BWG: Learning Fog-invariant via Wavelet", year: "2024", venue: "CVPR", code: "https://github.com/biomedical-image/BWG"},
-                {key: "bi2024generalized", title: "FreD: Generalized Foggy Segmentation via FFT", year: "2024", venue: "ECCV", code: "https://github.com/biomedical-image/FreD"},
-                {key: "chen2024semantic", title: "DAF: Anti-Aliasing Filter for Semantic Seg", year: "2024", venue: "CVPR", code: "https://github.com/ChenLinwei-BJTU/DAF"},
-                {key: "chang2019all", title: "DISE: Domain-Invariant Structure Extraction", year: "2019", venue: "CVPR", code: "https://github.com/a514514772/DISE"},
-                {key: "wei2023disentangle", title: "DTP: Disentangle Nighttime Segmentation", year: "2023", venue: "ICCV"},
+                {key: "bi2024learning", title: "BWG: Learning Generalized Segmentation for Foggy-Scenes by Bi-directional Wavelet Guidance", year: "2024", venue: "AAAI", code: "https://github.com/biomedical-image/BWG"},
+                {key: "bi2024generalized", title: "FreD: Generalized Foggy-Scene Semantic Segmentation by Frequency Decoupling", year: "2024", venue: "CVPR", code: "https://github.com/biomedical-image/FreD"},
+                {key: "lin2024ddfl", title: "DDFL: Dual-Domain Feature Learning for Nighttime Semantic Segmentation", year: "2024", venue: "Displays"},
+                {key: "chen2024semantic", title: "DAF: When Semantic Segmentation Meets Frequency Aliasing", year: "2024", venue: "ICLR", code: "https://github.com/ChenLinwei-BJTU/DAF"},
+                {key: "ma2022both", title: "Both Style and Fog Matter: Cumulative Domain Adaptation for Semantic Foggy Scene Understanding", year: "2022", venue: "CVPR"},
+                {key: "wei2023disentangle", title: "DTP: Disentangle then Parse for Night-time Semantic Segmentation", year: "2023", venue: "ICCV"},
+                {key: "chang2019all", title: "DISE: All About Structure - Adapting Structural Information Across Domains", year: "2019", venue: "CVPR", code: "https://github.com/a514514772/DISE"},
+                {key: "bi2023interactive", title: "AO-SegNet: Interactive Learning of Intrinsic and Extrinsic Properties for All-day Segmentation", year: "2023", venue: "TIP"},
             ],
             "1.4 Self-Training & Pseudo-Labeling": [
-                {key: "iqbal2022fogadapt", title: "FogAdapt: Self-Supervised Foggy Adaptation", year: "2022", venue: "WACV", code: "https://github.com/farzeen-hub/FogAdapt"},
-                {key: "wang2023sdat", title: "SDAT-Former++: Strong Teacher for Fog", year: "2023", venue: "arXiv", code: "https://github.com/wangshuo666/SDAT-Former"},
-                {key: "li2023vblc", title: "VBLC: Visibility Boosted Logit Constrained", year: "2023", venue: "CVPR", code: "https://github.com/BIT-DA/VBLC"},
-                {key: "xu2021cdada", title: "CDAda: Curriculum Domain Adaptation", year: "2021", venue: "ICCV", code: "https://github.com/XuZhang-bit/CDAda"},
-                {key: "li2019bidirectional", title: "BDL: Bidirectional Learning for DA", year: "2019", venue: "CVPR", code: "https://github.com/liyunsheng13/BDL"},
+                {key: "panagiotakopoulos2022online", title: "OnDA: Online Domain Adaptation for Semantic Segmentation in Ever-Changing Conditions", year: "2022", venue: "ECCV"},
+                {key: "niloy2024source", title: "Sat-TTA: Source-Free Online Domain Adaptive Semantic Segmentation of Satellite Images", year: "2024", venue: "ICASSP"},
+                {key: "iqbal2022fogadapt", title: "FogAdapt: Self-supervised Domain Adaptation for Semantic Segmentation of Foggy Images", year: "2022", venue: "Neurocomputing", code: "https://github.com/farzeen-hub/FogAdapt"},
+                {key: "wang2023sdat", title: "SDAT-Former++: A Foggy Scene Semantic Segmentation with Stronger DA Teacher", year: "2023", venue: "RS", code: "https://github.com/wangshuo666/SDAT-Former"},
+                {key: "liao2022unsupervised", title: "Unsupervised Foggy Scene Understanding via Self Spatial-Temporal Label Diffusion", year: "2022", venue: "TIP"},
+                {key: "li2023vblc", title: "VBLC: Visibility Boosting and Logit-Constraint Learning for DA Semantic Segmentation", year: "2023", venue: "AAAI", code: "https://github.com/BIT-DA/VBLC"},
+                {key: "kothandaraman2021ss", title: "SS-SFDA: Self-supervised Source-free DA for Road Segmentation in Hazardous Environments", year: "2021", venue: "ICCV"},
+                {key: "xu2021cdada", title: "CDAda: A Curriculum Domain Adaptation for Nighttime Semantic Segmentation", year: "2021", venue: "ICCV", code: "https://github.com/XuZhang-bit/CDAda"},
+                {key: "shen2023loopda", title: "LoopDA: Constructing Self-loops to Adapt Nighttime Semantic Segmentation", year: "2023", venue: "WACV"},
+                {key: "yang2023two", title: "PLS-DAFormer: A Two-Stage Self-Training Framework for Nighttime Semantic Segmentation", year: "2023", venue: "YAC"},
+                {key: "duan2023sgda", title: "SGDA: A Saliency-Guided Domain Adaptation Network for Nighttime Semantic Segmentation", year: "2023", venue: "ICCSIP"},
+                {key: "huang2023dtbs", title: "DTBS: Dual-Teacher Bi-directional Self-Training for Nighttime Semantic Segmentation", year: "2023", venue: "ECAI"},
+                {key: "ding2023dual", title: "DCL: Dual-level Consistency Learning for UDA Night-time Semantic Segmentation", year: "2023", venue: "ICIP"},
+                {key: "xu2023mada", title: "MADA: Multi-Level Alignment in Domain Adaptation for Nighttime Semantic Segmentation", year: "2023", venue: "ICICML"},
+                {key: "zhao2024stable", title: "SND: Stable Neighbor Denoising for Source-free Domain Adaptive Segmentation", year: "2024", venue: "CVPR"},
+                {key: "prabhu2022augmentation", title: "AUGCO: Augmentation Consistency-guided Self-training for Source-free DA", year: "2022", venue: "NeurIPS-W"},
+                {key: "wang2021ranpaste", title: "RanPaste: Paste Consistency and Pseudo Label for Semisupervised RS Image Segmentation", year: "2021", venue: "TGRS"},
+                {key: "li2019bidirectional", title: "BDL: Bidirectional Learning for Domain Adaptation of Semantic Segmentation", year: "2019", venue: "CVPR", code: "https://github.com/liyunsheng13/BDL"},
+                {key: "zhang2023hybrid", title: "HDL: A Hybrid Domain Learning Framework for Unsupervised Semantic Segmentation", year: "2023", venue: "Neurocomputing"},
+                {key: "lu2024self", title: "Self Pseudo Entropy Knowledge Distillation for Semi-supervised Semantic Segmentation", year: "2024", venue: "TCSVT"},
             ],
             "1.5 Knowledge Distillation": [
-                {key: "li2022weather", title: "MTKD: Multi-Task KD for Weather", year: "2022", venue: "WACV"},
-                {key: "amirkhani2021robust", title: "Multi-Teacher KD for Robustness", year: "2021", venue: "CVPRW"},
-                {key: "yang2022self", title: "Self-Feature Distillation for Degradation", year: "2022", venue: "ECCV"},
+                {key: "li2022weather", title: "MTKD: Weather-degraded Image Semantic Segmentation with Multi-Task Knowledge Distillation", year: "2022", venue: "IVC"},
+                {key: "amirkhani2021robust", title: "Robust Semantic Segmentation with Multi-Teacher Knowledge Distillation", year: "2021", venue: "IEEE Access"},
+                {key: "yang2022self", title: "Self-feature Distillation with Uncertainty Modeling for Degraded Image Recognition", year: "2022", venue: "ECCV"},
+                {key: "holder2021efficient", title: "Efficient Uncertainty Estimation in Semantic Segmentation via Distillation", year: "2021", venue: "ICCV"},
+                {key: "lin2023lightweight", title: "Lightweight Deep Learning for Panoramic Dental X-ray Image Segmentation", year: "2023", venue: "NCA"},
             ],
             "1.6 Test-Time Adaptation & Continual Learning": [
-                {key: "wang2022continual", title: "CoTTA: Continual Test-Time Adaptation", year: "2022", venue: "CVPR", code: "https://github.com/qinenergy/cotta"},
-                {key: "kalb2023principles", title: "Principles for Continual Weather Adaptation", year: "2023", venue: "CVPRW"},
-                {key: "marsden2022continual", title: "CACE: Class-specific Transfer for CL", year: "2022", venue: "ECCV"},
+                {key: "wang2022continual", title: "CoTTA: Continual Test-Time Domain Adaptation", year: "2022", venue: "CVPR", code: "https://github.com/qinenergy/cotta"},
+                {key: "liu2023test", title: "Test-time Adaptation for Nighttime Color-Thermal Semantic Segmentation", year: "2023", venue: "TAI"},
+                {key: "bertrand2023test", title: "Test-time Training for Matching-based Video Object Segmentation", year: "2023", venue: "NeurIPS"},
+                {key: "moriyasu2023top", title: "Top-K Confidence Map Aggregation for Robust Semantic Segmentation", year: "2023", venue: "ICIP"},
+                {key: "camuffo2024enhanced", title: "PAN: Enhanced Model Robustness via Per-corruption Adaptation of Normalization Statistics", year: "2024", venue: "IROS"},
+                {key: "kalb2023principles", title: "Principles of Forgetting in Domain-Incremental Semantic Segmentation in Adverse Weather", year: "2023", venue: "CVPR"},
+                {key: "marsden2022continual", title: "CACE: Continual UDA for Semantic Segmentation Using a Class-specific Transfer", year: "2022", venue: "IJCNN"},
+                {key: "wang2023rethinking", title: "EndoCSS: Rethinking Exemplars for Continual Semantic Segmentation in Endoscopy Scenes", year: "2023", venue: "CIBM"},
+                {key: "xu2024privacy", title: "Privacy-Preserving Synthetic Continual Semantic Segmentation for Robotic Surgery", year: "2024", venue: "TMI"},
+                {key: "colomer2023adapt", title: "HAMLET: To Adapt or Not to Adapt? Real-time Adaptation for Semantic Segmentation", year: "2023", venue: "ICCV"},
             ],
             "1.7 Other DA/DG Strategies": [
-                {key: "sakaridis2019guided", title: "GCMA: Guided Curriculum Model Adaptation", year: "2019", venue: "ICCV", code: "https://github.com/sakaridis/GCMA"},
-                {key: "sakaridis2020map", title: "MGCDA: Map-Guided Curriculum DA", year: "2020", venue: "CVPR", code: "https://github.com/sakaridis/MGCDA"},
-                {key: "dai2020curriculum", title: "CMAda: Curriculum Model Adaptation for Fog", year: "2020", venue: "CVPR"},
-            ]
+                {key: "qiao2020learning", title: "M-ADA: Learning to Learn Single Domain Generalization", year: "2020", venue: "CVPR"},
+                {key: "chen2024complementary", title: "MGML: Complementary Masked-Guided Meta-Learning for DA Nighttime Segmentation", year: "2024", venue: "SPL"},
+                {key: "sakaridis2018model", title: "SFSU: Model Adaptation with Synthetic and Real Data for Semantic Foggy Scene Understanding", year: "2018", venue: "ECCV"},
+                {key: "dai2020curriculum", title: "CMAda: Curriculum Model Adaptation for Semantic Foggy Scene Understanding", year: "2020", venue: "IJCV"},
+                {key: "sakaridis2019guided", title: "GCMA: Guided Curriculum Model Adaptation for Semantic Nighttime Segmentation", year: "2019", venue: "ICCV", code: "https://github.com/sakaridis/GCMA"},
+                {key: "sakaridis2020map", title: "MGCDA: Map-guided Curriculum Domain Adaptation for Semantic Nighttime Segmentation", year: "2020", venue: "PAMI", code: "https://github.com/sakaridis/MGCDA"},
+                {key: "termohlen2023re", title: "ReVT: A Re-Parameterized Vision Transformer for Domain-Generalized Semantic Segmentation", year: "2023", venue: "ICCV"},
+                {key: "kennerley2024cat", title: "CAT-Seg: Exploiting Inter-Class Dynamics for Domain Adaptive Object Detection", year: "2024", venue: "CVPR"},
+            ],
         },
         "2. Joint Restoration & Segmentation": {
             "2.1 Dehazing/Defogging + Segmentation": [
-                {key: "xia2019cooperative", title: "Cooperative Training for Fog/Noise/JPEG", year: "2019", venue: "CVPR"},
-                {key: "sun2022rethinking", title: "Joint Restoration-Detection for Fog/Rain", year: "2022", venue: "CVPR"},
+                {key: "xia2019cooperative", title: "Cooperative Semantic Segmentation and Image Restoration in Adverse Environmental Conditions", year: "2019", venue: "arXiv"},
+                {key: "saravanarajan2023improving", title: "Improving Semantic Segmentation Under Hazy Weather Using Explainable AI", year: "2023", venue: "IEEE Access"},
+                {key: "sun2022rethinking", title: "Rethinking Image Restoration for Object Detection", year: "2022", venue: "NeurIPS"},
+                {key: "to2023budget", title: "Budget-Aware Road Semantic Segmentation in Unseen Foggy Scenes", year: "2023", venue: "CoRL"},
+                {key: "sun2019convolutional", title: "A Convolutional Network for Joint Deraining and Dehazing from a Single Image", year: "2019", venue: "IROS"},
             ],
             "2.2 Deraining + Segmentation": [
-                {key: "wang2021raining", title: "DRSNet: Real-time Deraining Segmentation", year: "2021", venue: "TIP"},
-                {key: "zheng2022sapnet", title: "SAPNet: Segmentation-Aware Deraining", year: "2022", venue: "CVPR"},
-                {key: "zhang2022beyond", title: "EPRRNet: Stereo Deraining with Semantics", year: "2022", venue: "CVPR"},
-                {key: "yu2022towards", title: "Robust Deraining Against Attacks", year: "2022", venue: "CVPR"},
+                {key: "wang2021raining", title: "DRSNet: A De-raining Semantic Segmentation Network for Real-time Foreground Segmentation", year: "2021", venue: "JRTIP"},
+                {key: "huang2025style", title: "SONet: Style Optimization Networks for Real-time Semantic Segmentation of Rainy and Foggy Weather", year: "2025", venue: "SPIC"},
+                {key: "zheng2022sapnet", title: "SAPNet: Segmentation-aware Progressive Network for Perceptual Contrastive Deraining", year: "2022", venue: "WACV"},
+                {key: "zhang2022beyond", title: "EPRRNet: Beyond Monocular Deraining - Stereo Deraining Network via Semantic Prior", year: "2022", venue: "IJCV"},
+                {key: "chen2024learning", title: "Learning A Rain-Invariant Network For Instance Segmentation In The Rain", year: "2024", venue: "ICIP"},
+                {key: "wang2023rcdnet", title: "RCDNet: An Interpretable Rain Convolutional Dictionary Network for Image Deraining", year: "2023", venue: "TNNLS"},
+                {key: "jiang2025drnet", title: "DRNet: Learning a Dynamic Recursion Network for Chaotic Rain Streak Removal", year: "2025", venue: "PR"},
+                {key: "zhao2023real", title: "STRAIN: Real Rainy Scene Analysis - A Dual-module Benchmark for Image Deraining and Segmentation", year: "2023", venue: "ICIP"},
+                {key: "yu2022towards", title: "Towards Robust Rain Removal Against Adversarial Attacks", year: "2022", venue: "CVPR"},
+                {key: "porav2019can", title: "I Can See Clearly Now: Image Restoration via De-raining", year: "2019", venue: "ICRA"},
+                {key: "alsharay2022improved", title: "Improved Sea-ice Identification Using Semantic Segmentation with Raindrop Removal", year: "2022", venue: "IEEE Access"},
+                {key: "zhang2024rainy", title: "Rainy Day Image Semantic Segmentation Based on Two-stage Progressive Network", year: "2024", venue: "TVC"},
             ],
             "2.3 Denoising + Segmentation": [
-                {key: "marrs2023plug", title: "Plug-and-Play Denoising for Detection/Seg", year: "2023", venue: "CVPR"},
-                {key: "brempong2022denoising", title: "DDeP: Denoising Pretraining", year: "2022", venue: "NeurIPS"},
-                {key: "yuan2023segmentation", title: "SARDeSeg: Self-Supervised SAR Denoising", year: "2023", venue: "TGRS"},
-                {key: "ma2024aatct", title: "Denoising Benchmark for CT Segmentation", year: "2024", venue: "MedIA"},
+                {key: "marrs2023plug", title: "Plug-and-Play Joint Image Deblurring and Detection", year: "2023", venue: "WIFS"},
+                {key: "brempong2022denoising", title: "DDeP: Denoising Pretraining for Semantic Segmentation", year: "2022", venue: "CVPRW"},
+                {key: "niu2020effective", title: "Effective Image Restoration for Semantic Segmentation", year: "2020", venue: "Neurocomputing"},
+                {key: "wang2021efnet", title: "EFNet: Enhancement-Fusion Network for Semantic Segmentation", year: "2021", venue: "PR"},
+                {key: "cho2020dapas", title: "DAPAS: Denoising Autoencoder to Prevent Adversarial Attack in Semantic Segmentation", year: "2020", venue: "IJCNN"},
+                {key: "qiu2020improved", title: "Improved Denoising Autoencoder for Maritime Image Denoising and Semantic Segmentation", year: "2020", venue: "China Comm."},
+                {key: "yuan2023segmentation", title: "SARDeSeg: Segmentation-guided Semantic-aware Self-supervised Denoising for SAR", year: "2023", venue: "TGRS"},
+                {key: "lee2022speckle", title: "DCAIP: Speckle Reduction via Deep Content-Aware Image Prior for Breast Tumor Segmentation", year: "2022", venue: "TUFFC"},
+                {key: "chen2020dn", title: "DN-GAN: Denoising GAN for Speckle Noise Reduction in OCT Images", year: "2020", venue: "BSPC"},
+                {key: "ma2024aatct", title: "AATCT-IDS: A Benchmark CT Dataset for Image Denoising and Semantic Segmentation", year: "2024", venue: "CIBM"},
+                {key: "wang2024multi", title: "ICER-Net: Multi Task Deep Learning Phase Unwrapping Based on Semantic Segmentation", year: "2024", venue: "J. Optics"},
+                {key: "2023lis", title: "LIS: Instance Segmentation in the Dark", year: "2023", venue: "IJCV"},
             ],
             "2.4 Deblurring + Segmentation": [
-                {key: "pan2019joint", title: "Joint Stereo Deblurring and Segmentation", year: "2019", venue: "CVPR"},
-                {key: "saha2024turb", title: "Turb-Seg-Res: Turbulence Restoration", year: "2024", venue: "CVPR"},
+                {key: "pan2019joint", title: "Joint Stereo Video Deblurring, Scene Flow Estimation and Moving Object Segmentation", year: "2019", venue: "TIP"},
+                {key: "saha2024turb", title: "Turb-Seg-Res: A Segment-then-Restore Pipeline for Videos with Atmospheric Turbulence", year: "2024", venue: "CVPR"},
+                {key: "gong2017motion", title: "From Motion Blur to Motion Flow: A Deep Learning Solution for Removing Motion Blur", year: "2017", venue: "CVPR"},
+                {key: "shen2020automatic", title: "BDNet: Automatic Extraction of Blur Regions Based on Semantic Segmentation", year: "2020", venue: "IEEE Access"},
             ],
             "2.5 Snow/Dust Removal + Segmentation": [
-                {key: "zhang2021deep", title: "DDMSNet: Joint Snow Removal and Seg", year: "2021", venue: "TIP"},
-                {key: "buckel2023semantic", title: "S-Dust: Segment-then-Inpaint for Dust", year: "2023", venue: "CVPRW"},
+                {key: "zhang2021deep", title: "DDMSNet: Deep Dense Multi-scale Network for Snow Removal Using Semantic and Depth Priors", year: "2021", venue: "TIP"},
+                {key: "buckel2023semantic", title: "S-Dust: Semantic Segmentation and Inpainting of Dust with the S-Dust Dataset", year: "2023", venue: "ICRA-W"},
             ],
             "2.6 Low-Light Enhancement + Segmentation": [
-                {key: "ma2022toward", title: "SCI+: Self-Calibrated Low-Light Enhancement", year: "2022", venue: "CVPR"},
-                {key: "liu2023improving", title: "IA-Seg: Image-Adaptive Nighttime Seg", year: "2023", venue: "TIV"},
-                {key: "sun2024nighttime", title: "RNightSeg: Retinex-based Nighttime Seg", year: "2024", venue: "TIV"},
+                {key: "ma2022toward", title: "SCI+: Toward Fast, Flexible, and Robust Low-Light Image Enhancement", year: "2022", venue: "CVPR"},
+                {key: "liu2023improving", title: "IA-Seg: Improving Nighttime Driving-Scene Segmentation via Dual Image-Adaptive Learnable Filters", year: "2023", venue: "TCSVT"},
+                {key: "sun2024nighttime", title: "RNightSeg: Nighttime Image Semantic Segmentation with Retinex Theory", year: "2024", venue: "IVC"},
+                {key: "zhang2021towards", title: "LISU: Towards Learning Low-light Indoor Semantic Segmentation with Illumination-Invariant Features", year: "2021", venue: "ISPRS"},
+                {key: "liu2024lane", title: "UET-STDC: Lane Detection Based on Real-time Semantic Segmentation for Low-light Conditions", year: "2024", venue: "DSP"},
             ],
             "2.7 JPEG Decoding + Segmentation": [
-                {key: "alipour2020semantic", title: "Semantic Seg of JPEG Blocks", year: "2020", venue: "ICIP"},
-                {key: "kuhn2022reverse", title: "Reverse Error Modeling for Compression", year: "2022", venue: "CVPR"},
-            ]
+                {key: "alipour2020semantic", title: "Semantic Segmentation of JPEG Blocks for Non-aligned JPEG Forgery Detection", year: "2020", venue: "MTA"},
+                {key: "akbari2019dsslic", title: "DSSLIC: Deep Semantic Segmentation-based Layered Image Compression", year: "2019", venue: "ICASSP"},
+                {key: "singh2021deep", title: "Deep Learning Based Image Segmentation Directly in the JPEG Compressed Domain", year: "2021", venue: "UPSCON"},
+                {key: "liu2022semantic", title: "Semantic Segmentation in Learned Compressed Domain", year: "2022", venue: "PCS"},
+                {key: "rajesh2024dct", title: "DCT-CompSegNet: Fast Layout Segmentation in DCT Compressed JPEG Document Images", year: "2024", venue: "MTA"},
+                {key: "kuhn2022reverse", title: "Reverse Error Modeling for Improved Semantic Segmentation", year: "2022", venue: "ICIP"},
+            ],
         },
         "3. Multi-Modal Fusion": {
             "3.1 RGB + Thermal Fusion": [
-                {key: "sun2019rtfnet", title: "RTFNet: RGB-Thermal Fusion Network", year: "2019", venue: "RAL", code: "https://github.com/yuxiangsun/RTFNet"},
-                {key: "sun2020fuseseg", title: "FuseSeg: Semantic Segmentation via Fusion", year: "2020", venue: "IROS", code: "https://github.com/yuxiangsun/FuseSeg"},
-                {key: "pfeuffer2019robust", title: "LateFusion for Adverse Weather", year: "2019", venue: "IV"},
-                {key: "yi2022ccaffmnet", title: "CCAFFMNet: Cross-Modal Attention Fusion", year: "2022", venue: "Sensors"},
+                {key: "pfeuffer2019robust", title: "LateFusion: Robust Semantic Segmentation in Adverse Weather by Means of Sensor Data Fusion", year: "2019", venue: "IV"},
+                {key: "yi2022ccaffmnet", title: "CCAFFMNet: Dual-spectral Semantic Segmentation with Channel-Coordinate Attention Fusion", year: "2022", venue: "Neurocomputing"},
+                {key: "xiong2021mcnet", title: "MCNet: Multi-level Correction Network for Thermal Image Semantic Segmentation", year: "2021", venue: "IRPT"},
+                {key: "sun2019rtfnet", title: "RTFNet: RGB-Thermal Fusion Network for Semantic Segmentation of Urban Scenes", year: "2019", venue: "RAL", code: "https://github.com/yuxiangsun/RTFNet"},
+                {key: "sun2020fuseseg", title: "FuseSeg: Semantic Segmentation of Urban Scenes Based on RGB and Thermal Data Fusion", year: "2020", venue: "T-ASE", code: "https://github.com/yuxiangsun/FuseSeg"},
+                {key: "ni2024illumination", title: "CMEFNet: Illumination Robust Semantic Segmentation Based on Cross-dimensional Multispectral Edge Fusion", year: "2024", venue: "IEEE Access"},
             ],
             "3.2 RGB + LiDAR/Depth Fusion": [
-                {key: "zhang2023delivering", title: "DeLiVER: Depth-LiDAR-Visual Encoder", year: "2023", venue: "CVPR", code: "https://github.com/jamycheung/DELIVER"},
-                {key: "tian2020uno", title: "UNO: Uncertainty-aware Fusion for RGB-D", year: "2020", venue: "IROS", code: "https://github.com/tudelft-iv/UNO-IC"},
-                {key: "vachmanus2021multi", title: "Multi-Modal Fusion for Snow Driving", year: "2021", venue: "Sensors"},
+                {key: "vachmanus2021multi", title: "Multi-modal Sensor Fusion-based Semantic Segmentation for Snow Driving Scenarios", year: "2021", venue: "Sensors"},
+                {key: "zhang2023delivering", title: "DeLiVER: Delivering Arbitrary-Modal Semantic Segmentation", year: "2023", venue: "CVPR", code: "https://github.com/jamycheung/DELIVER"},
+                {key: "guo2025low", title: "LLE-Seg: Low-Light Enhancement and Global-Local Feature Interaction for RGB-T Semantic Segmentation", year: "2025", venue: "TIM"},
+                {key: "zhang2024adaptive", title: "Adaptive Entropy Multi-modal Fusion for Nighttime Lane Segmentation", year: "2024", venue: "TITS"},
+                {key: "tian2020uno", title: "UNO: Uncertainty-aware Noisy-or Multimodal Fusion for Unanticipated Input Degradation", year: "2020", venue: "ICRA", code: "https://github.com/tudelft-iv/UNO-IC"},
+                {key: "zhou2022multi", title: "GNN: Multi-robot Collaborative Perception with Graph Neural Networks", year: "2022", venue: "RAL"},
             ],
             "3.3 RGB + Event Camera Fusion": [
-                {key: "xia2023cmda", title: "CMDA: Cross-Modality DA for Nighttime", year: "2023", venue: "ICCV", code: "https://github.com/XiaRho/CMDA"},
-                {key: "li2024event", title: "LLE-VOS: Event-assisted Low-Light VOS", year: "2024", venue: "CVPR", code: "https://github.com/HebeiFast/EventLowLightVOS"},
-                {key: "liu2023semantic", title: "Event Camera for Motion Blur Seg", year: "2023", venue: "CVCI"},
-            ]
-        }
+                {key: "liu2023semantic", title: "Semantic Segmentation Research of Motion Blurred Images by Event Camera", year: "2023", venue: "CVCI"},
+                {key: "li2024event", title: "LLE-VOS: Event-assisted Low-Light Video Object Segmentation", year: "2024", venue: "CVPR", code: "https://github.com/HebeiFast/EventLowLightVOS"},
+                {key: "xia2023cmda", title: "CMDA: Cross-Modality Domain Adaptation for Nighttime Semantic Segmentation", year: "2023", venue: "ICCV", code: "https://github.com/XiaRho/CMDA"},
+            ],
+        },
     };
 
     function getCategoryType(section) {
@@ -215,7 +293,7 @@
             const catType = getCategoryType(section);
             if (filter !== 'all' && filter !== 'code' && filter !== catType) continue;
 
-            let sectionHtml = `<div class="mb-8 section-header rounded-lg p-4 border-l-4 border-indigo-500"><h2 class="text-xl font-bold text-indigo-300">${section}</h2></div>`;
+            let sectionHtml = `<div class="mb-6 section-header rounded-lg p-4 border-l-4 border-indigo-500"><h2 class="text-xl font-bold text-indigo-300">${section}</h2></div>`;
             let hasContent = false;
 
             for (const [subsection, papers] of Object.entries(subsections)) {
@@ -227,21 +305,22 @@
                 hasContent = true;
 
                 sectionHtml += `<h3 class="text-lg font-semibold text-gray-300 mb-4 ml-4">${subsection}</h3>`;
-                sectionHtml += `<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-4 mb-6">`;
+                sectionHtml += `<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 mb-6">`;
 
                 for (const p of filteredPapers) {
+                    const mainLink = p.code || `https://scholar.google.com/scholar?q=${encodeURIComponent(p.title)}`;
                     sectionHtml += `
-                    <div class="card-gradient rounded-xl p-4 border border-gray-800 hover:border-indigo-500/50 transition">
+                    <a href="${mainLink}" target="_blank" class="paper-card card-gradient rounded-xl p-4 border border-gray-800 hover:border-indigo-500/50 block cursor-pointer">
                         <div class="flex justify-between items-start mb-2">
                             <span class="text-xs text-gray-500">${p.venue} ${p.year}</span>
                             ${p.code ? '<span class="tag-code px-2 py-0.5 rounded text-xs text-white">Code</span>' : ''}
                         </div>
-                        <h4 class="text-sm font-semibold text-white mb-3 line-clamp-2">${p.title}</h4>
-                        <div class="flex gap-2">
-                            ${p.code ? `<a href="${p.code}" target="_blank" class="flex-1 px-3 py-1.5 bg-gray-800 hover:bg-gray-700 rounded text-center text-xs transition"><i class="fab fa-github mr-1"></i>Code</a>` : ''}
-                            <button onclick="copyBibtex('${p.key}')" class="flex-1 px-3 py-1.5 bg-indigo-600 hover:bg-indigo-700 rounded text-center text-xs transition"><i class="fas fa-copy mr-1"></i>BibTeX</button>
+                        <h4 class="text-sm font-semibold text-white mb-3 line-clamp-3">${p.title}</h4>
+                        <div class="flex gap-2 mt-auto">
+                            ${p.code ? `<span class="flex-1 px-2 py-1 bg-gray-800 rounded text-center text-xs"><i class="fab fa-github mr-1"></i>GitHub</span>` : '<span class="flex-1 px-2 py-1 bg-gray-800 rounded text-center text-xs"><i class="fas fa-search mr-1"></i>Scholar</span>'}
+                            <button onclick="event.preventDefault(); event.stopPropagation(); copyBibtex('${p.key}')" class="flex-1 px-2 py-1 bg-indigo-600 hover:bg-indigo-700 rounded text-center text-xs transition"><i class="fas fa-copy mr-1"></i>BibTeX</button>
                         </div>
-                    </div>`;
+                    </a>`;
                 }
                 sectionHtml += `</div>`;
             }
@@ -267,7 +346,8 @@
             toast.classList.remove('translate-y-20', 'opacity-0');
             setTimeout(() => toast.classList.add('translate-y-20', 'opacity-0'), 2000);
         } catch (err) {
-            alert('BibTeX file not found for: ' + bibKey);
+            // Fallback: search on Google Scholar
+            window.open(`https://scholar.google.com/scholar?q=${bibKey}`, '_blank');
         }
     }
 
