@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Visual-Understanding-green?style=flat-square" alt="Visual Understanding">
 </p>
 
-[![Paper](https://img.shields.io/badge/Paper-CJE%202025-green.svg)](https://cje.ejournal.org.cn/)
+[![Paper](https://img.shields.io/badge/Paper-CJE%202026-green.svg)](https://cje.ejournal.org.cn/)
 [![GitHub Stars](https://img.shields.io/github/stars/Linwei-Chen/awesome-degraded-segmentation?style=social)](https://github.com/Linwei-Chen/awesome-degraded-segmentation)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
 
@@ -304,11 +304,11 @@ This survey is essential for **autonomous driving**, **robotics**, and **real-wo
 If you find this survey helpful, please cite:
 
 ```bibtex
-@article{chen2025degraded,
+@article{chen2026degraded,
   title={A Survey on Degraded Image Segmentation},
   author={Chen, Linwei and Fu, Ying and Shangguan, Jingyu and Xu, Jinglin and Peng, Yuxin},
   journal={Chinese Journal of Electronics},
-  year={2025}
+  year={2026}
 }
 ```
 
