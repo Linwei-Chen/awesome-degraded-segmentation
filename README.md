@@ -6,6 +6,12 @@
 
 **A comprehensive survey on robust image segmentation under various degradation conditions**
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Physical-AI-blue?style=flat-square" alt="Physical AI">
+  <img src="https://img.shields.io/badge/World-Model-purple?style=flat-square" alt="World Model">
+  <img src="https://img.shields.io/badge/Visual-Understanding-green?style=flat-square" alt="Visual Understanding">
+</p>
+
 [![Paper](https://img.shields.io/badge/Paper-CJE%202025-green.svg)](https://cje.ejournal.org.cn/)
 [![GitHub Stars](https://img.shields.io/github/stars/Linwei-Chen/awesome-degraded-segmentation?style=social)](https://github.com/Linwei-Chen/awesome-degraded-segmentation)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
@@ -18,9 +24,13 @@
 
 ## Abstract
 
+**Segmentation is the core of visual understanding — the foundation of Physical AI and World Model.**
+
 Image segmentation is a fundamental task in computer vision with wide-ranging applications. While deep learning models have achieved remarkable success under ideal conditions, their performance often degrades catastrophically when faced with real-world image corruptions. These corruptions span several key categories, including adverse weather (*e.g.*, fog, rain, snow), challenging light (*e.g.*, nighttime, low-light), digital artifacts from processing (*e.g.*, compression, color jitter), various forms of blur (*e.g.*, motion, defocus), and pervasive noise (*e.g.*, sensor noise, speckle).
 
 This survey provides a comprehensive and structured overview of the field of degraded image segmentation. We establish a detailed taxonomy of common image degradations impacting segmentation tasks. We review a wide array of datasets and benchmarks designed for evaluating robustness. Furthermore, we systematically analyze state-of-the-art methodologies, categorized by their core technical strategies: **Domain Adaptation and Generalization**, **Joint Restoration-Segmentation techniques**, and **Multi-modal Fusion**.
+
+This survey is essential for **autonomous driving**, **robotics**, and **real-world AI systems** — the core pillars of Physical AI.
 
 ---
 
@@ -34,12 +44,23 @@ This survey provides a comprehensive and structured overview of the field of deg
 
 ---
 
+## Physical AI Applications
+
+<div align="center">
+<img src="assets/images/physical-ai-applications.png" alt="Physical AI Applications" width="900">
+</div>
+
+*Degraded image segmentation is fundamental to Physical AI — enabling reliable perception for autonomous vehicles and robots in real-world environments.*
+
+---
+
 ## Highlights
 
 - **135+ papers** systematically organized following the survey's methodology taxonomy
 - **37 papers with open-source code** are marked with code links
 - Comprehensive coverage of **5 degradation categories**: Weather, Light, Digital, Blur, Noise
 - **3 main methodological strategies**: Domain Adaptation/Generalization, Joint Restoration-Segmentation, Multi-modal Fusion
+- Essential for **Physical AI** — the foundation of autonomous driving, robotics, and real-world AI systems
 
 ---
 
