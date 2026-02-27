@@ -41,21 +41,7 @@
             <h1 class="text-4xl md:text-6xl font-extrabold mb-6">
                 A Survey on<br><span class="bg-clip-text text-transparent bg-gradient-to-r from-indigo-400 via-purple-400 to-pink-400">Degraded Image Segmentation</span>
             </h1>
-            <div class="flex flex-wrap justify-center gap-2 mb-6">
-                <span class="px-3 py-1 bg-blue-600/30 border border-blue-500/50 rounded-full text-blue-300 text-sm">
-                    <i class="fas fa-robot mr-2"></i>Physical AI
-                </span>
-                <span class="px-3 py-1 bg-purple-600/30 border border-purple-500/50 rounded-full text-purple-300 text-sm">
-                    <i class="fas fa-globe mr-2"></i>World Model
-                </span>
-                <span class="px-3 py-1 bg-green-600/30 border border-green-500/50 rounded-full text-green-300 text-sm">
-                    <i class="fas fa-eye mr-2"></i>Visual Understanding
-                </span>
-            </div>
-            <p class="text-lg text-gray-400 max-w-3xl mx-auto mb-8">
-                Segmentation is the core of visual understanding — the foundation of Physical AI and World Model.
-                <br><span class="text-gray-500 text-sm">Essential for autonomous driving, robotics, and real-world AI systems.</span>
-            </p>
+            <p class="text-lg text-gray-400 max-w-3xl mx-auto mb-8">Comprehensive overview of robust segmentation under adverse weather, challenging light, digital artifacts, blur, and noise conditions.</p>
             <div class="flex flex-wrap justify-center gap-4 mb-10">
                 <div class="px-6 py-3 card-gradient rounded-xl"><div class="text-3xl font-bold text-indigo-400">135</div><div class="text-gray-500 text-sm">Papers</div></div>
                 <div class="px-6 py-3 card-gradient rounded-xl"><div class="text-3xl font-bold text-green-400">37</div><div class="text-gray-500 text-sm">With Code</div></div>
@@ -64,15 +50,6 @@
             <img src="assets/images/taxonomy_overview.png" alt="Taxonomy" class="max-w-4xl mx-auto rounded-2xl shadow-2xl glow w-full">
         </div>
     </header>
-    <section class="container mx-auto px-6 py-12">
-        <h2 class="text-2xl font-bold text-center mb-6">
-            <i class="fas fa-rocket mr-3 text-blue-400"></i>Physical AI Applications
-        </h2>
-        <p class="text-center text-gray-400 max-w-2xl mx-auto mb-8">
-            Degraded image segmentation is fundamental to Physical AI — enabling reliable perception for autonomous vehicles and robots in real-world environments.
-        </p>
-        <img src="assets/images/physical-ai-applications.png" alt="Physical AI Applications" class="max-w-5xl mx-auto rounded-2xl shadow-xl w-full">
-    </section>
     <section class="container mx-auto px-6 py-12">
         <h2 class="text-2xl font-bold text-center mb-6"><i class="fas fa-images mr-3 text-indigo-400"></i>Degradation Examples</h2>
         <img src="assets/images/degraded_image.png" alt="Degradation Examples" class="w-full max-w-5xl mx-auto rounded-2xl shadow-xl">
@@ -84,9 +61,6 @@
             <button onclick="filterPapers('da')" class="filter-btn px-4 py-2 rounded-lg bg-gray-800 hover:bg-gray-700 transition">DA/DG (74)</button>
             <button onclick="filterPapers('jrs')" class="filter-btn px-4 py-2 rounded-lg bg-gray-800 hover:bg-gray-700 transition">Joint Restoration (46)</button>
             <button onclick="filterPapers('mm')" class="filter-btn px-4 py-2 rounded-lg bg-gray-800 hover:bg-gray-700 transition">Multi-Modal (15)</button>
-            <button onclick="filterPapers('physical-ai')" class="filter-btn px-4 py-2 rounded-lg bg-gray-800 hover:bg-gray-700 transition"><i class="fas fa-robot mr-2"></i>Physical AI (20)</button>
-            <button onclick="filterPapers('autonomous-driving')" class="filter-btn px-4 py-2 rounded-lg bg-gray-800 hover:bg-gray-700 transition"><i class="fas fa-car mr-2"></i>Autonomous Driving (18)</button>
-            <button onclick="filterPapers('robotics')" class="filter-btn px-4 py-2 rounded-lg bg-gray-800 hover:bg-gray-700 transition"><i class="fas fa-robot mr-2"></i>Robotics (5)</button>
         </div>
         <div id="papers-container"></div>
     </section>
@@ -284,98 +258,26 @@
         if (section.includes("Multi-Modal")) return "mm";
         return "other";
     }
-    function getPaperTags(p) {
-        const tags = [];
-        const title = p.title.toLowerCase();
-        const venue = p.venue.toLowerCase();
-
-        // Physical AI related keywords
-        if (title.includes('physical') || title.includes('robot') || title.includes('autonomous') ||
-            title.includes('driving') || title.includes('vehicle') || title.includes('manipulation') ||
-            title.includes('navigation') || venue.includes('robotics') || venue.includes('icra') ||
-            venue.includes('rss') || title.includes('world model')) {
-            tags.push({ text: 'Physical AI', class: 'bg-blue-600/30 border-blue-500/50 text-blue-300' });
-        }
-
-        // Autonomous Driving
-        if (title.includes('driving') || title.includes('vehicle') || title.includes('road') ||
-            title.includes('lane') || title.includes('traffic') || title.includes('car') ||
-            venue.includes('robotics and automation') || title.includes('nighttime') && title.includes('segmentation')) {
-            tags.push({ text: 'Autonomous Driving', class: 'bg-green-600/30 border-green-500/50 text-green-300' });
-        }
-
-        // Robotics
-        if (title.includes('robot') || title.includes('manipulation') || title.includes('navigation') ||
-            venue.includes('robotics') || venue.includes('icra') || venue.includes('iros') ||
-            venue.includes('rss') || title.includes('uav') || title.includes('drone')) {
-            tags.push({ text: 'Robotics', class: 'bg-purple-600/30 border-purple-500/50 text-purple-300' });
-        }
-
-        // World Model
-        if (title.includes('world model') || title.includes('world model')) {
-            tags.push({ text: 'World Model', class: 'bg-pink-600/30 border-pink-500/50 text-pink-300' });
-        }
-
-        return tags;
-    }
-    function matchesFilter(p, filter) {
-        if (filter === 'all') return true;
-        if (filter === 'code') return !!p.code;
-        const catType = getCategoryType(Object.keys(papersData).find(s => Object.values(papersData[s]).some(ss => ss.includes(p))));
-        if (filter === catType) return true;
-
-        // Physical AI filter
-        if (filter === 'physical-ai') {
-            const title = p.title.toLowerCase();
-            const venue = p.venue.toLowerCase();
-            return title.includes('physical') || title.includes('robot') || title.includes('autonomous') ||
-                   title.includes('driving') || title.includes('vehicle') || title.includes('manipulation') ||
-                   title.includes('navigation') || venue.includes('robotics') || venue.includes('icra') ||
-                   venue.includes('rss') || title.includes('world model');
-        }
-
-        // Autonomous Driving filter
-        if (filter === 'autonomous-driving') {
-            const title = p.title.toLowerCase();
-            const venue = p.venue.toLowerCase();
-            return title.includes('driving') || title.includes('vehicle') || title.includes('road') ||
-                   title.includes('lane') || title.includes('traffic') || title.includes('car') ||
-                   venue.includes('robotics and automation');
-        }
-
-        // Robotics filter
-        if (filter === 'robotics') {
-            const title = p.title.toLowerCase();
-            const venue = p.venue.toLowerCase();
-            return title.includes('robot') || title.includes('manipulation') || title.includes('navigation') ||
-                   venue.includes('robotics') || venue.includes('icra') || venue.includes('iros') ||
-                   venue.includes('rss') || title.includes('uav') || title.includes('drone');
-        }
-
-        return false;
-    }
     function renderPapers(filter = 'all') {
         const container = document.getElementById('papers-container');
         let html = '';
         for (const [section, subsections] of Object.entries(papersData)) {
             const catType = getCategoryType(section);
-            if (filter !== 'all' && filter !== 'code' && filter !== 'physical-ai' && filter !== 'autonomous-driving' && filter !== 'robotics' && filter !== catType) continue;
+            if (filter !== 'all' && filter !== 'code' && filter !== catType) continue;
             let sectionHtml = `<div class="mb-6 section-header rounded-lg p-4 border-l-4 border-indigo-500"><h2 class="text-xl font-bold text-indigo-300">${section}</h2></div>`;
             let hasContent = false;
             for (const [subsection, papers] of Object.entries(subsections)) {
-                let filteredPapers = papers.filter(p => matchesFilter(p, filter));
+                let filteredPapers = papers;
+                if (filter === 'code') filteredPapers = papers.filter(p => p.code);
                 if (filteredPapers.length === 0) continue;
                 hasContent = true;
                 sectionHtml += `<h3 class="text-lg font-semibold text-gray-300 mb-4 ml-4">${subsection}</h3>`;
                 sectionHtml += `<div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 xl:grid-cols-4 gap-4 mb-6">`;
                 for (const p of filteredPapers) {
                     const mainLink = p.code || `https://scholar.google.com/scholar?q=${encodeURIComponent(p.title)}`;
-                    const tags = getPaperTags(p);
-                    const tagsHtml = tags.map(t => `<span class="px-2 py-0.5 rounded-full text-xs border ${t.class}">${t.text}</span>`).join('');
                     sectionHtml += `<a href="${mainLink}" target="_blank" class="paper-card card-gradient rounded-xl p-4 border border-gray-800 hover:border-indigo-500/50 block cursor-pointer">
                         <div class="flex justify-between items-start mb-2"><span class="text-xs text-gray-500">${p.venue} ${p.year}</span>${p.code ? '<span class="tag-code px-2 py-0.5 rounded text-xs text-white">Code</span>' : ''}</div>
                         <h4 class="text-sm font-semibold text-white mb-3 line-clamp-3">${p.title}</h4>
-                        <div class="flex flex-wrap gap-1 mb-3">${tagsHtml}</div>
                         <div class="flex gap-2 mt-auto">${p.code ? '<span class="flex-1 px-2 py-1 bg-gray-800 rounded text-center text-xs"><i class="fab fa-github mr-1"></i>GitHub</span>' : '<span class="flex-1 px-2 py-1 bg-gray-800 rounded text-center text-xs"><i class="fas fa-search mr-1"></i>Scholar</span>'}
                             <button onclick="event.preventDefault(); event.stopPropagation(); copyBibtex('${p.key}')" class="flex-1 px-2 py-1 bg-indigo-600 hover:bg-indigo-700 rounded text-center text-xs transition"><i class="fas fa-copy mr-1"></i>BibTeX</button>
                         </div></a>`;
