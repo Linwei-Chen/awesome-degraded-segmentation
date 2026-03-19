@@ -1,3 +1,20 @@
+---
+license: mit
+task_categories:
+- image-segmentation
+language:
+- en
+tags:
+- survey
+- segmentation
+- degraded-image
+- computer-vision
+- adverse-weather
+- low-light
+- robustness
+pretty_name: Awesome Degraded Segmentation
+---
+
 # A Survey on Degraded Image Segmentation
 
 <div align="center">
@@ -305,10 +322,14 @@ If you find this survey helpful, please cite:
 
 ```bibtex
 @article{chen2026degraded,
-  title={A Survey on Degraded Image Segmentation},
-  author={Chen, Linwei and Fu, Ying and Shangguan, Jingyu and Xu, Jinglin and Peng, Yuxin},
-  journal={Chinese Journal of Electronics},
-  year={2026}
+  title   = {A Survey on Degraded Image Segmentation},
+  author  = {Chen, Linwei and Fu, Ying and Shangguan, Jingyu and Xu, Jinglin and Peng, Yuxin},
+  journal = {Chinese Journal of Electronics},
+  volume  = {35},
+  number  = {5},
+  pages   = {1--21},
+  year    = {2026},
+  doi     = {10.23919/cje.2025.00.245}
 }
 ```
 
